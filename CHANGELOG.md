@@ -5,12 +5,16 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2019-08-29
+- Move code to github.com/bitcoin-resources
+- New home: bitcoin-resources.com
+
 #### 2019-08-19
-- Add podcast: Hidden Forces by Demetri Kofinas
 - Add podcast: Did You Know Crypto by Dustin D.
 - Add article: Bitcoin Has No Intrinsic Value — and That’s Great by Conner Brown
 - Add podcast episode: C&G #35 with Jameson Lopp
 - Add podcast episode: TIP #252 with Trace Mayer
+- Add podcast episode: Hidden Forces #75 with Pierre Rochard
 
 #### 2019-07-01
 - Add Unhashed podcast with Ruben Somsen, Mario Gibney, Bryan Aulds, and Colin Aulds
