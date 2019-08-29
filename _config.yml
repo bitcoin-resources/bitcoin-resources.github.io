@@ -5,12 +5,12 @@ permalink: /:title/
 google_analytics:
 
 name: Gigi
-title: bitcoin-resources.com
+title: Bitcoin Resources
 description: >
   Books, Articles, Podcasts, and other curated Bitcoin resources.
 url: https://dergigi.com
 twitter_username: dergigi
-default_img: /assets/images/avatar.jpg
+default_img: /assets/images/avatar.png
 social:
   - name: twitter
     url: https://twitter.com/dergigi
