@@ -14,10 +14,8 @@ default_img: /assets/images/avatar.png
 social:
   - name: twitter
     url: https://twitter.com/dergigi
-  - name: instagram
-    url: https://www.instagram.com/dergigi/
   - name: github
-    url: https://github.com/dergigi
+    url: https://github.com/bitcoin-resources/bitcoin-resources.github.io
   - name: medium
     url: https://medium.com/@dergigi
   - name: bitcoin
