@@ -325,6 +325,11 @@ opinion - one of the most useful analogies to understand Bitcoin.
 - [Bitcoin is a Decentralized Organism][fungi1] by Brandon Quittem
 - [Bitcoin is a Social Creature][fungi2] by Brandon Quittem
 
+I explore the idea of Bitcoin as a living organism in [Proof of
+Life][proof-of-life].
+
+[proof-of-life]: https://dergigi.com/2019/08/07/proof-of-life/
+
 #### Cypherpunks
 
 Bitcoin is cypherpunk technology. Made by a cypherpunk, based on cypherpunk
