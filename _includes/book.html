@@ -8,6 +8,6 @@
   {% else %}
   <a href="{{ book.url }}">
   {% endif %}
-  <img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
+  <img src="{{ imagePath | replace: '//', '/' }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
   </a>
 </li>
