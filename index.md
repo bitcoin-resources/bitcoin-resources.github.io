@@ -26,9 +26,9 @@ understanding what Bitcoin is about. If you need a crash-course in economics I
 recommend reading [Economics in One Lesson][economics-in-one-lesson] by Henry
 Hazlitt. All three books are also available as audiobooks.
 
-[economics-in-one-lesson]: {{ '/bitcoin/resources/economics-in-one-lesson' | absolute_url }}
-[the-bitcoin-standard]: {{ '/bitcoin/resources/the-bitcoin-standard' | absolute_url }}
-[the-ethics-of-money-production]: {{ '/bitcoin/resources/the-ethics-of-money-production' | absolute_url }}
+[economics-in-one-lesson]: {{ '/books/economics-in-one-lesson' | absolute_url }}
+[the-bitcoin-standard]: {{ '/books/the-bitcoin-standard' | absolute_url }}
+[the-ethics-of-money-production]: {{ '/books/the-ethics-of-money-production' | absolute_url }}
 
 {% include books.html category='essentials' %}
 
@@ -106,7 +106,7 @@ most of which are available for [free on YouTube][aantonop-bitcoin-talks]. The
 Book Of Satoshi is a collection of Satoshi Nakamoto's writings, which are
 available for free at the [Satoshi Nakamoto Institute][complete-satoshi].
 
-[bitcoin-money]: {{ '/bitcoin/resources/bitcoin-money' | absolute_url }}
+[bitcoin-money]: {{ '/books/bitcoin-money' | absolute_url }}
 [aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0
 [complete-satoshi]: https://satoshi.nakamotoinstitute.org/
 
@@ -182,7 +182,7 @@ do can be beneficial to better understand some parts of Bitcoin. I highly
 recommend [Gödel, Escher, Bach][gödel-escher-bach] because it is a deeply
 fascinating and beautiful book.
 
-[gödel-escher-bach]: {{ '/bitcoin/resources/gödel-escher-bach' | absolute_url }}
+[gödel-escher-bach]: {{ '/books/gödel-escher-bach' | absolute_url }}
 
 {% include books.html category='computation' %}
 
@@ -195,9 +195,9 @@ Bitcoin's security is so hard. [A New Kind of Science][a-new-kind-of-science] is
 certainly not for everyone, but it beautifully shows how simple rules can lead
 to complex systems.
 
-[quantum-computing-since-democritus]: {{ '/bitcoin/resources/quantum-computing-since-democritus' | absolute_url }}
+[quantum-computing-since-democritus]: {{ '/books/quantum-computing-since-democritus' | absolute_url }}
 [quantum-computing-since-democritus-free]: https://www.scottaaronson.com/democritus/
-[a-new-kind-of-science]: {{ '/bitcoin/resources/a-new-kind-of-science' | absolute_url }}
+[a-new-kind-of-science]: {{ '/books/a-new-kind-of-science' | absolute_url }}
 
 #### Work
 

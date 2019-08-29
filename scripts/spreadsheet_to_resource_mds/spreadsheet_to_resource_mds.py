@@ -35,7 +35,7 @@ for row in books.get_all_values():
     resource_free_url = row[10]
     resource_summary = row[11]
     if row[12] != '':
-        permalink_line = 'permalink: bitcoin/resources/' + row[12] + '\n'
+        permalink_line = 'permalink: books/' + row[12] + '\n'
     else:
         permalink_line = ''
     # resource_date = row[5] if row[5] != '' else NO_DATE
