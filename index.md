@@ -1,7 +1,7 @@
 ---
 layout: resources
 title: Bitcoin Resources
-image: /assets/images/bitcoin-resources-twitter-cover.jpg
+image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Books, articles, podcasts, and other curated Bitcoin resources.
 redirect_from: resources
 ---
