@@ -22,6 +22,10 @@
       color: $color-darkgrey;
       text-decoration: none;
     }
+
+    img {
+      width: 18em;
+    }
   }
 
   &__date, &__source {
