@@ -8,6 +8,8 @@ title: Resources
 #### 2019-08-29
 - Move code to github.com/bitcoin-resources
 - New home: bitcoin-resources.com
+- Minor fixes, layout changes, and orange is the new blue
+- Add Proof of Life by Gigi
 
 #### 2019-08-19
 - Add podcast: Did You Know Crypto by Dustin D.
