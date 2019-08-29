@@ -236,9 +236,9 @@ phenomenon are explored in the following articles:
 - [Why Blockchain is Hard][blockchain-is-hard] by Jimmy Song
 - [Nobody Understands Bitcoin (And That’s OK)][nobody-understands] by Jameson Lopp
 
-I explore the multi-disciplinary nature of Bitcoin at [21lessons.com].
+I explore the multi-disciplinary nature of Bitcoin at [21Lessons.com].
 
-[21lessons.com]: http://21lessons.com
+[21Lessons.com]: http://21lessons.com
 
 #### Bitcoin's Uniqueness
 
