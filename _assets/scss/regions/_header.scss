@@ -1,8 +1,7 @@
 //----------------------------------------------
 // Header
 //----------------------------------------------
-.header,
-.bitcoin {
+.header {
   @extend %letter-spacing;
   @extend %box-shadow;
 
@@ -64,27 +63,9 @@
       a {
         color: $color-white;
       }
-    }
-  }
-}
-
-//----------------------------------------------
-// Bitcoin Header
-//----------------------------------------------
-
-img.orange {
-  border: 1px solid $color-orange;
-  background-color: $color-orange;
-}
-
-a.orange {
-  color: $color-orange;
-}
-
-.bitcoin {
-  li {
-    a:hover {
-      color: $color-orange;
+      a:hover {
+        color: $color-orange;
+      }
     }
   }
 }
