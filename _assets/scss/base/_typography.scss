@@ -1,0 +1,179 @@
+//----------------------------------------------
+// Base typography
+//----------------------------------------------
+body {
+  font-family: $font;
+  line-height: $base-lineheight;
+  color: $color-lightgrey;
+  background-color: $color-almost-black;
+}
+
+//----------------------------------------------
+// Fluid body sizing
+//----------------------------------------------
+body {
+  font-size: 100%;
+
+  @media (min-width: $mq-small) {
+    font-size: 102.5%;
+  }
+
+  @media (min-width: $mq-med) {
+    font-size: 105%;
+  }
+
+  @media (min-width: $mq-large) {
+    font-size: 107.5%;
+  }
+
+  @media (min-width: 75em) {
+    font-size: 110%;
+  }
+
+  @media (min-width: $mq-xlarge) {
+    font-size: 115%;
+  }
+
+  @media (min-width: $mq-xxlarge) {
+    font-size: 120%;
+  }
+
+  @media (min-width: $mq-xxxlarge) {
+    font-size: 125%;
+  }
+}
+
+//----------------------------------------------
+// Headings
+//----------------------------------------------
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @extend %font-header;
+
+  margin: {
+    top: 2em;
+    bottom: 0.5em;
+  }
+}
+
+
+//----------------------------------------------
+// Heading Anchors
+//----------------------------------------------
+
+.toc__anchor {
+  font-size: 85%;
+}
+
+.audio__source {
+  display:block;
+  text-align: right;
+  font-size: $font-xxsmall;
+  font-family: $font-post;
+}
+
+//----------------------------------------------
+// Headings Theme
+//----------------------------------------------
+
+.post__header h3 {
+  font-family: $font-post;
+  margin-top: 0;
+}
+
+h2:not(.posts__text):not(.related__text) {
+  $fontSize: 2em;
+
+  font-family: $font-post;
+  font-size: $fontSize;
+  line-height: 1.4;
+
+  @media (min-width: $mq-xlarge) {
+    font-size: $fontSize + 0.25em;
+  }
+}
+
+//----------------------------------------------
+// Paragraphs
+//----------------------------------------------
+p {
+  margin: {
+    top: 0.5em;
+    bottom: 0.75em;
+  }
+}
+
+//----------------------------------------------
+// Blockquote
+//----------------------------------------------
+q,
+blockquote {
+  @extend %text-center;
+
+  margin: 0 0 1.5rem;
+
+  font-family: $font-post;
+  font-weight: 300;
+  font-size: 1.2em;
+  color: $color-white;
+  line-height: 1.4;
+}
+
+cite {
+  @extend %font-header;
+
+  display: block;
+
+  margin-top: 1em;
+
+  font-family: $font;
+  font-size: $font-xxxsmall;
+  font-style: normal;
+  color: $color-white;
+  line-height: $base-lineheight;
+
+  &:before {
+    content: "\2014 \0020";
+  }
+}
+
+//----------------------------------------------
+// Misc
+//----------------------------------------------
+strong {
+  @extend %letter-spacing;
+}
+
+small {
+  font-size: $font-xsmall;
+}
+
+strong {
+  font-weight: 700;
+}
+
+sup,
+sub {
+  font-size: $font-xxsmall;
+}
+
+sup {
+  top: -0.75em;
+}
+
+sub {
+  bottom: -0.75em;
+}
+
+mark {
+  color: $color-white;
+}
+
+figcaption {
+  font-size: $font-small;
+  color: $color-darkgrey;
+}

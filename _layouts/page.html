@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<section class="post">
+  <div>
+    <div class="post__header section-padding">
+      <div class="grid-small">
+        <h2>{{ page.title }}</h2>
+        {% if page.subtitle %}
+          <h3 itemprop="name alternativeHeadline">
+            {% if page.subtitle_link %}<a href="{{ page.subtitle_link }}">{% endif %}
+            {{ page.subtitle }}
+            {% if page.subtitle_link %}</a>{% endif %}
+          </h3>
+        {% endif %}
+        {% if page.quote %}
+          <blockquote cite="{{ page.cite }}">
+            {{ page.quote }}
+          </blockquote>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="post__content section-padding">
+      <div class="grid">
+        <div id="markdown">
+          {{content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

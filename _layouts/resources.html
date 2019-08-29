@@ -1,0 +1,23 @@
+---
+layout: page
+---
+
+<ul class="resources__navigation">
+  <li><a href="#books">Books</a></li>
+  <li><a href="#articles">Articles</a></li>
+  <li><a href="#podcasts">Podcasts</a></li>
+  <li><a href="#further-resources">More</a></li>
+</ul>
+
+<hr/>
+
+{% include anchor-headings.html html=content anchorClass="toc__anchor" anchorBody="#" %}
+
+<hr/>
+
+<h3 id="toc">
+  Table of Contents
+  <a href="#toc" class="toc__anchor">#</a>
+</h3>
+
+{% include toc.html html=content class="toc" %}

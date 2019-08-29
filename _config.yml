@@ -1,0 +1,63 @@
+# Site/SEO settings
+email: hi@dergigi.com
+baseurl: ""
+permalink: /:title/
+google_analytics:
+
+name: Gigi
+title: bitcoin-resources.com
+description: >
+  Books, Articles, Podcasts, and other curated Bitcoin resources.
+url: https://dergigi.com
+twitter_username: dergigi
+default_img: /assets/images/avatar.jpg
+social:
+  - name: twitter
+    url: https://twitter.com/dergigi
+  - name: instagram
+    url: https://www.instagram.com/dergigi/
+  - name: github
+    url: https://github.com/dergigi
+  - name: medium
+    url: https://medium.com/@dergigi
+  - name: bitcoin
+    url: https://dergigi.com/support
+
+# Collections
+collections_dir: collections
+collections:
+  books:
+    title: Books
+    output: true
+    permalink: /books/:slug
+  episodes:
+    title: Episodes
+    output: true
+
+# Author settings
+author:
+  - name: Gigi
+    bio: Bio as in biological?
+    url: https://dergigi.com/contact
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+compress_html:
+  clippings: all
+  comments: all
+  startings: [html, head, body]
+exclude:
+  - env
+  - scripts
+  - node_modules
+  - .DS_Store
+  - barber.jpg
+  - Gemfile
+  - Gemfile.lock
+  - gulpfile.js
+  - package.json
+  - README.md

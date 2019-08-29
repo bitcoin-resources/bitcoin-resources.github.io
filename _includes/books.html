@@ -1,0 +1,11 @@
+{% if include.category == 'essentials' %}
+{% assign category = site.books | where: 'essential', true | sort: 'rating_order' | reverse %}
+{% else %}
+{% assign category = site.books | where: 'categories', include.category | sort: 'rating_order' | reverse %}
+{% endif %}
+
+<ul class="books">
+{% for book in category %}
+{% include book.html book=book %}
+{% endfor %}
+</ul>

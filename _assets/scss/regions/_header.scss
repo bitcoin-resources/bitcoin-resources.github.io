@@ -1,0 +1,90 @@
+//----------------------------------------------
+// Header
+//----------------------------------------------
+.header,
+.bitcoin {
+  @extend %letter-spacing;
+  @extend %box-shadow;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: $z-999;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: $header-height;
+  width: 100%;
+  padding: {
+    right: 1em;
+    left: 1em;
+  }
+
+  background-color: $color-darkergrey;
+  border-bottom: $border;
+
+  @media (min-width: $mq-small) {
+    padding: {
+      right: 2em;
+      left: 2em;
+    }
+  }
+
+  img {
+    margin-top: 0.5em;
+    height: 2.5em;
+    border-radius: 50%;
+  }
+
+  &__title {
+    @extend %font-header;
+
+    font-size: $font-xsmall;
+    color: $color-white;
+  }
+
+  &__list {
+    @extend %no-list-style;
+
+    display: flex;
+    align-items: center;
+
+    & > * {
+      @extend .header__title;
+
+      &:not(:last-child) {
+        margin-right: 1em;
+
+        @media (min-width: $mq-small) {
+          margin-right: 2em;
+        }
+      }
+
+      a {
+        color: $color-white;
+      }
+    }
+  }
+}
+
+//----------------------------------------------
+// Bitcoin Header
+//----------------------------------------------
+
+img.orange {
+  border: 1px solid $color-orange;
+  background-color: $color-orange;
+}
+
+a.orange {
+  color: $color-orange;
+}
+
+.bitcoin {
+  li {
+    a:hover {
+      color: $color-orange;
+    }
+  }
+}

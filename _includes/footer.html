@@ -1,0 +1,26 @@
+<!-- The footer at the very bottom of the screen -->
+<footer class="footer section-padding">
+  <div class="grid">
+    <div class="footer__container">
+      <p class="license">
+        <small>
+          Except where otherwise noted, content on this site is licensed under a
+          <a href="https://creativecommons.org/licenses/by/4.0/"
+          target="_blank"> Creative Commons Attribution 4.0 International
+          license</a>. If you like the content on this site, there are many ways
+          to <a href="{{ 'support' | absolute_url }}">show your support</a>.
+          Thank you for being here. &lt;3
+        </small>
+      </p>
+      {% include social.html %}
+    </div>
+  </div>
+</footer>
+
+{% if paginator.next_page %}
+  <script>
+    var maxPages = parseInt('{{ paginator.total_pages }}');
+  </script>
+{% endif %}
+
+<script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>

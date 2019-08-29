@@ -1,0 +1,11 @@
+env
+.env
+.DS_Store
+.s3-website.json
+node_modules/
+
+_site
+.sass-cache
+.jekyll-metadata
+scripts/spreadsheet_to_resource_mds/client_secret.json
+scripts/spreadsheet_to_resource_mds/__pycache__

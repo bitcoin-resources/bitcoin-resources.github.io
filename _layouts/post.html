@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<div class="post">
+  <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="post__header section-padding--double">
+      <div class="grid-small">
+        <h2 itemprop="name headline">{{ page.title }}</h2>
+        {% if page.subtitle %}
+          <h3 itemprop="name alternativeHeadline">{{ page.subtitle }}</h3>
+        {% endif %}
+        <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>
+        {% if page.source %}
+          {% capture sourceHost %}{{ page.source | remove_first: "https://" | split: "/" | first }}{% endcapture %}
+          <a href="{{ page.source }}" title="Also published on {{ sourceHost }}" target="_blank" class="post__source" itemprop="isBasedOn">{{ sourceHost }}</a>
+        {% endif %}
+      </div>
+    </div>
+
+    {% if page.image %}
+      <div class="post__img">
+        <div>
+          <figure class="absolute-bg" style="background-image: url('{{ page.image }}');">
+          </figure>
+        </div>
+      </div>
+    {% endif %}
+
+    <div class="post__content section-padding">
+      <div class="grid">
+        <div id="markdown" itemprop="articleBody" class="{{ page.numbering_style }}">
+          <img src="{{ page.image }}" style="display: none" itemprop="image"/>
+          {{content}}
+        </div>
+      </div>
+    </div>
+
+  </article>
+</div>

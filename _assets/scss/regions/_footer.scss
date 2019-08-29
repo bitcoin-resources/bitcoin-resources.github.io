@@ -1,0 +1,73 @@
+//----------------------------------------------
+// Footer
+//----------------------------------------------
+.footer {
+  color: $color-lightgrey;
+  background-color: $color-darkergrey;
+  border-top: $border;
+
+  text-align: center;
+
+  a {
+    color: $color-blue;
+  }
+
+  small {
+    color: $color-darkgrey;
+  }
+
+  ul {
+    margin-left: -2.5em;
+  }
+
+
+  &__container {
+    margin-top: 1em;
+  }
+
+  &__tags {
+    @extend %flex-center;
+    @extend %no-list-style;
+
+    flex-wrap: wrap;
+
+    & > * {
+      margin-bottom: 2em;
+
+      &:not(:last-child) {
+        margin-right: 1em;
+      }
+    }
+  }
+
+  &__link {
+    font-size: $font-small;
+    color: $color-lightgrey;
+    transition: color 200ms ease-in-out;
+
+    &:hover,
+    &:active,
+    &:focus {
+      color: $color-grey;
+    }
+  }
+
+  &__social {
+    @extend %flex-center;
+    @extend %no-list-style;
+
+    & > *:not(:last-child) {
+      margin-right: 0.75em;
+    }
+
+    a {
+      font-size: 1.25em;
+      color: $color-lightgrey;
+    }
+  }
+}
+
+main {
+  position: relative;
+  margin-top: $header-height;
+}

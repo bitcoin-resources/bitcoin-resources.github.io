@@ -1,0 +1,9 @@
+{% assign sorted_sodes = site.episodes | sort: 'date' | reverse %}
+<ul class="sodes">
+{% for sode in sorted_sodes %}
+  <li>
+    <a href="{{ sode.link }}" taret="_blank">🎧 {{ sode.title }}</a><br/>
+    {{ sode.podcast }} #{{ sode.episode }} hosted by {{ sode.hosts }}
+  </li>
+{% endfor %}
+</ul>

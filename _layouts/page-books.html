@@ -1,0 +1,30 @@
+---
+layout: page
+---
+<div class="book_flex">
+  <!-- Image -->
+  <div class="cover">
+    {% capture slugTitle %}{{ page.title | slugify }}{% endcapture %}
+    {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
+    {% capture imagePath %}{{ folderPath }}/{{ slugTitle }}.jpg{% endcapture %}
+    <img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
+  </div>
+
+  <div class="book_links">
+    <!-- Links -->
+    <p>Written by
+{% assign author_count = page.authors | size | minus: 1 %}
+{% for i in (0..author_count) %}
+{% if page.authors_twitter[i] %}<a href="{{ page.authors_twitter[i] }}">{% endif %}{{ page.authors[i] }}{% if page.authors_twitter[i] %}</a>{% endif %}{% if i != author_count %} and {% else %}.{% endif %}
+{% endfor %}
+    </p>
+    <ul class="book_reading_links">
+      {% if page.resource_url %}<li><a href="{{ page.resource_url }}">External Link</a></li>{% endif %}
+      {% if page.amazon_url %}<li><a href="{{ page.amazon_url }}">Buy on Amazon</a></li>{% endif %}
+      {% if page.wikipedia_url %}<li><a href="{{ page.wikipedia_url }}">Wikipedia</a></li>{% endif %}
+      {% if page.free_url %}<li><a href="{{ page.free_url }}">Read for free</a></li>{% endif %}
+    </ul>
+  </div>
+</div>
+
+{{content}}

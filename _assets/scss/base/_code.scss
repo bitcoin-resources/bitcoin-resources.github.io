@@ -1,0 +1,55 @@
+//----------------------------------------------
+// Code
+//----------------------------------------------
+code,
+kbd,
+pre,
+samp {
+  font-family: Courier, monospace;
+}
+
+pre,
+code {
+  color: $color-darkgrey;
+  background: $color-darkergrey;
+
+  word-wrap: breaks;
+  overflow-wrap: anywhere;
+}
+
+pre {
+  margin: {
+    top: 0;
+    bottom: 0;
+  }
+  padding: 2em 0.75em;
+
+  line-height: 1.8;
+  white-space: pre-wrap;
+
+  border-radius: 5px;
+  overflow: hidden;
+
+  @media (min-width: $mq-med) {
+    padding: {
+      right: 2em;
+      left: 2em;
+    }
+  }
+
+  #markdown & {
+    margin-bottom: 1.5rem;
+
+    @media (min-width: $mq-med) {
+      min-width: 100%;
+    }
+  }
+
+  code {
+    padding: 0;
+  }
+}
+
+code {
+  padding: 0.25em 0.5em;
+}
