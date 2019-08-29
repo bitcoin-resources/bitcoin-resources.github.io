@@ -7,7 +7,7 @@ layout: page
     {% capture slugTitle %}{{ page.title | slugify }}{% endcapture %}
     {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
     {% capture imagePath %}{{ folderPath }}/{{ slugTitle }}.jpg{% endcapture %}
-    <img src="{{ imagePath | replace: '//', '/' | absolute_url }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
+    <img src="{{ imagePath | replace: '//', '/' }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %}/>
   </div>
 
   <div class="book_links">
