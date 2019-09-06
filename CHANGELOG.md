@@ -12,6 +12,9 @@ title: Resources
 - Add Bitcoin Can’t Be Copied by Parker Lewis
 - Add Bitcoin Is Not Too Volatile by Parker Lewis
 - Add Bitcoin Is Not Too Slow by Parker Lewis
+- Add Digital Cash & Privacy by Hal Finney
+- Add The Case for Privacy by David D. Friedman
+- Add Why Bitcoin Matters for Freedom by Alex Gladstein
 
 #### 2019-08-29
 - Move code to github.com/bitcoin-resources
