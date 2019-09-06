@@ -31,6 +31,9 @@ collections:
   episodes:
     title: Episodes
     output: true
+  articles:
+    title: Articles
+    output: true
 
 # Author settings
 author:

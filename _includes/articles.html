@@ -1,0 +1,9 @@
+{% assign sorted_articles = site.articles | sort: 'date' | reverse %}
+<ul class="articles">
+{% for article in sorted_articles %}
+  <li>
+    <a href="{{ article.link }}" taret="_blank">{{ article.title }}</a><br/>
+    by {{ article.author }}
+  </li>
+{% endfor %}
+</ul>
