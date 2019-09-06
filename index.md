@@ -232,9 +232,7 @@ optimistic about Bitcoin's future.
 Bitcoin isn't exactly easy to understand. Some of the reasons for this
 phenomenon are explored in the following articles:
 
-- [Why It’s Hard to “Get” Bitcoin][blockchain-spectrum] by Dhruv Bansal
-- [Why Blockchain is Hard][blockchain-is-hard] by Jimmy Song
-- [Nobody Understands Bitcoin (And That’s OK)][nobody-understands] by Jameson Lopp
+{% include articles.html category='The Difficulty of Understanding Bitcoin' %}
 
 I explore the multi-disciplinary nature of Bitcoin at [21Lessons.com].
 
@@ -245,20 +243,14 @@ I explore the multi-disciplinary nature of Bitcoin at [21Lessons.com].
 Why Bitcoin, and not something else? Because Bitcoin matters, Bitcoin is unique,
 Bitcoin is fair, and Bitcoin is way better than you think.
 
-- [Why Bitcoin is Different][why-different] by Jimmy Song
-- [Why Bitcoin Matters][why-matters] by Aleksandar Svetski
-- [Bitcoin is Worse is Better][worse-better] by Gwern
-- [Bitcoin Has No Intrinsic Value — and That’s Great][intrinsic-value] by Conner Brown
-- [Bitcoin’s distribution was fair][distribution-fair] by Dan Held
-- [There is no Bitcoin 2.0][no-bitcoin-2.0] by Pete Dushenski
+{% include articles.html category="Bitcoin's Uniqueness" %}
 
 #### Money
 
 If you aren't ready yet to read [books on money][money], these articles are a
 great entry point to start learning about the purpose and history of money.
 
-- [Shelling Out: The Origins of Money][shelling-out] by Nick Szabo
-- [Money, blockchains, and social scalability][social-scalability] by Nick Szabo
+{% include articles.html category='Money' %}
 
 #### Proof-of-work
 
@@ -267,11 +259,7 @@ Bitcoin puzzle. It solves multiple problems, making it one of the most integral
 parts of the system. The following articles explore proof-of-work in more
 detail:
 
-- [The Anatomy of Proof-of-Work][pow-anatomy] by Hugo Nguyen
-- [Work is Timeless, Stake is Not][pow-timeless] by Hugo Nguyen
-- [Bitcoin Doesn't Waste Electricity][no-waste] by Beautyon
-- [Nothing is Cheaper than Proof of Work][pow-cheapest] by Paul Sztorc
-- [Blockchain Proof-of-Work Is a Decentralized Clock][decentralized-clock] by Gregory Trubetskoy
+{% include articles.html category='Proof-of-work' %}
 
 I wrote about how I changed my view on proof of work in [Bitcoin's Energy
 Consumption: A shift in perspective][energy-consumption] and in [Lesson 17][lesson-17].
@@ -286,12 +274,7 @@ network (Bitcoin), money (bitcoin), software (various implementations), an idea
 (the white paper), an immutable record of ownership (Bitcoin's ledger, aka the
 "block chain"), a movement, a monetary revolution, and more.
 
-- [Bitcoin’s Existential Crisis][be-a-bitcoin] (original title: What is it like to be a Bitcoin?) by Nic Carter
-- [The Many Faces of Bitcoin][many-faces] by Murad Mahmudov and Adam Taché
-- [Bitcoin: Past and Future][past-and-future] by Murad Mahmudov and Adam Taché
-- [Bitcoin is. And that is enough.][bitcoin-is] by Beautyon
-- [That’s not Bitcoin, this is Bitcoin][that-this] by StopAndDecrypt
-- [That’s not Bitcoin, that’s BCash][that-this] by StopAndDecrypt
+{% include articles.html category="Bitcoin's Identity" %}
 
 I explored Bitcoin's identity in [Lesson 4][lesson-4].
 
@@ -304,10 +287,7 @@ it... but who controls it?" The question of control is not an easy one to
 answer, because you have to understand the whole system on a pretty deep level
 to answer it. The following articles might help.
 
-- [Bitcoin Governance][bitcoin-governance] by Pierre Rochard
-- [Unpacking Bitcoin's Social Contract][social-contract] by Hasu
-- [Bitcoin Miners Beware: Invalid Blocks Need Not Apply][invalid-blocks] by StopAndDecrypt
-- [Why America Can’t Regulate Bitcoin][cant-regulate] by Beautyon
+{% include articles.html category="Who Controls Bitcoin?" %}
 
 I explore the question of control (and censorability) in [Lesson 6][lesson-6]
 and in [The Magic Dust of Cryptography][magic-dust].
@@ -321,9 +301,7 @@ Ralph Merkle famously called Bitcoin ["the first example of a new form of
 life."][dao-merkle]. Others developed this idea further, which is - in my
 opinion - one of the most useful analogies to understand Bitcoin.
 
-- [Foreword to The Bitcoin Standard][taleb-foreword] by Nassim Nicholas Taleb
-- [Bitcoin is a Decentralized Organism][fungi1] by Brandon Quittem
-- [Bitcoin is a Social Creature][fungi2] by Brandon Quittem
+{% include articles.html category="Bitcoin as a Living Organism" %}
 
 I explore the idea of Bitcoin as a living organism in [Proof of
 Life][proof-of-life].
@@ -336,9 +314,7 @@ Bitcoin is cypherpunk technology. Made by a cypherpunk, based on cypherpunk
 ideas. I consider exposure to the ideas and ideals of cypherpunk culture
 essential.
 
-- [A Cypherpunk's Manifesto][cypherpunks-manifesto] by Eric Hughes
-- [The Crypto Anarchist Manifesto][crypto-anarchist-manifesto] by Timothy C. May
-- [The Cyphernomicon][cyphernomicon] by Timothy C. May
+{% include articles.html category="Cypherpunks" %}
 
 #### Privacy
 
@@ -347,28 +323,14 @@ privacy in Bitcoin is not a given, there are various ways to transact privately.
 The following resources discuss these possibilities, why the right to transact
 privately is essential, and why it has to be protected.
 
-- [Bitcoin and Privacy][snowden-privacy] by Edward Snowden
-- [Protect Your Privacy][bitcoin-privacy] by Bitcoin.org
-- [The Case for Electronic Cash][coincenter-privacy-pdf] by Jerry Brito
-- [We Must Protect our Ability to Transact Privately Online][coincenter-privacy] by Jerry Brito
-- [How Private is Bitcoin?][how-private-is-btc] by Eric Wall
-- [Bitcoin Wiki's Privacy Aritcle][wiki-privacy] written in large parts by Chris Belcher
-- [FAQ for Hodl Privacy][faq-hodl-privacy] by 6102bitcoin
-- [FAQ for Wasabi Wallet][faq-wasabi] by 6102bitcoin
-- [FAQ for Samourai Wallet's Whirlpool][faq-whirlpool] by 6102bitcoin
+{% include articles.html category="Privacy" %}
 
 #### Misc
 
 The following are what I consider excellent articles that didn't fit into one
 of my arbitrarily chosen categories above.
 
-- [The God Protocols][god-protocols] by Nick Szabo
-- [Trusted Third Parties Are Security Holes][security-holes] by Nick Szabo
-- [The Bitcoin Halving and Monetary Competition][bitcoin-halving] by Saifedean Ammous
-- [Everyone's a Scammer][everyone-scammer] by Michael Goldstein
-- [Guess My Bitcoin Private Key][guess-pk] by Michael Kerbleski
-- [Stage n: Bitcoin exists][stage-n] by Mircea Popescu
-- [An Open Letter to Banks about Bitcoin and Cryptocurrencies][open-letter] by Peter McCormack
+{% include articles.html category="Misc" %}
 
 ---
 
