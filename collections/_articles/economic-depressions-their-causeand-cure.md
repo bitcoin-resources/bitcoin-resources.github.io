@@ -1,7 +1,7 @@
 ---
 layout: page
 author: Murray N. Rothbard
-title: Economic Depressions: Their Cause and Cure
+title: Economic Depressions - Their Cause and Cure
 link: 
 category: 
 date: 1111-11-11
