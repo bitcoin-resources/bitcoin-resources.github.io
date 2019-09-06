@@ -29,7 +29,7 @@ for row in articles.get_all_values():
     article_lesson = row[5].lstrip().rstrip()
     article_quote = row[6]
 
-    md_file_path = '../../collections/_articles/' + sode_podcast + str(sode_episode) + '.md'
+    md_file_path = title_to_file_path(resource_title, 'articles')
     if md_file_path == "":
         continue
 
