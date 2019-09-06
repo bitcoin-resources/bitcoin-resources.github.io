@@ -215,6 +215,8 @@ these books are for you.
 
 ### Articles
 
+{% include articles.html category='Misc' %}
+
 Many amazing articles have been written about Bitcoin. I am aware that trying to
 link to all of them is futile, but I want to make an effort and at least
 highlight some of them. I highly recommend the [literature listed][sni] at the
