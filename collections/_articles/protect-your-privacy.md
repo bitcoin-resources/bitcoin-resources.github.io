@@ -5,6 +5,6 @@ title: Protect Your Privacy
 link: https://bitcoin.org/en/protect-your-privacy
 category: Privacy
 date: Oct 2, 2013
-lesson: 
+lesson: 19
 quote: 
 ---
