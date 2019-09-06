@@ -5,6 +5,14 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+
+#### 2019-09-06
+- Add Gradually, Then Suddenly by Parker Lewis
+- Add Bitcoin Does Not Waste Energy by Parker Lewis
+- Add Bitcoin Can’t Be Copied by Parker Lewis
+- Add Bitcoin Is Not Too Volatile by Parker Lewis
+- Add Bitcoin Is Not Too Slow by Parker Lewis
+
 #### 2019-08-29
 - Move code to github.com/bitcoin-resources
 - New home: bitcoin-resources.com
