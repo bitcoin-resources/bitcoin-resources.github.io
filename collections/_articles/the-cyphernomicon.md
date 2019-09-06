@@ -5,6 +5,6 @@ title: The Cyphernomicon
 link: https://ia600208.us.archive.org/10/items/cyphernomicon/cyphernomicon.txt
 category: Cypherpunks
 date: Sep 10, 1994
-lesson: 
+lesson: 20
 quote: 
 ---
