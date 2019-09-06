@@ -276,7 +276,7 @@ network (Bitcoin), money (bitcoin), software (various implementations), an idea
 
 {% include articles.html category="Bitcoin's Identity" %}
 
-I explored Bitcoin's identity in [Lesson 4][lesson-4].
+I explore Bitcoin's identity in [Lesson 4][lesson-4].
 
 [lesson-4]: https://21lessons.com/4
 
