@@ -14,6 +14,7 @@ client = gspread.authorize(creds)
 
 books = client.open("Bitcoin Resources").worksheet("Books")
 sodes = client.open("Bitcoin Resources").worksheet("Sodes")
+articles = client.open("Bitcoin Resources").worksheet("Articles")
 
 NO_DATE = "1111-11-11"
 NO_AUTHOR_LINKS = ""
@@ -114,6 +115,37 @@ for row in sodes.get_all_values():
                 f"guest: {sode_guest}\n"
                 f"lesson: {sode_lesson}\n"
                 f"link: {sode_link}\n"
+                f"---\n")
+
+    with open(md_file_path, 'w') as f:
+        f.write(md_file)
+
+for row in articles.get_all_values():
+    if row[0] == 'Author':
+        continue
+
+    article_author = row[0]
+    article_title = row[1].lstrip().rstrip()
+    article_link = row[2].lstrip().rstrip()
+    article_category = row[3]
+    article_date = row[4] if row[4] != '' else NO_DATE
+    article_lesson = row[5].lstrip().rstrip()
+    article_quote = row[6]
+
+    md_file_path = '../../collections/_articles/' + sode_podcast + str(sode_episode) + '.md'
+    if md_file_path == "":
+        continue
+
+    md_file = (
+                f"---\n"
+                f"layout: page\n"
+                f"author: {article_author}\n"
+                f"title: {article_title}\n"
+                f"link: {article_link}\n"
+                f"category: {article_category}\n"
+                f"date: {article_date}\n"
+                f"lesson: {article_lesson}\n"
+                f"quote: {article_quote}\n"
                 f"---\n")
 
     with open(md_file_path, 'w') as f:
