@@ -126,6 +126,7 @@
 [ab]: https://github.com/igorbarinov/awesome-bitcoin
 [mises]: https://mises.org/library
 [unenumerated]: https://unenumerated.blogspot.com/
+[adaptive-capital]: https://adaptivecapital.co/blog.html
 
 <!-- Papers -->
 [bitcoin-whitepaper]: https://bitcoin.org/bitcoin.pdf

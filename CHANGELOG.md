@@ -15,6 +15,7 @@ title: Resources
 - Add Digital Cash & Privacy by Hal Finney
 - Add The Case for Privacy by David D. Friedman
 - Add Why Bitcoin Matters for Freedom by Alex Gladstein
+- Add link to Bitcoin Publications and Talks by Adaptive Capital
 
 #### 2019-08-29
 - Move code to github.com/bitcoin-resources
