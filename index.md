@@ -276,7 +276,7 @@ network (Bitcoin), money (bitcoin), software (various implementations), an idea
 
 {% include articles.html category="Bitcoin's Identity" %}
 
-I explored Bitcoin's identity in [Lesson 4][lesson-4].
+I explore Bitcoin's identity in [Lesson 4][lesson-4].
 
 [lesson-4]: https://21lessons.com/4
 
@@ -418,6 +418,7 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Featured Episodes of the Cryptoconomy Podcast][guy-episodes-curated] curated by Infominer
 - [Bitcoin Archive][bitcoin-archive] by Max Hillebrand
 - [Bitcoin Rabbit Hole][brh] by Adam Taché
+- [Bitcoin Publications and Talks][adaptive-capital] by Adaptive Capital
 - [Bitcoin Learning Master List][blml] by Nick Ward
 - [Awesome What is Bitcoin][awib] list by CypherPoet
 - [Awesome Bitcoin][ab] list of libraries and APIs by Igor Barinov
