@@ -12,4 +12,5 @@ amazon_url:
 wikipedia_url: 
 free_url: https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
 rating_order: 8
+lesson: ['']
 ---

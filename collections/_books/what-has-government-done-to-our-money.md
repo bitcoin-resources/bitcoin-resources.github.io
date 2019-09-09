@@ -12,4 +12,5 @@ amazon_url: https://www.amazon.com/dp/1610166450
 wikipedia_url: 
 free_url: https://mises-media.s3.amazonaws.com/What%20Has%20Government%20Done%20to%20Our%20Money_3.pdf
 rating_order: 
+lesson: ['11']
 ---

@@ -12,4 +12,5 @@ amazon_url: https://www.amazon.com/dp/1579550088
 wikipedia_url: 
 free_url: 
 rating_order: 5
+lesson: ['']
 ---

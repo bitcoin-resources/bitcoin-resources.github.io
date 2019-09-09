@@ -6,6 +6,6 @@ episode: 51
 hosts: Stephan Livera
 date: Feb 5, 2019
 guest: Jörg Guido Hülsmann
-lesson: 12, 13
+lesson: ['13', ' 12']
 link: https://stephanlivera.com/episode/51
 ---
