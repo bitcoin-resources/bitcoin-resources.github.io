@@ -11,5 +11,6 @@ resource_url: https://www.bookofsatoshi.com/
 amazon_url: https://www.amazon.com/dp/0996061312
 wikipedia_url: 
 free_url: https://satoshi.nakamotoinstitute.org/
-rating_order: 
+rating_order: 6
+lesson: ['']
 ---

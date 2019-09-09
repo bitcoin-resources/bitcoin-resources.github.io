@@ -13,4 +13,5 @@ wikipedia_url:
 free_url: 
 permalink: books/it-doesnt-have-to-be-crazy-at-work
 rating_order: 10
+lesson: ['']
 ---

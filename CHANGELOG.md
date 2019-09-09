@@ -5,6 +5,9 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2019-09-09
+- Add book: The Little Bitcoin Book
+- Add podcast episode: WBD #49 with Peter Van Valkenburg
 
 #### 2019-09-06
 - Add Gradually, Then Suddenly by Parker Lewis

@@ -12,4 +12,5 @@ amazon_url: https://www.amazon.com/dp/1610166558
 wikipedia_url: 
 free_url: https://mises.org/sites/default/files/sound_money_salerno.pdf
 rating_order: 
+lesson: ['14']
 ---

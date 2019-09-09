@@ -27,7 +27,7 @@ for row in sodes.get_all_values():
     sode_date = row[3] if row[3] != '' else NO_DATE
     sode_guest = row[4].lstrip().rstrip()
     sode_title = sode_guest + ' ' + row[5].lstrip().rstrip()
-    sode_lesson = row[7]
+    sode_lesson = row[7].lstrip().rstrip().split(',')
     sode_link = row[8]
 
     md_file_path = '../../collections/_episodes/' + sode_podcast + str(sode_episode) + '.md'

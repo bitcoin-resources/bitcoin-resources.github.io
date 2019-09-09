@@ -38,6 +38,7 @@ for row in books.get_all_values():
     else:
         permalink_line = ''
     resource_rating_order = row[13]
+    resource_lesson = row[14].lstrip().rstrip().split(',')
     resource_excerpt = get_excerpt_from_page(resource_url)
 
     md_file_path = title_to_file_path(resource_title, resource_type)
@@ -60,6 +61,7 @@ for row in books.get_all_values():
                 f"free_url: {resource_free_url}\n"
                 f"{permalink_line}"
                 f"rating_order: {resource_rating_order}\n"
+                f"lesson: {resource_lesson}\n"
                 f"---\n")
 
     with open(md_file_path, 'w') as f:

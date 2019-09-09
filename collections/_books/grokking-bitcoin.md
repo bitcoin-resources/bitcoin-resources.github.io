@@ -12,4 +12,5 @@ amazon_url: https://www.amazon.com/dp/1617294640
 wikipedia_url: 
 free_url: https://github.com/kallerosenbaum/grokkingbitcoin
 rating_order: 7
+lesson: ['']
 ---
