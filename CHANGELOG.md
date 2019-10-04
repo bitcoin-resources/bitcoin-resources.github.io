@@ -14,6 +14,8 @@ title: Resources
   - Fooled by Randomness
   - Antifragile
   - The Bed of Procrustes
+- Add podcast: Bitcoin Rapid-Fire with John Vallis
+- Add episode: BRF #16 with Yan Pritzker
 
 #### 2019-09-09
 - Add book: The Little Bitcoin Book
