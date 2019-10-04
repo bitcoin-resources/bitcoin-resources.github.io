@@ -7,5 +7,5 @@ hosts: John Vallis
 date: Sep 27, 2019
 guest: Yan Pritzker
 lesson: ['7']
-link: https://pca.st/5h2xyzap
+link: https://anchor.fm/john-vallis/episodes/Further-Discussion-Yan-Pritzker-e5jlsh
 ---
