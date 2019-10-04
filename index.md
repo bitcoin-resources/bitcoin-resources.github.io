@@ -73,7 +73,7 @@ roughly grouped by topics as follows:
 - [Banking][banking]
 - [Software and Programming][software-and-programming]
 - [Computation and Complexity Theory][computation-and-complexity-theory]
-- [Incerto Series][incerto-series]
+- [Nassim Taleb (Incerto Series)][nassim-taleb]
 - [Work][work]
 
 [bitcoin-non-technical]: #bitcoin-non-technical
@@ -83,7 +83,7 @@ roughly grouped by topics as follows:
 [banking]: #banking
 [software-and-programming]: #software-and-programming
 [computation-and-complexity-theory]: #computation-and-complexity-theory
-[incerto-series]: #incerto-series
+[nassim-taleb]: #nassim-taleb
 [work]: #work
 
 I hope to update this list continually as my reading progresses.
@@ -201,9 +201,14 @@ to complex systems.
 [quantum-computing-since-democritus-free]: https://www.scottaaronson.com/democritus/
 [a-new-kind-of-science]: {{ '/books/a-new-kind-of-science' | absolute_url }}
 
-#### Incerto Series
+#### Nassim Taleb
 
-[Nassim Taleb][nntaleb] wrote multiple books on one grand idea: highly improbably events, such as the invention of Bitcoin, are almost impossible to predict and ... TODO
+Highly improbably events, such as the invention of Bitcoin, are almost
+impossible to predict. However, [Nassim Nicholas Taleb][nntaleb] wrote multiple
+books on concepts which help to foster a solid understanding of Bitcoin. In
+short, the invention of Bitcoin is a *Black Swan* event resulting in an
+*antifragile* organism. Miners are *"fooled by randomness"* to keep it alive,
+and participation requires *skin in the game*.
 
 {% include books.html category='taleb' %}
 
