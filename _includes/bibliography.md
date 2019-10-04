@@ -9,6 +9,7 @@
 [slp]: https://stephanlivera.com/
 [wbd]: https://www.whatbitcoindid.com/
 
+[brf]: https://anchor.fm/john-vallis/
 [bkp]: https://www.bitcoin.kn/about/
 [cryptoconomy]: https://cryptoconomy.life/
 [bec]: https://bitcoinechochamber.com/
