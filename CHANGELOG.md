@@ -5,6 +5,10 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2019-10-04
+- Add article section: A Social Revolution
+- A most peaceful revolution by Nic Carter
+
 #### 2019-09-09
 - Add book: The Little Bitcoin Book
 - Add podcast episode: WBD #49 with Peter Van Valkenburg

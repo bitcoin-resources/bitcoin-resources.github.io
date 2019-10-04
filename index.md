@@ -280,6 +280,23 @@ I explore Bitcoin's identity in [Lesson 4][lesson-4].
 
 [lesson-4]: https://21lessons.com/4
 
+#### A Social Revolution
+
+Bitcoin is not only a technological, financial, and monetary phenomenon, it is
+also a global revolution. Bitcoin captures the hearts and minds of people all
+over the world, changing society in the process. Today, tens of thousands of
+"closet bitcoiners" exist worldwide, and Bitcoin has developed a zealous cult
+following.
+
+{% include articles.html category='A Social Revolution' %}
+
+I explore some of the societal impacts in [Lesson 1][lesson-1] and wrote about
+some of these impacts - in relation to current affairs - in [The Rise of the
+Sovereign Individual][rise-of-the-sovereign-individual].
+
+[lesson-1]: https://21lessons.com/1
+[rise-of-the-sovereign-individual]: https://medium.com/bull-bitcoin/the-rise-of-the-sovereign-individual-2201eee82f00
+
 #### Who Controls Bitcoin?
 
 One of the first responses of people learning about Bitcoin is "Yeah yeah I get
