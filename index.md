@@ -73,6 +73,7 @@ roughly grouped by topics as follows:
 - [Banking][banking]
 - [Software and Programming][software-and-programming]
 - [Computation and Complexity Theory][computation-and-complexity-theory]
+- [Incerto Series][incerto-series]
 - [Work][work]
 
 [bitcoin-non-technical]: #bitcoin-non-technical
@@ -82,6 +83,7 @@ roughly grouped by topics as follows:
 [banking]: #banking
 [software-and-programming]: #software-and-programming
 [computation-and-complexity-theory]: #computation-and-complexity-theory
+[incerto-series]: #incerto-series
 [work]: #work
 
 I hope to update this list continually as my reading progresses.
@@ -198,6 +200,14 @@ to complex systems.
 [quantum-computing-since-democritus]: {{ '/books/quantum-computing-since-democritus' | absolute_url }}
 [quantum-computing-since-democritus-free]: https://www.scottaaronson.com/democritus/
 [a-new-kind-of-science]: {{ '/books/a-new-kind-of-science' | absolute_url }}
+
+#### Incerto Series
+
+[Nassim Taleb][nntaleb] wrote multiple books on one grand idea: highly improbably events, such as the invention of Bitcoin, are almost impossible to predict and ... TODO
+
+{% include books.html category='taleb' %}
+
+[nntaleb]: https://twitter.com/nntaleb
 
 #### Work
 
