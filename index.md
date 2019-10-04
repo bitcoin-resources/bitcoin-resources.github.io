@@ -203,9 +203,9 @@ to complex systems.
 
 #### Nassim Taleb
 
-Highly improbably events, such as the invention of Bitcoin, are almost
+Highly improbable events, such as the invention of Bitcoin, are almost
 impossible to predict. However, [Nassim Nicholas Taleb][nntaleb] wrote multiple
-books on concepts which help to foster a solid understanding of Bitcoin. In
+books on concepts that help to foster a solid understanding of Bitcoin. In
 short, the invention of Bitcoin is a *Black Swan* event resulting in an
 *antifragile* organism. Miners are *"fooled by randomness"* to keep it alive,
 and participation requires *skin in the game*.
