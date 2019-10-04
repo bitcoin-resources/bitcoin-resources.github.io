@@ -8,6 +8,12 @@ title: Resources
 #### 2019-10-04
 - Add article section: A Social Revolution
 - A most peaceful revolution by Nic Carter
+- Add books by Nassim Taleb:
+  - The Black Swan
+  - Skin in the Game
+  - Fooled by Randomness
+  - Antifragile
+  - The Bed of Procrustes
 
 #### 2019-09-09
 - Add book: The Little Bitcoin Book
