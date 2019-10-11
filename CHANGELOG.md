@@ -10,6 +10,7 @@ title: Resources
 - Re-order podcast list
 - Add article: How Lightning Layers Privacy on Top of Bitcoin by Aaron van Wirdum
 - Add article: Dandelions, and a Bright Future for Bitcoin Privacy by Guy Swann
+- Add article: It’s the settlement assurances, stupid by Nic Carter
 
 #### 2019-10-04
 - Add article section: A Social Revolution
