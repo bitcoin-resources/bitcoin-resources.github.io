@@ -5,6 +5,12 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2019-10-11
+- Add book: Bitcoin, Sovereignty through mathematics by Knut Svanholm
+- Re-order podcast list
+- Add article: How Lightning Layers Privacy on Top of Bitcoin by Aaron van Wirdum
+- Add article: Dandelions, and a Bright Future for Bitcoin Privacy by Guy Swann
+
 #### 2019-10-04
 - Add article section: A Social Revolution
 - A most peaceful revolution by Nic Carter
