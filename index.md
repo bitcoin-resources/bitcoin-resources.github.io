@@ -379,7 +379,7 @@ I consider the following podcasts the best in the space:
 - [Tales From The Crypt][tftc] by Marty Bent with RHR co-host Matt Odell
 - [Noded][noded] by Pierre Rochard and Michael Goldstein
 - [Stephan Livera Podcast][slp] by Stephan Livera
-- [Bitcoin Rapid Fire][brf] by John Vallis
+- [Bitcoin-Rapid Fire][brf] by John Vallis
 
 Although I try to listen to every Bitcoin podcast under the sun, it is simply an
 unsurmountable feat due to the sheer volume of content. The following podcasts
