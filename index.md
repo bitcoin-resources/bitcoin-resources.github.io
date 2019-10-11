@@ -377,16 +377,16 @@ episodes can be found [here][interviews].
 I consider the following podcasts the best in the space:
 
 - [Tales From The Crypt][tftc] by Marty Bent with RHR co-host Matt Odell
-- [Noded][noded] by Pierre Rochard and Michael Goldstein
 - [Stephan Livera Podcast][slp] by Stephan Livera
-- [What Bitcoin Did][wbd] by Peter McCormack
+- [Bitcoin-Rapid Fire][brf] by John Vallis
+- [Noded][noded] by Pierre Rochard and Michael Goldstein
 
 Although I try to listen to every Bitcoin podcast under the sun, it is simply an
 unsurmountable feat due to the sheer volume of content. The following podcasts
 are excellent as well:
 
+- [What Bitcoin Did][wbd] by Peter McCormack
 - [The Cryptoconomy][cryptoconomy] by Guy Swann
-- [Bitcoin Rapid Fire][brf] by John Vallis
 - [Bitcoin Echo Chamber][bec] by Heavily Armed Clown
 - [Citizen Bitcoin][cb] by Brady
 - [Bitcoin and...][ba] by David Bennet
