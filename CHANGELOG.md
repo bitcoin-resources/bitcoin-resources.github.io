@@ -5,6 +5,12 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2019-10-26
+- Add curation: WTF Happened in 1971
+- Add podcast episode: TFTC 107 with American Hodl
+- Add podcast episode: Bitcoin Rapid Fire 21 with Vortex
+- Add podcast episode: TFTC 99 with Raoul Pal
+
 #### 2019-10-11
 - Add book: Bitcoin, Sovereignty through mathematics by Knut Svanholm
 - Re-order podcast list
