@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Raoul Pal on the state of the global financial system and Bitcoin as an alternative system
+title: Raoul Pal on Macroeconomics and Bitcoin as an Alternative
 podcast: TFTC
 episode: 99
 hosts: Marty Bent
