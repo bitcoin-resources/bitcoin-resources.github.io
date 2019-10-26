@@ -457,6 +457,7 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Awesome Bitcoin][ab] list of libraries and APIs by Igor Barinov
 - [Mises Library][mises] by The Mises Institute
 - [Unenumerated][unenumerated] by Nick Szabo
+- [WTF Happened In 1971?][wtf1971] by Ben Prentice and Collin
 
 ---
 

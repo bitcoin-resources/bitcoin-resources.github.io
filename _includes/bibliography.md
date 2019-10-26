@@ -128,6 +128,7 @@
 [mises]: https://mises.org/library
 [unenumerated]: https://unenumerated.blogspot.com/
 [adaptive-capital]: https://adaptivecapital.co/blog.html
+[wtf1971]: https://wtfhappenedin1971.com/
 
 <!-- Papers -->
 [bitcoin-whitepaper]: https://bitcoin.org/bitcoin.pdf
