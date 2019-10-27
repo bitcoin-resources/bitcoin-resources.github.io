@@ -1,4 +1,4 @@
-# Contributing to bitcoin-resources.com
+## Contributing to bitcoin-resources.com
 
 Hey, thanks for taking the time to contribute! You're awesome! 🎉
 
@@ -22,3 +22,5 @@ is to provide a well curated list of high-quality bitcoin-only resources.
 2. Implement the change (use a separate branch)
 3. [Create a pull-request](https://github.com/bitcoin-resources/bitcoin-resources.github.io/pulls)
 4. Other contributors will review and approve the pull-request
+
+Refer to the [README.md](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/README.md) if you have troubles with getting up and running.
