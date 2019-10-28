@@ -1,7 +1,7 @@
 ---
 layout: page-books
 title: Antifragile
-subtitle: Philosophical and Practical Aphorisms
+subtitle: Things That Gain From Disorder
 essential: 
 categories: ['taleb']
 authors: ['Nassim Nicholas Taleb']
