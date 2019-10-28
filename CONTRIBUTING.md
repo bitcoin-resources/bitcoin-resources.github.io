@@ -3,7 +3,7 @@
 Hey, thanks for taking the time to contribute! You're awesome! 🎉
 
 The goal of the [bitcoin-resources.com](https://bitcoin-resources.com) project
-is to provide a well curated list of high-quality bitcoin-only resources.
+is to provide a well curated list of high quality bitcoin-only resources.
 
 ### Before you start
 
