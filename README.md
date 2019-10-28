@@ -8,6 +8,14 @@ If you find any typos, grammatical errors, broken links, or any other mistakes o
 
 For more details on how to contribute please refer to the [contribution guidelines](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md).
 
+### Build the site locally
+
+1. Install [Jekyll](https://jekyllrb.com/docs/installation/)
+2. Clone the repository and `cd` into the site's directory
+3. Run `npm run gulp` to build assets
+4. Run `bundle exec jekyll serve` to build the site
+5. Visit `localhost:4000` to view the site
+
 ---
 
 Created with :heart: by Gigi.
