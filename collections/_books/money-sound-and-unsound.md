@@ -10,7 +10,7 @@ excerpt: Ludwig von Mises said that there can never be too much of a good theory
 resource_url: https://mises.org/library/money-sound-and-unsound-1
 amazon_url: https://www.amazon.com/dp/1610166558
 wikipedia_url: 
-free_url: https://mises.org/sites/default/files/sound_money_salerno.pdf
+free_url: https://mises-media.s3.amazonaws.com/Money%2C%20Sound%20and%20Unsound_2.pdf
 rating_order: 
 lesson: ['14']
 ---
