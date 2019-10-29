@@ -1,7 +1,7 @@
 ---
 layout: page-books
 title: The Bed Of Procrustes
-subtitle: Things That Gain From Disorder
+subtitle: Philosophical and Practical Aphorisms
 essential: 
 categories: ['taleb']
 authors: ['Nassim Nicholas Taleb']
