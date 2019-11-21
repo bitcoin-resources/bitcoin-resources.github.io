@@ -129,6 +129,7 @@
 [unenumerated]: https://unenumerated.blogspot.com/
 [adaptive-capital]: https://adaptivecapital.co/blog.html
 [wtf1971]: https://wtfhappenedin1971.com/
+[crypto-words]: https://cryptowords.github.io/
 
 <!-- Papers -->
 [bitcoin-whitepaper]: https://bitcoin.org/bitcoin.pdf
