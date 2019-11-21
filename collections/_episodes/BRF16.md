@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Yan Pritzker on Inventing Bitcoin and Bitcoin Education
+title: Hass McCook on Energy, the Environment, and Exaltation
 podcast: BRF
 episode: 16
 hosts: John Vallis
-date: Sep 27, 2019
-guest: Yan Pritzker
-lesson: ['7']
-link: https://anchor.fm/john-vallis/episodes/Further-Discussion-Yan-Pritzker-e5jlsh
+date: Oct 7, 2019
+guest: Hass McCook
+lesson: ['']
+link: https://anchor.fm/john-vallis/episodes/Further-Discussion-Hass-McCook-e6d4ln
 ---
