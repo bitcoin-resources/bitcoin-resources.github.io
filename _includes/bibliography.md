@@ -27,20 +27,6 @@
 [dykc]: https://didyouknowcrypto.com
 [ba]: https://twitter.com/bennd77
 
-<!-- Podcast Episodes -->
-[tftc29]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-29-Jameson-Lopp-e1qndr
-[tftc34]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-34-Murad-Mahmudov-e1qndn
-[otc25]: https://player.fm/series/off-the-chain-2428336/murad-mahmudov-the-ultimate-bitcoin-argument
-[pov22]: https://medium.com/pov-crypto/pov-crypto-episode-22-why-ether-is-bad-money-w-ansel-lindner-71154308a71a
-[tftc55]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-55-BitcoinTINA-aka-Rick-Flex-e2vpt9
-[tftc60]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-60-Misir-Mahmudov-e3aibh
-[slp67]: https://stephanlivera.com/episode/67
-[slp71]: https://stephanlivera.com/episode/71
-[wbd109]: https://www.whatbitcoindid.com/podcast/luke-dashjr-on-300k-blocks-and-full-nodes
-[tip244]: https://www.theinvestorspodcast.com/episodes/tip244-bitcoin-101-tuur-demeester/
-[slp75]: https://stephanlivera.com/episode/75
-[tftc76]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-76-Alex-Gladstein-e46v9e
-
 <!-- Videos -->
 [aantonop-intro]: https://www.youtube.com/watch?v=l1si5ZWLgy0
 [aantonop-stories]: https://www.youtube.com/watch?v=ONvg9SbauMg
