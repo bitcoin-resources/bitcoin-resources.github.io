@@ -5,6 +5,15 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2019-11-21
+- Add podcast episodes:
+  - SLP #151 with Trace Mayer
+  - BRF #16 with Hass McCook
+  - TFTC #7 with Matt Corallo
+  - TFTC #85 with Paranoid Bull
+  - TFTC #89 with Bitcoin TINA and Alpha Zeta
+- Add curation: Crypto Words by Joe Rodgers
+
 #### 2019-10-26
 - Add curation: WTF Happened in 1971
 - Add podcast episode: TFTC 107 with American Hodl
@@ -28,7 +37,7 @@ title: Resources
   - Antifragile
   - The Bed of Procrustes
 - Add podcast: Bitcoin Rapid-Fire with John Vallis
-- Add episode: BRF #16 with Yan Pritzker
+- Add episode: BRF #12 with Yan Pritzker
 
 #### 2019-09-09
 - Add book: The Little Bitcoin Book
