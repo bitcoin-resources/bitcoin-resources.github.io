@@ -6,7 +6,7 @@ essential:
 categories: ['software']
 authors: ['Eric S. Raymond']
 authors_twitter: 
-excerpt: 
+excerpt: .
 resource_url: http://www.catb.org/~esr/writings/cathedral-bazaar
 amazon_url: https://amazon.com/dp/0596001088
 wikipedia_url: 
