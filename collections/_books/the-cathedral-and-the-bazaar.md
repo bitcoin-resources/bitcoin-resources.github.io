@@ -6,11 +6,11 @@ essential:
 categories: ['software']
 authors: ['Eric S. Raymond']
 authors_twitter: 
-excerpt: Free software means that the software's users have freedom. (The issue is not about price.) We developed the GNU operating system so that users can have freedom in their computing. Specifically, free software means users have the four essential freedoms (0) to run the program, (1) to study and change the program in source code form, (2) to redistribute exact copies, and (3) to distribute modified versions.
-resource_url: https://www.gnu.org/philosophy/
-amazon_url: 
+excerpt: 
+resource_url: http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
+amazon_url: https://amazon.com/dp/0596001088
 wikipedia_url: 
-free_url: https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
+free_url:
 rating_order: 8
 lesson: ['']
 ---
