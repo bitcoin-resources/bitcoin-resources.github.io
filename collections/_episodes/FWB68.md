@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Francis Pouliot on Bitcoin Maximalism, Monetary Maximalism, Skin & Soul in the Game, and the Remnant
+title: Francis Pouliot on Maximalism and Soul in the Game
 podcast: FWB
 episode: 68
 hosts: Coinicarus
