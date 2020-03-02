@@ -17,15 +17,18 @@
 [ci]: https://contrarianisland.com
 [cag]: https://twitter.com/cryptoandgrill
 [cv]: https://cryptovoices.com/
+[ob]: https://anchor.fm/daniel-prince6/
 
 [rr]: https://www.buzzsprout.com/263522
 [ltb]: https://letstalkbitcoin.com/blog/category/episodes
 [unhashed]: https://www.unhashedpodcast.com/
-[fwc]: https://funwithcrypto.libsyn.com/
+[fwb]: https://www.funwithbitcoin.com/Podcast
 [pov]: https://medium.com/pov-crypto
 [bsb]: https://bottomshelfbitcoin.com/
 [dykc]: https://didyouknowcrypto.com
 [ba]: https://twitter.com/bennd77
+[bpt]: https://anchor.fm/saintbitcoin/
+[buc]: https://bitcoinundco.com/en/
 
 <!-- Videos -->
 [aantonop-intro]: https://www.youtube.com/watch?v=l1si5ZWLgy0
