@@ -6,6 +6,10 @@ title: Resources
 ### Bitcoin Resources Changelog
 
 #### 2020-03-01
+- Add podcasts:
+  - Once BITten! by Daniel Prince
+  - Bitcoin & Co. by Anita Posch
+  - Bitcoin Pleb Talk by Saint Bitcoin
 - Add podcast episodes:
   - BM #73 with Bitcoin Tina
 
