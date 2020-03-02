@@ -27,6 +27,8 @@
 [bsb]: https://bottomshelfbitcoin.com/
 [dykc]: https://didyouknowcrypto.com
 [ba]: https://twitter.com/bennd77
+[bpt]: https://anchor.fm/saintbitcoin/
+[buc]: https://bitcoinundco.com/en/
 
 <!-- Videos -->
 [aantonop-intro]: https://www.youtube.com/watch?v=l1si5ZWLgy0

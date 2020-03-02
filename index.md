@@ -402,6 +402,8 @@ distinction. I enjoy or have enjoyed these podcasts as well:
 - [The Bitcoin Knowledge Podcast][bkp] by Trace Mayer
 - [Unhashed Podcast][unhashed] with Ruben Somsen, Mario Gibney, Bryan Aulds, and Colin Aulds
 - [Crypto & Grill][cag] by CryptoDantes and StigofthePump
+- [Bitcoin Pleb Talk][bpt] by Saint Bitcoin
+- [Bitcoin & Co.][buc] by Anita Posch
 - [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
 - [POV Crypto][pov] by David Hoffman and Christian Keroles
 - [Contrarian Island][ci] by MD
