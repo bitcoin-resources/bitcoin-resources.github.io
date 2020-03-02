@@ -5,6 +5,10 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-03-01
+- Add podcast episodes:
+  - BM #73 with Bitcoin Tina
+
 #### 2020-02-26
 - Add podcast episodes:
   - Noded #56 with BTCDCA
