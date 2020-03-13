@@ -8,7 +8,7 @@ authors: ['Richard Stallman']
 authors_twitter: 
 excerpt: .
 resource_url: 
-amazon_url: https://www.amazon.com/dp/1441436200
+amazon_url: https://amzn.to/3aQY2uO
 wikipedia_url: 
 free_url: 
 rating_order: 10

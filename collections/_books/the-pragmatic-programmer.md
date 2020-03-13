@@ -8,7 +8,7 @@ authors: ['Andy Hunt', ' Dave Thomas']
 authors_twitter: 
 excerpt: .
 resource_url: 
-amazon_url: https://www.amazon.com/dp/020161622X
+amazon_url: https://amzn.to/33cjmZ3
 wikipedia_url: 
 free_url: 
 rating_order: 4
