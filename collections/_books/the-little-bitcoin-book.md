@@ -8,7 +8,7 @@ authors: ['Timi Ajiboye', ' Luis Buenaventura', ' Alex Gladstein', ' Lily Liu', 
 authors_twitter: ['https://twitter.com/LittleBitcoinBk']
 excerpt: .
 resource_url: https://littlebitcoinbook.com
-amazon_url: https://www.amazon.com/dp/1641990503
+amazon_url: https://amzn.to/2Q7tcWz
 wikipedia_url: 
 free_url: 
 rating_order: 9
