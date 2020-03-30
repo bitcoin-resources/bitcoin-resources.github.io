@@ -461,7 +461,7 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Mises Library][mises] by The Mises Institute
 - [Unenumerated][unenumerated] by Nick Szabo
 - [WTF Happened In 1971?][wtf1971] by Ben Prentice and Collin
-- [Crypto Words - A monthly Bitcoin Journal][crypto-words] by Joe Rodgers
+- [WORDS - A monthly Bitcoin journal][words] by Joe Rodgers
 - [bitcoiners.best][bitcoiners-best] by Brady, Mr. Poopy Bitcoin, Pablof7z, and Bootstrap Bandit
 
 ---

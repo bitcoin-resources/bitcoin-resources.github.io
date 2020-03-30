@@ -62,7 +62,7 @@
 [unenumerated]: https://unenumerated.blogspot.com/
 [adaptive-capital]: https://adaptivecapital.co/blog.html
 [wtf1971]: https://wtfhappenedin1971.com/
-[crypto-words]: https://cryptowords.github.io/
+[words]: https://bitcoinwords.github.io/
 [bitcoiners-best]: https://bitcoiners.best/
 
 <!-- Papers -->
