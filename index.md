@@ -390,20 +390,23 @@ are excellent as well:
 - [Bitcoin Echo Chamber][bec] by Heavily Armed Clown
 - [Citizen Bitcoin][cb] by Brady
 - [Bitcoin and...][ba] by David Bennet
+- [Fun With Bitcoin][fwb] by Coinicarus
 - [Crypto Voices][cv] by Matthew Mežinskis and Fernando Ulrich
-- [The Bitcoin Knowledge Podcast][bkp] by Trace Mayer
-- [Contrarian Island][ci] by MD
+- [Once BITten!][ob] by Daniel Prince
 
 The line between the best and the rest is quite arbitrary, but I felt like one
 very long list might not be as useful as separate lists, however arbitrary the
 distinction. I enjoy or have enjoyed these podcasts as well:
 
 - [Let's Talk Bitcoin][ltb] with Adam B. Levine, Andreas Antonopoulos, Stephanie Murphy, and Jonathan Mohan
+- [The Bitcoin Knowledge Podcast][bkp] by Trace Mayer
 - [Unhashed Podcast][unhashed] with Ruben Somsen, Mario Gibney, Bryan Aulds, and Colin Aulds
 - [Crypto & Grill][cag] by CryptoDantes and StigofthePump
+- [Bitcoin Pleb Talk][bpt] by Saint Bitcoin
+- [Bitcoin & Co.][buc] by Anita Posch
 - [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
-- [Fun With Crypto][fwc] by Coinicarus
 - [POV Crypto][pov] by David Hoffman and Christian Keroles
+- [Contrarian Island][ci] by MD
 - [Did You Know Crypto][dykc] by Dustin D.
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
 
@@ -459,6 +462,7 @@ you are looking for longer, more varied lists, the following got you covered:
 - [Unenumerated][unenumerated] by Nick Szabo
 - [WTF Happened In 1971?][wtf1971] by Ben Prentice and Collin
 - [WORDS - A monthly Bitcoin journal][words] by Joe Rodgers
+- [bitcoiners.best][bitcoiners-best] by Brady, Mr. Poopy Bitcoin, Pablof7z, and Bootstrap Bandit
 
 ---
 

@@ -8,7 +8,7 @@ authors: ['Andreas Antonopoulos']
 authors_twitter: ['https://twitter.com/aantonop']
 excerpt: .
 resource_url: 
-amazon_url: https://www.amazon.com/dp/1449374042
+amazon_url: https://amzn.to/33eDSID
 wikipedia_url: 
 free_url: https://github.com/bitcoinbook/bitcoinbook
 rating_order: 9

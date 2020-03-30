@@ -8,7 +8,7 @@ authors: ['Yan Pritzker']
 authors_twitter: ['https://twitter.com/skwp']
 excerpt: .
 resource_url: 
-amazon_url: https://www.amazon.com/dp/B07MWXRWNB/
+amazon_url: https://amzn.to/38HHio9
 wikipedia_url: 
 free_url: 
 rating_order: 9

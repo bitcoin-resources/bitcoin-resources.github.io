@@ -5,6 +5,25 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-03-01
+- Add podcasts:
+  - Once BITten! by Daniel Prince
+  - Bitcoin & Co. by Anita Posch
+  - Bitcoin Pleb Talk by Saint Bitcoin
+- Add podcast episodes:
+  - BM #73 with Bitcoin Tina
+
+#### 2020-02-26
+- Add podcast episodes:
+  - Noded #56 with BTCDCA
+  - SLP #93 with Raoul Pal
+  - WBD #183 with Parker Lewis
+  - WBD #192 with Travis Kling
+  - BM #67, #70, and #73 with Bitcoin Tina
+  - FWB #68 with Francis Pouliot
+- Add book: On The Origins Of Money by Carl Menger
+- Add curation: bitcoiners.best
+
 #### 2019-11-21
 - Add podcast episodes:
   - SLP #151 with Trace Mayer

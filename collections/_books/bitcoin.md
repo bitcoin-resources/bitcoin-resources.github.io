@@ -8,7 +8,7 @@ authors: ['Knut Svanholm']
 authors_twitter: 
 excerpt: .
 resource_url: 
-amazon_url: https://www.amazon.com/Bitcoin-Sovereignty-mathematics-Knut-Svanholm/dp/1090109911
+amazon_url: https://amzn.to/39LUHNb
 wikipedia_url: 
 free_url: 
 rating_order: 5

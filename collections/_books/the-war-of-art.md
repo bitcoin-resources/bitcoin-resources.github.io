@@ -8,7 +8,7 @@ authors: ['Steven Pressfield']
 authors_twitter: 
 excerpt: .
 resource_url: 
-amazon_url: https://www.amazon.com/dp/1501260626
+amazon_url: https://amzn.to/3cRMzwI
 wikipedia_url: 
 free_url: 
 rating_order: 9

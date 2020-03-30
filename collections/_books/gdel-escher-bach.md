@@ -8,7 +8,7 @@ authors: ['Douglas Hofstadter']
 authors_twitter: 
 excerpt: .
 resource_url: 
-amazon_url: https://www.amazon.com/dp/0465026567
+amazon_url: https://amzn.to/2w50C1t
 wikipedia_url: 
 free_url: 
 permalink: books/gödel-escher-bach
