@@ -8,7 +8,7 @@ authors: ['Nathaniel Popper']
 authors_twitter: ['https://twitter.com/nathanielpopper']
 excerpt: .
 resource_url: 
-amazon_url: https://www.amazon.com/dp/006236250X
+amazon_url: https://amzn.to/2W6LBXr
 wikipedia_url: 
 free_url: 
 rating_order: 
