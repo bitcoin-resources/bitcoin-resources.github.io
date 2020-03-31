@@ -13,4 +13,6 @@ wikipedia_url:
 free_url: https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
 rating_order: 10
 lesson: ['']
+audio_url: 
+free_audio_url: 
 ---

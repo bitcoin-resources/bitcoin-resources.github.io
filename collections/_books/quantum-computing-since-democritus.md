@@ -13,4 +13,6 @@ wikipedia_url:
 free_url: https://www.scottaaronson.com/democritus/
 rating_order: 7
 lesson: ['']
+audio_url: 
+free_audio_url: 
 ---

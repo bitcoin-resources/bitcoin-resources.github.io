@@ -13,4 +13,6 @@ wikipedia_url:
 free_url: 
 rating_order: 10
 lesson: ['2', ' 9']
+audio_url: https://amzn.to/2QXPgn4
+free_audio_url: 
 ---

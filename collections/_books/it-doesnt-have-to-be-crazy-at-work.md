@@ -14,4 +14,6 @@ free_url:
 permalink: books/it-doesnt-have-to-be-crazy-at-work
 rating_order: 10
 lesson: ['']
+audio_url: https://amzn.to/2UOCsk1
+free_audio_url: 
 ---
