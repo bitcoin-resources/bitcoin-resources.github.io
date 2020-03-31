@@ -16,6 +16,9 @@ title: Resources
   - Bitcoin not blockchain by Parker Lewis
   - Bitcoin obsoletes all other money by Parker Lewis
   - Enders game by Parker Lewis
+- Add podcast series:
+  - Beginner's Guide to Bitcoin by Peter McCormack
+  - Bitcoin Matters by Beautyon
 
 #### 2020-03-01
 - Add podcasts:
