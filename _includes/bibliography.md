@@ -49,6 +49,22 @@
 [16]: https://www.whatbitcoindid.com/podcast/beginners-guide-16-the-future-of-bitcoin-with-jeremy-welch
 [17]: https://www.whatbitcoindid.com/podcast/beginners-guide-17-fuck-you-bitcoin-with-john-carvalho
 [bitcoin-matters]: https://www.youtube.com/playlist?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b1]: https://youtu.be/BpBy3P1dPNE?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b2]: https://youtu.be/0jPi-6VCoi4?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b3]: https://youtu.be/gV5q-A3iA9c?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b4]: https://youtu.be/vpKDiZZz8Z8?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b5]: https://youtu.be/pwjY-5VPYp8?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b6]: https://youtu.be/f2q4DWQfQ2w?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b7]: https://youtu.be/COGW1pHAgEA?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b8]: https://youtu.be/icLKch5Mqlg?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b9]: https://youtu.be/1kuDCYBihyE?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b10]: https://youtu.be/PU7zf5466GU?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b11]: https://youtu.be/RA1Vf8OjZtg?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b12]: https://youtu.be/zFKzAE70r3s?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b13]: https://youtu.be/sD0bHNMCwoc?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b14]: https://youtu.be/0cuKAfFAO08?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b15]: https://youtu.be/IeJa4d1WZ8k?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[b16]: https://youtu.be/6BoJxhAhrjA?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
 
 <!-- Videos -->
 [aantonop-intro]: https://www.youtube.com/watch?v=l1si5ZWLgy0
