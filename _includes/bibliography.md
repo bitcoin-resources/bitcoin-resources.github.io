@@ -30,6 +30,26 @@
 [bpt]: https://anchor.fm/saintbitcoin/
 [buc]: https://bitcoinundco.com/en/
 
+<!-- Podcast Series -->
+[1]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-1-andreas-m-antonopoulos-on-why-we-need-bitcoin
+[2]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-2-what-is-money-with-parker-lewis
+[3]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-3-bitcoins-pre-history-and-the-cypherpunks-with-aaron-van-wirdum
+[4]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-4-what-is-bitcoin-with-stephan-livera
+[5]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-5-the-history-of-bitcoin-with-marty-bent
+[6]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-6-how-bitcoin-works-with-shinobi
+[7]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-7-bitcoins-monetary-policy-with-dan-held
+[8]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-8-how-is-bitcoin-legal-with-peter-van-valkenburgh-jerry-brito
+[9]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-9-altcoins-a-history-of-failure-with-nic-carter
+[10]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-10-buying-spending-and-earning-bitcoin-with-matt-odell
+[11]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-11-bitcoin-and-the-macroeconomy-with-travis-kling
+[12]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-12-bitcoin-privacy-opsec
+[13]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-13-the-lightning-network-with-jack-mallers
+[14]: https://www.whatbitcoindid.com/podcast/the-beginners-guide-to-bitcoin-part-14-bitcoin-things-you-need-to-know-with-peter-mccormack
+[15]: https://www.whatbitcoindid.com/podcast/beginners-guide-15-bitcoin-fud-with-nic-carter
+[16]: https://www.whatbitcoindid.com/podcast/beginners-guide-16-the-future-of-bitcoin-with-jeremy-welch
+[17]: https://www.whatbitcoindid.com/podcast/beginners-guide-17-fuck-you-bitcoin-with-john-carvalho
+[bitcoin-matters]: https://www.youtube.com/playlist?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+
 <!-- Videos -->
 [aantonop-intro]: https://www.youtube.com/watch?v=l1si5ZWLgy0
 [aantonop-stories]: https://www.youtube.com/watch?v=ONvg9SbauMg
