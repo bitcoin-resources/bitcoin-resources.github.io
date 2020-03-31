@@ -5,6 +5,18 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-03-31
+- Add articles:
+  - Bitcoin cannot be banned by Parker Lewis
+  - Bitcoin fixes this by Parker Lewis
+  - Bitcoin is not backed by nothing by Parker Lewis
+  - Bitcoin is not for criminals by Parker Lewis
+  - Bitcoin is not a pyramid scheme by Parker Lewis
+  - Bitcoin is a rally cry by Parker Lewis
+  - Bitcoin not blockchain by Parker Lewis
+  - Bitcoin obsoletes all other money by Parker Lewis
+  - Enders game by Parker Lewis
+
 #### 2020-03-01
 - Add podcasts:
   - Once BITten! by Daniel Prince
