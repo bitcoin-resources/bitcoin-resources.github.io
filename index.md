@@ -410,6 +410,11 @@ distinction. I enjoy or have enjoyed these podcasts as well:
 - [Did You Know Crypto][dykc] by Dustin D.
 - [Bottomshelf Bitcoin][bsb] by Josh Humphrey
 
+#### Noteworthy Podcast Series
+
+- [The Beginner's Guide to Bitcoin][1] ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17]) by Peter McCormack
+- [Bitcoin Matters][bitcoin-matters] ([1][b1], [2][b2], [3][b3], [4][b4], [5][b5], [6][b6], [7][b7], [8][b8], [9][b9], [10][b10], [11][b11], [12][b12], [13][b13], [14][b14], [15][b15], [16][b16]) by Beautyon
+
 #### Selected Podcast Episodes
 
 Some "evergreen" episodes were recorded in the last couple of years. Again, this
