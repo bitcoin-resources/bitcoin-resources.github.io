@@ -13,4 +13,6 @@ wikipedia_url:
 free_url: https://mises.org/sites/default/files/The%20Ethics%20of%20Money%20Production_2.pdf
 rating_order: 9
 lesson: ['14']
+audio_url: 
+free_audio_url: 
 ---

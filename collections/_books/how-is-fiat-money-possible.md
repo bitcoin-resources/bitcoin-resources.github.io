@@ -13,4 +13,6 @@ wikipedia_url:
 free_url: https://mises-media.s3.amazonaws.com/rae7_2_3_3.pdf
 rating_order: 
 lesson: ['12']
+audio_url: 
+free_audio_url: 
 ---

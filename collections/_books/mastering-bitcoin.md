@@ -13,4 +13,6 @@ wikipedia_url:
 free_url: https://github.com/bitcoinbook/bitcoinbook
 rating_order: 9
 lesson: ['']
+audio_url: 
+free_audio_url: 
 ---
