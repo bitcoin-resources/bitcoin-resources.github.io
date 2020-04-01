@@ -19,7 +19,7 @@ is to provide a well curated list of high quality bitcoin-only resources.
 ### Implementing a change
 
 1. Clone the repository
-2. Implement the change (use a separate branch)
+2. Implement the change
 3. [Create a pull-request](https://github.com/bitcoin-resources/bitcoin-resources.github.io/pulls)
 4. Other contributors will review and approve the pull-request
 
