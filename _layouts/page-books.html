@@ -18,6 +18,7 @@ layout: page
 {% if page.authors_twitter[i] %}<a href="{{ page.authors_twitter[i] }}">{% endif %}{{ page.authors[i] }}{% if page.authors_twitter[i] %}</a>{% endif %}{% if i != author_count %} and {% else %}.{% endif %}
 {% endfor %}
     </p>
+
     <ul class="book_reading_links">
       {% if page.resource_url %}<li><a href="{{ page.resource_url }}">External Link</a></li>{% endif %}
       {% if page.amazon_url %}<li><a href="{{ page.amazon_url }}">Buy on Amazon</a></li>{% endif %}
@@ -26,6 +27,7 @@ layout: page
       {% if page.audio_url %}<li><a href="{{ page.audio_url }}">Listen on Audible</a></li>{% endif %}
       {% if page.free_audio_url %}<li><a href="{{ page.free_audio_url }}">Listen for free</a></li>{% endif %}
     </ul>
+    <p>{{ page.excerpt }}</p>
   </div>
 </div>
 
