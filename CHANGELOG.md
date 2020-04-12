@@ -5,6 +5,9 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-04-12
+- Add article: The Number Zero and Bitcoin by Robert Breedlove
+
 #### 2020-03-31
 - Add articles:
   - Bitcoin cannot be banned by Parker Lewis
