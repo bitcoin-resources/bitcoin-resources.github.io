@@ -71,6 +71,7 @@ roughly grouped by topics as follows:
 - [Economics][economics]
 - [Money][money]
 - [Banking][banking]
+- [The Big Picture][the-big-picture]
 - [Software and Programming][software-and-programming]
 - [Computation and Complexity Theory][computation-and-complexity-theory]
 - [Nassim Taleb (Incerto Series)][nassim-taleb]
@@ -81,6 +82,7 @@ roughly grouped by topics as follows:
 [economics]: #economics
 [money]: #money
 [banking]: #banking
+[the-big-picture]: #the-big-picture
 [software-and-programming]: #software-and-programming
 [computation-and-complexity-theory]: #computation-and-complexity-theory
 [nassim-taleb]: #nassim-taleb
