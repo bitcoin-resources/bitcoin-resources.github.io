@@ -6,6 +6,9 @@ title: Resources
 ### Bitcoin Resources Changelog
 
 #### 2020-04-12
+- Add article: Bitcoin is Common Sense by Parker Lewis
+
+#### 2020-04-12
 - Add article: The Number Zero and Bitcoin by Robert Breedlove
 
 #### 2020-03-31
