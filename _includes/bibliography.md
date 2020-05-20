@@ -4,7 +4,7 @@
 
 <!-- Podcasts -->
 
-[tftc]: https://tftc.io/tales-from-the-crypt/
+[tftc]: https://tftc.io/podcasts/
 [noded]: https://noded.org/
 [slp]: https://stephanlivera.com/
 [wbd]: https://www.whatbitcoindid.com/
