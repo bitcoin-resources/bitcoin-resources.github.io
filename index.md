@@ -405,7 +405,7 @@ unsurmountable feat due to the sheer volume of content. The following podcasts
 are excellent as well:
 
 - [What Bitcoin Did][wbd] by Peter McCormack
-- [The Cryptoconomy][cryptoconomy] by Guy Swann
+- [Bitcoin Audible][cryptoconomy] by Guy Swann
 - [Bitcoin Echo Chamber][bec] by Heavily Armed Clown
 - [Citizen Bitcoin][cb] by Brady
 - [Bitcoin and...][ba] by David Bennet
