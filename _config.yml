@@ -32,6 +32,9 @@ collections:
   articles:
     title: Articles
     output: true
+  podcasts:
+    title: Podcasts
+    output: true
 
 # Author settings
 author:
