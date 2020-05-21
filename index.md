@@ -395,39 +395,19 @@ episodes can be found [here][interviews].
 
 I consider the following podcasts the best in the space:
 
-- [Tales From The Crypt][tftc] by Marty Bent with RHR co-host Matt Odell
-- [Stephan Livera Podcast][slp] by Stephan Livera
-- [Bitcoin-Rapid Fire][brf] by John Vallis
-- [Noded][noded] by Pierre Rochard and Michael Goldstein
+{% include podcasts.html tier="1" %}
 
 Although I try to listen to every Bitcoin podcast under the sun, it is simply an
 unsurmountable feat due to the sheer volume of content. The following podcasts
 are excellent as well:
 
-- [What Bitcoin Did][wbd] by Peter McCormack
-- [Bitcoin Audible][cryptoconomy] by Guy Swann
-- [Bitcoin Echo Chamber][bec] by Heavily Armed Clown
-- [Citizen Bitcoin][cb] by Brady
-- [Bitcoin and...][ba] by David Bennet
-- [Fun With Bitcoin][fwb] by Coinicarus
-- [Crypto Voices][cv] by Matthew Mežinskis and Fernando Ulrich
-- [Once BITten!][ob] by Daniel Prince
+{% include podcasts.html tier="2" %}
 
 The line between the best and the rest is quite arbitrary, but I felt like one
 very long list might not be as useful as separate lists, however arbitrary the
 distinction. I enjoy or have enjoyed these podcasts as well:
 
-- [Let's Talk Bitcoin][ltb] with Adam B. Levine, Andreas Antonopoulos, Stephanie Murphy, and Jonathan Mohan
-- [The Bitcoin Knowledge Podcast][bkp] by Trace Mayer
-- [Unhashed Podcast][unhashed] with Ruben Somsen, Mario Gibney, Bryan Aulds, and Colin Aulds
-- [Crypto & Grill][cag] by CryptoDantes and StigofthePump
-- [Bitcoin Pleb Talk][bpt] by Saint Bitcoin
-- [Bitcoin & Co.][buc] by Anita Posch
-- [Reckless Review][rr] by Udi Wertheimer and Lawrence Nahum
-- [POV Crypto][pov] by David Hoffman and Christian Keroles
-- [Contrarian Island][ci] by MD
-- [Did You Know Crypto][dykc] by Dustin D.
-- [Bottomshelf Bitcoin][bsb] by Josh Humphrey
+{% include podcasts.html tier="3" %}
 
 #### Noteworthy Podcast Series
 
