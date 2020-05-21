@@ -7,7 +7,7 @@
     {% if page.subtitle %}
       {{ page.title | escape }} - {{ page.subtitle | escape }} | {{ site.title }}
     {% else %}
-      {{ page.title | escape }} 
+      {{ page.title | escape }}
     {% endif %}
   {% else %}
     {{ site.title | escape }}
@@ -57,6 +57,7 @@
 <meta name="theme-color" content="#ffffff">
 
 <link rel="stylesheet" href="{{ '/assets/css/app.min.css' | prepend: site.baseurl }}">
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
 <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl }}">
 <link rel="canonical" href="{{ page.url | replace: 'index.html', '' | prepend: site.baseurl }}">
