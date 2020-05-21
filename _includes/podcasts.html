@@ -1,0 +1,13 @@
+{% assign sorted_pods = site.podcasts | where: 'tier', include.tier | sort: 'rank' %}
+
+<ul class="podcasts">
+{% for pod in sorted_pods %}
+  <li>
+    <a href="{{ pod.rss }}" target="_blank"><i class="fa fa-rss"></i></a>
+    <a href="{{ pod.ios }}" target="_blank"><i class="fa fa-apple"></i></a>
+    <a href="{{ pod.android }}" target="_blank"><i class="fa fa-android"></i></a>
+    <a href="{{ pod.link }}" target="_blank">{{ pod.name }}</a> by {{ pod.hosts }}
+    <a href="{{ pod.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+  </li>
+{% endfor %}
+</ul>
