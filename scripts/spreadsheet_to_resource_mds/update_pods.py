@@ -31,7 +31,7 @@ for row in sodes.get_all_values():
     pod_rss = row[8].lstrip().rstrip().split(',')
     pod_rank = row[9]
     pod_twitter = row[10].lstrip().rstrip()
-    pod_youtube = row[11].lstrip().rstrip()
+    pod_youtube = row[11].lstrip().rstrip() if row[11] != '' else EMPTY
 
     md_file_path = '../../collections/_podcasts/' + pod_code + '.md'
     if md_file_path == "":
