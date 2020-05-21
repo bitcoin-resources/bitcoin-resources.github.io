@@ -3,6 +3,7 @@
 <ul class="podcasts">
 {% for pod in sorted_pods %}
   <li>
+    <a href="{{ pod.rss }}" target="_blank"><i class="fa fa-rss"></i></a>
     <a href="{{ pod.link }}" target="_blank">{{ pod.name }}</a> by {{ pod.hosts }}
   </li>
 {% endfor %}
