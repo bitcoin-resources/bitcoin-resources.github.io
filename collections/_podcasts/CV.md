@@ -9,7 +9,7 @@ ios: https://podcasts.apple.com/lv/podcast/crypto-voices/id1193136560
 android: ['https://feeds.soundcloud.com/users/soundcloud:users:246365412/sounds.rss']
 spotify: https://open.spotify.com/show/2BRaReAosQX2xra2h10PRL?si=HStxHOaSR3uz-6wtNONCiw
 rss: ['https://feeds.soundcloud.com/users/soundcloud:users:246365412/sounds.rss']
-rank: 7
+rank: 11
 twitter: https://twitter.com/crypto_voices
 youtube: 
 ---

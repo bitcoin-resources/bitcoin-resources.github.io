@@ -3,10 +3,23 @@
 <ul class="podcasts">
 {% for pod in sorted_pods %}
   <li>
+    <a href="{{ pod.link }}" target="_blank">{{ pod.name }}</a>
+    [
     <a href="{{ pod.rss }}" target="_blank"><i class="fa fa-rss"></i></a>
     <a href="{{ pod.ios }}" target="_blank"><i class="fa fa-apple"></i></a>
     <a href="{{ pod.android }}" target="_blank"><i class="fa fa-android"></i></a>
-    <a href="{{ pod.link }}" target="_blank">{{ pod.name }}</a> by {{ pod.hosts }}
+    {% if pod.youtube or pod.spotify %}
+    |
+    {% endif %}
+    {% if pod.youtube %}
+    <a href="{{ pod.youtube }}" target="_blank"><i class="fa fa-youtube"></i></a>
+    {% endif %}
+    {% if pod.spotify %}
+    <a href="{{ pod.spotify }}" target="_blank"><i class="fa fa-spotify"></i></a>
+    {% endif %}
+    ]
+    <br/>
+    by {{ pod.hosts }}
     <a href="{{ pod.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
   </li>
 {% endfor %}
