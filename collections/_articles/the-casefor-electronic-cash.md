@@ -6,5 +6,4 @@ link: https://coincenter.org/files/2019-02/the-case-for-electronic-cash-coin-cen
 category: Privacy
 date: Feb 6, 2019
 lesson: 19
-quote: 
 ---

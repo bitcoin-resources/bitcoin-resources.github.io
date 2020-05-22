@@ -6,5 +6,4 @@ link: https://github.com/6102bitcoin/FAQ/blob/master/whirlpool.md
 category: Privacy
 date: Jul 7, 2019
 lesson: 19
-quote: 
 ---

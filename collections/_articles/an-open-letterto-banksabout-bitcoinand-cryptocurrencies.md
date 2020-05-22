@@ -6,5 +6,4 @@ link: https://hackernoon.com/an-open-letter-to-banks-about-bitcoin-and-cryptocur
 category: Misc
 date: Mar 4, 2018
 lesson: 
-quote: 
 ---

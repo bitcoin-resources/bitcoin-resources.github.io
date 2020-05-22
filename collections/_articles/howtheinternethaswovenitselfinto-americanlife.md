@@ -6,5 +6,4 @@ link: https://www.pewinternet.org/2014/02/27/part-1-how-the-internet-has-woven-i
 category: Lesson Links
 date: Feb 27, 2014
 lesson: 21
-quote: 
 ---

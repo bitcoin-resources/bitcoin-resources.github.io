@@ -6,5 +6,4 @@ link: https://hackernoon.com/bitcoin-miners-beware-invalid-blocks-need-not-apply
 category: Who Controls Bitcoin?
 date: Jun 1, 2018
 lesson: 
-quote: 
 ---

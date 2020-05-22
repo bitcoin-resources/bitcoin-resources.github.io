@@ -6,5 +6,4 @@ link: https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-myc
 category: Bitcoin as a Living Organism
 date: Dec 11, 2018
 lesson: 1
-quote: 
 ---

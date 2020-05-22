@@ -6,5 +6,4 @@ link: https://grisha.org/blog/2018/01/23/explaining-proof-of-work/
 category: Proof-of-work
 date: Jan 23, 2018
 lesson: 17
-quote: 
 ---

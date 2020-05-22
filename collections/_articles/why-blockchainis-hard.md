@@ -6,5 +6,4 @@ link: https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c
 category: The Difficulty of Understanding Bitcoin
 date: May 14, 2018
 lesson: 
-quote: 
 ---

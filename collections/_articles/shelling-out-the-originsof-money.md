@@ -6,5 +6,4 @@ link: https://nakamotoinstitute.org/shelling-out/
 category: Money
 date: Dec 17, 2002
 lesson: 11
-quote: 
 ---

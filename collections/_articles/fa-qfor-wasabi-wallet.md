@@ -6,5 +6,4 @@ link: https://github.com/6102bitcoin/FAQ/blob/master/wasabi.md
 category: Privacy
 date: May 2, 2019
 lesson: 19
-quote: 
 ---
