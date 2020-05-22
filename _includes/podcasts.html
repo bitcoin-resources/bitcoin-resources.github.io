@@ -3,9 +3,9 @@
 <ul class="podcasts">
 {% for pod in sorted_pods %}
   <li>
+    <a href="{{ pod.rss }}" target="_blank"><i class="fa fa-rss"></i></a>
     <a href="{{ pod.link }}" target="_blank">{{ pod.name }}</a>
     [
-    <a href="{{ pod.rss }}" target="_blank"><i class="fa fa-rss"></i></a>
     <a href="{{ pod.ios }}" target="_blank"><i class="fa fa-apple"></i></a>
     <a href="{{ pod.android }}" target="_blank"><i class="fa fa-android"></i></a>
     {% if pod.youtube or pod.spotify %}
