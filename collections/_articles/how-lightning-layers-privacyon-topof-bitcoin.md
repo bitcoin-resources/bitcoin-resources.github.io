@@ -6,5 +6,4 @@ link: https://bitcoinmagazine.com/articles/how-the-lightning-network-layers-priv
 category: Privacy
 date: Dec 19, 2016
 lesson: 19
-quote: 
 ---

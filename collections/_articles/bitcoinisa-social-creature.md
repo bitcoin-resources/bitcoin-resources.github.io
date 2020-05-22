@@ -6,5 +6,4 @@ link: https://medium.com/@BrandonQuittem/bitcoin-is-a-social-creature-mushroom-p
 category: Bitcoin as a Living Organism
 date: Dec 28, 2018
 lesson: 1
-quote: 
 ---

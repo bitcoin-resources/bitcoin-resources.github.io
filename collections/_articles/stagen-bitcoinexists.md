@@ -6,5 +6,4 @@ link: http://trilema.com/2013/stage-n-bitcoin-exists/
 category: Misc
 date: Feb 4, 2013
 lesson: 
-quote: 
 ---

@@ -6,5 +6,4 @@ link: https://medium.com/coinmonks/bitcoin-has-no-intrinsic-value-and-thats-grea
 category: Bitcoin's Uniqueness
 date: May 8, 2019
 lesson: 10
-quote: 
 ---

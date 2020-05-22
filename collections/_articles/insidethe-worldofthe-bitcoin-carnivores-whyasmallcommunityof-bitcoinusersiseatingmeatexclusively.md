@@ -6,5 +6,4 @@ link: https://motherboard.vice.com/en_us/article/ne74nw/inside-the-world-of-the-
 category: Lesson Links
 date: Sep 29, 2017
 lesson: 1
-quote: 
 ---

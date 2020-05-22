@@ -6,5 +6,4 @@ link: https://www.thrivenotes.com/the-7-network-effects-of-bitcoin/
 category: Lesson Links
 date: Jan 25, 2016
 lesson: 21
-quote: 
 ---

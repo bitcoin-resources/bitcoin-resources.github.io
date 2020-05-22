@@ -6,5 +6,4 @@ link: https://medium.com/@francispouliot/catallaxy-the-origins-of-bitcoin-and-in
 category: A Social Revolution
 date: Sep 19, 2017
 lesson: 5
-quote: 
 ---

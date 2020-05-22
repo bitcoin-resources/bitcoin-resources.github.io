@@ -6,5 +6,4 @@ link: https://github.com/6102bitcoin/FAQ/blob/master/hodl-privacy.md
 category: Privacy
 date: Jun 5, 2019
 lesson: 19
-quote: 
 ---

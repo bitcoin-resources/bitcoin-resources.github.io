@@ -6,5 +6,4 @@ link: https://hackernoon.com/bitcoin-past-and-future-f2feba1f419d
 category: Bitcoin's Identity
 date: May 30, 2018
 lesson: 
-quote: 
 ---

@@ -6,5 +6,4 @@ link: https://medium.com/@thecryptoconomy/dandelions-and-a-bright-future-for-bit
 category: Privacy
 date: Jun 27, 2018
 lesson: 19
-quote: 
 ---

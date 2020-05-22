@@ -6,5 +6,4 @@ link: https://dergigi.com/2020/04/27/dear-family-dear-friends/
 category: Through the Looking Glass
 date: Apr 27, 2020
 lesson: 21
-quote: 
 ---
