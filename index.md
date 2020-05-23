@@ -454,24 +454,6 @@ you are looking for longer, more varied lists, the following got you covered:
 
 {% include curations.html %}
 
-- [Bitcoin Literature][sni] by the Satoshi Nakamoto Institute
-- [Learning Resources][bitcoin-only] by Bitcoin-Only
-- [Bitcoin Information & Resources][lopp] by Jameson Lopp
-- [Curated Bitcoin Articles][guy] by Guy Swann
-- [Bitcoin Survivor's Book List][guy-books] by Guy Swann
-- [Featured Episodes of the Cryptoconomy Podcast][guy-episodes-curated] curated by Infominer
-- [Bitcoin Archive][bitcoin-archive] by Max Hillebrand
-- [Bitcoin Rabbit Hole][brh] by Adam Taché
-- [Bitcoin Publications and Talks][adaptive-capital] by Adaptive Capital
-- [Bitcoin Learning Master List][blml] by Nick Ward
-- [Awesome What is Bitcoin][awib] list by CypherPoet
-- [Awesome Bitcoin][ab] list of libraries and APIs by Igor Barinov
-- [Mises Library][mises] by The Mises Institute
-- [Unenumerated][unenumerated] by Nick Szabo
-- [WTF Happened In 1971?][wtf1971] by Ben Prentice and Collin
-- [WORDS - A monthly Bitcoin journal][words] by Joe Rodgers
-- [bitcoiners.best][bitcoiners-best] by Brady, Mr. Poopy Bitcoin, Pablof7z, and Bootstrap Bandit
-
 ---
 
 ### About these Resources
