@@ -5,10 +5,12 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
-#### 2020-04-12
+#### 2020-05-23
 - Add books:
   - Why Buy Bitcoin by Andy Edstrom
   - The Internet of Money (Vol3) by Andreas Antonopoulos
+- Add podcast episode:
+  - TFTC #126 with Robert Breedlove on Bitcoin and the Number Zero
 
 #### 2020-04-12
 - Add article: Bitcoin is Common Sense by Parker Lewis
