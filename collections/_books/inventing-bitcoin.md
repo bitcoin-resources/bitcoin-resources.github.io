@@ -3,7 +3,7 @@ layout: page-books
 title: Inventing Bitcoin
 subtitle: The Technology Behind The First Truly Scarce and Decentralized Money Explained
 essential: 
-categories: ['non-technical2']
+categories: ['non-technical']
 authors: ['Yan Pritzker']
 authors_twitter: ['https://twitter.com/skwp']
 excerpt: .
