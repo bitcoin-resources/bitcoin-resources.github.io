@@ -452,6 +452,8 @@ out the [Bitcoin Developer Guide][bitcoin-dev-guide].
 There are other, more complete curations of Bitcoin content and resources. If
 you are looking for longer, more varied lists, the following got you covered:
 
+{% include curations.html %}
+
 - [Bitcoin Literature][sni] by the Satoshi Nakamoto Institute
 - [Learning Resources][bitcoin-only] by Bitcoin-Only
 - [Bitcoin Information & Resources][lopp] by Jameson Lopp
