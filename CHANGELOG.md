@@ -6,6 +6,11 @@ title: Resources
 ### Bitcoin Resources Changelog
 
 #### 2020-04-12
+- Add books:
+  - Why Buy Bitcoin by Andy Edstrom
+  - The Internet of Money (Vol3) by Andreas Antonopoulos
+
+#### 2020-04-12
 - Add article: Bitcoin is Common Sense by Parker Lewis
 
 #### 2020-04-12

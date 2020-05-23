@@ -3,7 +3,7 @@ layout: page-books
 title: Bitcoin Money
 subtitle: A Tale of Bitville Discovering Good Money
 essential: 
-categories: ['non-technical']
+categories: ['non-technical2']
 authors: ['Michael Caras']
 authors_twitter: ['https://twitter.com/thebitcoinrabbi']
 excerpt: “This book is a crash course on the economics and ethics of Bitcoin and why it is important, conveyed intuitively with easy examples of children playing and exchanging. You really hit it home! “.
