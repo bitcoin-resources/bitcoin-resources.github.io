@@ -15,7 +15,7 @@ client = gspread.authorize(creds)
 articles = client.open("Bitcoin Resources").worksheet("Curations")
 
 for idx, row in enumerate(articles.get_all_values()):
-    if row[0] == 'Author':
+    if row[0] == 'Title':
         continue
 
     curation_title = row[0].lstrip().rstrip()
