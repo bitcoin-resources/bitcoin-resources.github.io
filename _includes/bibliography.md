@@ -1,6 +1,6 @@
 <!-- Books -->
 
-[bitcoin-standard]: https://t.co/IDdQejTYH6
+[bitcoin-standard]: https://amzn.to/2TLl5RP
 
 <!-- Podcasts -->
 
