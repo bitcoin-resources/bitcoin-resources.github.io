@@ -11,3 +11,4 @@ python update_articles.py
 python update_books.py
 python update_sodes.py
 python update_pods.py
+python update_curations.py
