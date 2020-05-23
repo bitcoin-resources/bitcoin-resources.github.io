@@ -35,6 +35,9 @@ collections:
   podcasts:
     title: Podcasts
     output: true
+  curations:
+    title: Curations
+    output: true
 
 # Author settings
 author:
