@@ -10,6 +10,6 @@ android: ['https://subscribeonandroid.com/castleisland.libsyn.com/rss']
 spotify: https://open.spotify.com/show/47aw3C5brBfL8pCIw8LrQL?si=FXzVA5LoRYyTnsLfPebhkw
 rss: ['https://castleisland.libsyn.com/rss']
 rank: 23
-twitter: https://twitter.com/OnTheBrinkCIV?s=20
+twitter: https://twitter.com/OnTheBrinkCIV
 youtube: 
 ---
