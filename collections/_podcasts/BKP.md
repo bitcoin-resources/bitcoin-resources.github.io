@@ -9,7 +9,7 @@ ios: https://podcasts.apple.com/us/podcast/the-bitcoin-knowledge-podcast/id30167
 android: ['https://subscribeonandroid.com/www.bitcoin.kn/feed/podcast/']
 spotify: 
 rss: ['https://www.bitcoin.kn/feed/podcast/']
-rank: 14
+rank: 15
 twitter: https://twitter.com/bitcoinkn
 youtube: 
 ---
