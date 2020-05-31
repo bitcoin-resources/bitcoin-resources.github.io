@@ -6,6 +6,17 @@ title: Resources
 ### Bitcoin Resources Changelog
 
 #### 2020-05-23
+- Add articles:
+  - Cryptosovereignty by Erik Cason
+  - The Oath of Machines, Liturgy of Code, and Promise of Bitcoin by Erik Cason
+  - The Political Theology of Bitcoin by Erik Cason
+  - The Theological Conquest of Money by Erik Cason
+- Add podcasts:
+  - On The Brink by Castle Island with Nic Carter and Matt Walsh
+- Add curations:
+  - Bitcoin Explained (bitcoin-explained.com)
+
+#### 2020-05-23
 - Add books:
   - Why Buy Bitcoin by Andy Edstrom
   - The Internet of Money (Vol3) by Andreas Antonopoulos
