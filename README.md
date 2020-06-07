@@ -25,8 +25,13 @@ Building the site:
 
 You might have to install `gulp` globally, which you can do with `npm install --global gulp-cli`.
 
+### Support
+
+You can follow [the project](https://twitter.com/BtcResources) on Twitter, share the project, [contribute](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md), or [support me](https://dergigi.com/support/) directly.
+
+
 ---
 
-Created with :heart: by Gigi.
+Created with :heart: by [Gigi](https://dergigi.com/).
 
 [![tippin.me](https://badgen.net/badge/%E2%9A%A1%EF%B8%8Ftippin.me/@dergigi/F0918E)](https://tippin.me/@dergigi)
