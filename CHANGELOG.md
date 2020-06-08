@@ -5,6 +5,10 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-06-08
+- Add episodes:
+  - SLP #178 with 6102bitcoin
+
 #### 2020-05-23
 - Add articles:
   - Cryptosovereignty by Erik Cason
