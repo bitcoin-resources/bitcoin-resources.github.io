@@ -6,7 +6,6 @@ essential:
 categories: ['software']
 authors: ['Eric S. Raymond']
 authors_twitter: 
-excerpt: .
 resource_url: 
 amazon_url: https://amzn.to/3cTjFfA
 wikipedia_url: 

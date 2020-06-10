@@ -6,7 +6,6 @@ essential:
 categories: ['technical']
 authors: ['Andreas Antonopoulos']
 authors_twitter: ['https://twitter.com/aantonop']
-excerpt: .
 resource_url: 
 amazon_url: https://amzn.to/33eDSID
 wikipedia_url: 

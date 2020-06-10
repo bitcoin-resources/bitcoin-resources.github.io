@@ -6,7 +6,6 @@ essential:
 categories: ['banking']
 authors: ['Murray Rothbard']
 authors_twitter: 
-excerpt: .
 resource_url: 
 amazon_url: https://amzn.to/3aTubSy
 wikipedia_url: 
