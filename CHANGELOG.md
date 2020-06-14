@@ -5,6 +5,10 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-06-14
+- Add books:
+  - Bitcoin Clarity by Kiara Bickers
+
 #### 2020-06-08
 - Add episodes:
   - SLP #178 with 6102bitcoin
