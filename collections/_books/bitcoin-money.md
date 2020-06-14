@@ -6,12 +6,11 @@ essential:
 categories: ['non-technical2']
 authors: ['Michael Caras']
 authors_twitter: ['https://twitter.com/thebitcoinrabbi']
-excerpt: “This book is a crash course on the economics and ethics of Bitcoin and why it is important, conveyed intuitively with easy examples of children playing and exchanging. You really hit it home! “.
 resource_url: https://thebitcoinrabbi.com/bitcoin-money-book/
 amazon_url: https://amzn.to/39MFbAS
 wikipedia_url: 
 free_url: 
-rating_order: 8
+rating_order: 7
 lesson: ['']
 audio_url: 
 free_audio_url: 

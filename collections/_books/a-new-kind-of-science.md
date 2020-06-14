@@ -6,7 +6,6 @@ essential:
 categories: ['computation']
 authors: ['Stephen Wolfram']
 authors_twitter: ['https://twitter.com/stephen_wolfram']
-excerpt: .
 resource_url: 
 amazon_url: https://amzn.to/3cTDX92
 wikipedia_url: https://en.wikipedia.org/wiki/A_New_Kind_of_Science

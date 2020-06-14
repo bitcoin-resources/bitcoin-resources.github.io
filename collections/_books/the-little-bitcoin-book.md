@@ -6,12 +6,11 @@ essential:
 categories: ['non-technical2']
 authors: ['Timi Ajiboye', ' Luis Buenaventura', ' Alex Gladstein', ' Lily Liu', ' Alexander Lloyd', ' Alejandro Machado', ' Jimmy Song', ' Alena Vranova']
 authors_twitter: ['https://twitter.com/LittleBitcoinBk']
-excerpt: .
 resource_url: https://littlebitcoinbook.com
 amazon_url: https://amzn.to/2Q7tcWz
 wikipedia_url: 
 free_url: 
-rating_order: 9
+rating_order: 8
 lesson: ['']
 audio_url: https://amzn.to/2QXPWZE
 free_audio_url: 
