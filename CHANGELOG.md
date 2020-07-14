@@ -5,6 +5,13 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-07-14
+- Add articles:
+  - Masters and Slaves of Money by Robert Breedlove
+- Add podcasts:
+  - The Chaincode Podcast by Chaincode Labs
+
+
 #### 2020-06-14
 - Add books:
   - Bitcoin Clarity by Kiara Bickers
