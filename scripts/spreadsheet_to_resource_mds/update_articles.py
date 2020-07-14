@@ -25,8 +25,9 @@ for row in articles.get_all_values():
     article_title = row[1].lstrip().rstrip()
     article_link = row[2].lstrip().rstrip()
     article_category = row[3]
-    article_date = row[4] if row[4] != '' else NO_DATE
-    article_lesson = row[5].lstrip().rstrip()
+    article_audio = row[4].lstrip().rstrip()
+    article_date = row[5] if row[5] != '' else NO_DATE
+    article_lesson = row[6].lstrip().rstrip()
 
     md_file_path = title_to_file_path(article_title, 'articles')
     if md_file_path == "":
@@ -39,6 +40,7 @@ for row in articles.get_all_values():
                 f"title: {article_title}\n"
                 f"link: {article_link}\n"
                 f"category: {article_category}\n"
+                f"audio: {article_audio}\n"
                 f"date: {article_date}\n"
                 f"lesson: {article_lesson}\n"
                 f"---\n")
