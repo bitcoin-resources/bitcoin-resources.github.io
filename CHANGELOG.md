@@ -11,7 +11,6 @@ title: Resources
 - Add podcasts:
   - The Chaincode Podcast by Chaincode Labs
 
-
 #### 2020-06-14
 - Add books:
   - Bitcoin Clarity by Kiara Bickers
