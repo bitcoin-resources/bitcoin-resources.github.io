@@ -6,4 +6,5 @@ link: https://cryptosovereignty.org/oath-machines-liturgy-code/
 category: A Social Revolution
 date: Jan 5, 2020
 lesson: 
+audio: 
 ---

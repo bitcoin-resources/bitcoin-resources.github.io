@@ -6,4 +6,5 @@ link: https://cryptosovereignty.org/cryptosovereignty/
 category: A Social Revolution
 date: Feb 3, 2019
 lesson: 
+audio: 
 ---

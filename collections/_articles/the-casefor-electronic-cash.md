@@ -6,4 +6,5 @@ link: https://coincenter.org/files/2019-02/the-case-for-electronic-cash-coin-cen
 category: Privacy
 date: Feb 6, 2019
 lesson: 19
+audio: https://anchor.fm/thecryptoconomy/episodes/Chat_42---Project-Snow-White--the-Raleigh-Bitcoin-Meetup-egm6li/a-a2mih8u
 ---

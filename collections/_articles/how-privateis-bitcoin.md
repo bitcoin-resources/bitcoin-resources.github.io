@@ -6,4 +6,5 @@ link: https://medium.com/human-rights-foundation-hrf/privacy-and-cryptocurrency-
 category: Privacy
 date: Mar 7, 2019
 lesson: 19
+audio: 
 ---

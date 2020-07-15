@@ -6,4 +6,5 @@ link: https://coincenter.org/entry/we-must-protect-our-ability-to-transact-priva
 category: Privacy
 date: Feb 6, 2019
 lesson: 19
+audio: 
 ---

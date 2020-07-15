@@ -6,4 +6,5 @@ link: https://www.youtube.com/watch?v=UDydB3z-6Y0
 category: Privacy
 date: Jun 29, 2019
 lesson: 19
+audio: 
 ---

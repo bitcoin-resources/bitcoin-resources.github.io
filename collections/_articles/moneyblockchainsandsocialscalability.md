@@ -6,4 +6,5 @@ link: http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scal
 category: Money
 date: Feb 9, 2017
 lesson: 11
+audio: 
 ---

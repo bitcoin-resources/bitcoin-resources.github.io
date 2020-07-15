@@ -6,4 +6,5 @@ link: http://www.truthcoin.info/blog/pow-cheapest/
 category: Proof-of-work
 date: Aug 4, 2015
 lesson: 17
+audio: 
 ---
