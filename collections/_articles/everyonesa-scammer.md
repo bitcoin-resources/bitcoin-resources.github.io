@@ -6,4 +6,5 @@ link: https://nakamotoinstitute.org/mempool/everyones-a-scammer/
 category: Misc
 date: Sep 11, 2014
 lesson: 
+audio: 
 ---

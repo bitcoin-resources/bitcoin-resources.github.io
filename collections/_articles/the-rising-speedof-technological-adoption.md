@@ -6,4 +6,5 @@ link: https://www.visualcapitalist.com/rising-speed-technological-adoption/
 category: Lesson Links
 date: Feb 14, 2018
 lesson: 21
+audio: 
 ---

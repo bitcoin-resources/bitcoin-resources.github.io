@@ -6,4 +6,5 @@ link: https://bitcoin.org/en/protect-your-privacy
 category: Privacy
 date: Oct 2, 2013
 lesson: 19
+audio: 
 ---

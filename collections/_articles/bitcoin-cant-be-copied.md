@@ -6,4 +6,5 @@ link: https://www.unchained-capital.com/blog/bitcoin-cant-be-copied/
 category: Bitcoin's Identity
 date: Aug 2, 2019
 lesson: 2
+audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_291---Bitcoin-Cant-Be-Copied-Parker-Lewis-e58g11/a-amgcud
 ---

@@ -6,4 +6,5 @@ link: https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-9
 category: Lesson Links
 date: Mar 22, 2019
 lesson: 2
+audio: 
 ---

@@ -6,4 +6,5 @@ link: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-mone
 category: Misc
 date: Jul 9, 2016
 lesson: 
+audio: 
 ---
