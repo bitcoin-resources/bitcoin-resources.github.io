@@ -6,5 +6,5 @@ link: https://dergigi.com/2020/04/27/dear-family-dear-friends/
 category: Through the Looking Glass
 date: Apr 27, 2020
 lesson: 21
-audio: 
+audio: https://anchor.fm/thecryptoconomy/episodes/Read_389---Dear-Family--Dear-Friends-DerGigi-edghuq/a-a233ij5
 ---
