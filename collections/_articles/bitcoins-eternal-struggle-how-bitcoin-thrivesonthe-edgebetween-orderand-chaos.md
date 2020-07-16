@@ -6,5 +6,5 @@ link: https://dergigi.com/2019/12/22/bitcoin-s-eternal-struggle/
 category: Through the Looking Glass
 date: Dec 22, 2019
 lesson: 7
-audio: 
+audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_336---Bitcoins-Eternal-Struggle---Bitcoin-Times-Ed-2-DerGigi-ea18vr/a-a198ihb
 ---

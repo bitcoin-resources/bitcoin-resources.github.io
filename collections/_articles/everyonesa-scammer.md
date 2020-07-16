@@ -6,5 +6,5 @@ link: https://nakamotoinstitute.org/mempool/everyones-a-scammer/
 category: Misc
 date: Sep 11, 2014
 lesson: 
-audio: 
+audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_267---Everyones-a-Scammer-Michael-Goldstein-e4ihq8/a-aigiru
 ---
