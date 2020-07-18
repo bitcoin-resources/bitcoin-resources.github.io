@@ -1,7 +1,7 @@
 {% assign book = include.book %}
 {% capture slugTitle %}{{ book.title | slugify }}{% endcapture %}
 {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
-{% capture imagePath %}{{ folderPath }}/{{ slugTitle }}.jpg{% endcapture %}
+{% capture imagePath %}{{ folderPath }}/{{ slugTitle }}.webp{% endcapture %}
 <li>
   {% if book.permalink %}
   <a href="{{ book.permalink | absolute_url }}">
