@@ -10,7 +10,7 @@ description: >
   Books, Articles, Podcasts, and other curated Bitcoin resources.
 url: https://bitcoin-resources.com
 twitter_username: dergigi
-default_img: /assets/images/avatar.png
+default_img: /assets/images/avatar.webp
 social:
   - name: twitter
     url: https://twitter.com/BtcResources
