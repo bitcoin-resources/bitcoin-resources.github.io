@@ -42,3 +42,6 @@ jobs:
         pip3 install -r requirements.txt
         echo Updating all bitcoin resources from spreadsheet...
         ./update_all.sh
+        
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v3
