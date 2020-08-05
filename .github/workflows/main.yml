@@ -27,6 +27,9 @@ jobs:
 
     # Runs a set of commands using the runners shell
     - name: Update Resources
+      shell: bash
+      env:
+        GDOC_CLIENT_SECRET: ${{ secrets.GDOC_CLIENT_SECRET }}
       run: |
         cd scripts/spreadsheet_to_resource_mds/
         echo Switching into virtual Python3 environment...
