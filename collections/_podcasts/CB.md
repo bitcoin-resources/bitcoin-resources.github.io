@@ -2,7 +2,7 @@
 layout: page
 code: CB
 name: Citizen Bitcoin
-hosts: Brady
+hosts: Brady Swenson
 link: https://citizenbitcoin.world/
 tier: 2
 ios: https://podcasts.apple.com/us/podcast/citizen-bitcoin/id1350483937
