@@ -65,6 +65,12 @@
 [b14]: https://youtu.be/0cuKAfFAO08?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
 [b15]: https://youtu.be/IeJa4d1WZ8k?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
 [b16]: https://youtu.be/6BoJxhAhrjA?list=PLXebE1eEMGOTe6ipH9n2AmUE3uLaKEfXE
+[tina-series]: https://bitcoinmagazine.com/articles/listen-bitcointina-on-bitcoin-podcast-series
+[tina-bonus]: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-89-BitcoinTINA--Alpha-Zeta-e4vaf4
+[tina1]: http://bitcoinmagazine.btc.libsynpro.com/bitcointina-on-bitcoin-part-1
+[tina2]: http://bitcoinmagazine.btc.libsynpro.com/bitcointina-on-bitcoin-part-2-how-to-value-bitcoin-and-think-about-sov
+[tina3]: http://bitcoinmagazine.btc.libsynpro.com/bitcointina-on-bitcoin-part-3how-to-think-about-investing-in-bitcoin
+[tina4]: http://bitcoinmagazine.btc.libsynpro.com/bitcoin-magazine-is-proud-to-present-bitcointina-on-bitcoin-part-4-the-path-to-100-trillion-usd-repricing-the-world-in-sats
 
 <!-- Videos -->
 [aantonop-intro]: https://www.youtube.com/watch?v=l1si5ZWLgy0
