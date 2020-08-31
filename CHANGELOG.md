@@ -5,6 +5,28 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-08-31
+- Add podcast:
+  - The Bitcoin Standard Podcast by Saifedean
+- Add podcast episode:
+  - SLP #204 with Robert Breedlove on Bitcoin vs Slave Money
+
+#### 2020-08-24
+- Add article:
+  - On Schelling points, network effects and Lindy: Inherent properties of communication by Willem Van Den Bergh
+
+#### 2020-08-22
+- Move podcasts with Bitcoin TINA to its own podcast series
+
+#### 2020-08-17
+- Add podcast episodes:
+  - SSL #23 with Saifedean Ammous & George Gammon
+
+#### 2020-08-08
+- Add podcasts:
+  - Swan Signal by Swan Bitcoin
+  - Bitcoin Fixes This by Jimmy Song
+
 #### 2020-07-14
 - Add articles:
   - Masters and Slaves of Money by Robert Breedlove
