@@ -6,7 +6,11 @@ layout: default
     <div class="post__header section-padding">
       <div class="grid-small">
         <a class="header__title" href="{{ site.url }}">
-          <img src="/assets/images/bitcoin-resources.webp"/>
+          <picture>
+            <source srcset="/assets/images/bitcoin-resources.webp" type="image/webp"/>
+            <source srcset="/assets/images/bitcoin-resources.png" type="image/png"/>
+            <img src="/assets/images/bitcoin-resources.webp"/>
+          </picture>
         </a>
       </div>
     </div>
