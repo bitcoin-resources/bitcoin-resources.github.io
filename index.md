@@ -90,6 +90,11 @@ roughly grouped by topics as follows:
 
 I hope to update this list continually as my reading progresses.
 
+Some of the books listed below were discussed at the [Bitcoiner Book
+Club](https://www.youtube.com/playlist?list=PL8GxRkxnvMl3_O3DYNQJFnVBvvt8A9qqW)
+organized by John Vallis.
+
+
 #### Bitcoin (non-technical)
 
 Books about Bitcoin which can be read by anyone, no special background knowledge
