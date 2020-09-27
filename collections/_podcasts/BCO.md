@@ -9,7 +9,9 @@ ios: https://podcasts.apple.com/at/podcast/bitcoin-co-with-anita-posch-english/i
 android: ['https://subscribeonandroid.com/bitcoinundco.com/en/feed/mp3/']
 spotify: https://open.spotify.com/show/0EJu3cMWF0AMxeO8NMH71z
 rss: ['https://bitcoinundco.com/en/feed/mp3/']
-rank: 22
+rank: 20
 twitter: https://twitter.com/anitaposch
 youtube: https://www.youtube.com/c/AnitaPosch
+level: Intermediate
+tags: ['interviews', 'economics']
 ---

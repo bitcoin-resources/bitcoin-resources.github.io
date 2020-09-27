@@ -1,4 +1,12 @@
-{% assign sorted_pods = site.podcasts | where: 'tier', include.tier | sort: 'rank' %}
+{% assign sorted_pods = site.podcasts %}
+
+{% if include.tier %}
+  {% assign sorted_pods = site.podcasts | where: 'tier', include.tier | sort: 'rank' %}
+{% endif %}
+
+{% if include.level %}
+  {% assign sorted_pods = site.podcasts | where: 'level', include.level | sort: 'rank' %}
+{% endif %}
 
 <ul class="podcasts">
 {% for pod in sorted_pods %}
@@ -6,6 +14,12 @@
     <a href="{{ pod.rss }}" target="_blank"><i class="fa fa-rss"></i></a>
     <a href="{{ pod.link }}" target="_blank">{{ pod.name }}</a>
     [
+    {% if pod.tags %}
+      {% for tag in pod.tags %}
+      {% include tag.html tag=tag %}
+      {% endfor %}
+      |
+    {% endif %}
     <a href="{{ pod.android }}" target="_blank"><i class="fa fa-android"></i></a>
     <a href="{{ pod.ios }}" target="_blank"><i class="fa fa-apple"></i></a>
     {% if pod.youtube or pod.spotify %}

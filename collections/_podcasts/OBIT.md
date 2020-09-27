@@ -12,4 +12,6 @@ rss: ['https://anchor.fm/s/1346f9e8/podcast/rss']
 rank: 16
 twitter: https://twitter.com/princey1976
 youtube: 
+level: Beginner
+tags: ['interviews', 'entertainment']
 ---

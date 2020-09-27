@@ -12,4 +12,6 @@ rss: ['https://anchor.fm/s/2a4e8034/podcast/rss']
 rank: 9
 twitter: https://twitter.com/jimmysong
 youtube: https://www.youtube.com/c/OffChainwithJimmySong
+level: Advanced
+tags: ['interviews']
 ---

@@ -404,17 +404,9 @@ I consider the following podcasts the best in the space:
 
 {% include podcasts.html tier="1" %}
 
-Although I try to listen to every Bitcoin podcast under the sun, it is simply an
-unsurmountable feat due to the sheer volume of content. The following podcasts
-are excellent as well:
+[View all podcasts »][podcasts]
 
-{% include podcasts.html tier="2" %}
-
-The line between the best and the rest is quite arbitrary, but I felt like one
-very long list might not be as useful as separate lists, however arbitrary the
-distinction. I enjoy or have enjoyed these podcasts as well:
-
-{% include podcasts.html tier="3" %}
+[podcasts]: {{ '/podcasts' | absolute_url }}
 
 #### Noteworthy Podcast Series
 

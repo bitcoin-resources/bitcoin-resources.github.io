@@ -1,0 +1,30 @@
+{% assign emoji = '' %}
+{% case tag %}
+{% when 'entertainment' %}
+{% assign emoji = '😆' %}
+{% when 'news' %}
+{% assign emoji = '📰' %}
+{% when 'interviews' %}
+{% assign emoji = '💬' %}
+{% when 'economics' %}
+{% assign emoji = '💹' %}
+{% when 'technical' %}
+{% assign emoji = '⚙️' %}
+{% when 'roundtable' %}
+{% assign emoji = '👥' %}
+{% when 'pleb' %}
+{% assign emoji = '🌮' %}
+{% when 'industry' %}
+{% assign emoji = '👔' %}
+{% when 'shitcoinery' %}
+{% assign emoji = '💩' %}
+{% when 'lightning' %}
+{% assign emoji = '⚡' %}
+{% when 'mining' %}
+{% assign emoji = '⚒️' %}
+{% when 'inactive' %}
+{% assign emoji = '⚰️' %}
+{% else %}
+{% endcase %}
+
+<span title="{{ tag }}">{{ emoji }}</span>

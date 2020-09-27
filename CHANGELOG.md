@@ -5,6 +5,18 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-09-27
+
+- Add features:
+  - New /podcasts page
+  - Tag support for podcasts
+  - New categories for podcasts: beginner, intermediate, advanced, specialized
+
+- Add podcasts:
+  - HASHR8 podcast
+  - Lightning Junkies podcast
+  - The Van Wirdum Sjorsnado
+
 #### 2020-08-31
 - Add podcast:
   - The Bitcoin Standard Podcast by Saifedean

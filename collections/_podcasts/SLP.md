@@ -12,4 +12,6 @@ rss: ['https://anchor.fm/s/7d083a4/podcast/rss']
 rank: 2
 twitter: https://twitter.com/stephanlivera
 youtube: https://www.youtube.com/channel/UCDqPIrJSzHyyJpmH6wnxVxA
+level: Advanced
+tags: ['technical', 'economics', 'interviews']
 ---

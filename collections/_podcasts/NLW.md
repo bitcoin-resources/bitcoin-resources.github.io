@@ -12,4 +12,6 @@ rss: ['http://nlwcrypto.libsyn.com/rss']
 rank: 13
 twitter: https://twitter.com/BreakdownNLW
 youtube: 
+level: Intermediate
+tags: ['news', 'industry', 'shitcoinery']
 ---

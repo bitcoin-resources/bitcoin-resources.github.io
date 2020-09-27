@@ -12,4 +12,6 @@ rss: ['https://www.whatbitcoindid.com/podcast?format=RSS']
 rank: 10
 twitter: https://twitter.com/WhatBitcoinDid
 youtube: https://www.youtube.com/whatbitcoindid
+level: Beginner
+tags: ['interviews', 'roundtable']
 ---

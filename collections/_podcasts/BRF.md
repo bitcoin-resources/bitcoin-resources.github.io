@@ -12,4 +12,6 @@ rss: ['https://anchor.fm/s/d6b3354/podcast/rss']
 rank: 3
 twitter: https://twitter.com/johnkvallis
 youtube: https://www.youtube.com/channel/UCyNBrVfqzd2zN2yhwk-YT2A
+level: Beginner
+tags: ['interviews']
 ---
