@@ -5,9 +5,19 @@ image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Curated Bitcoin podcasts and episodes.
 ---
 
-{% include podcasts.html tier="1" %}
-{% include podcasts.html tier="2" %}
-{% include podcasts.html tier="3" %}
+### Beginner
+
+{% include podcasts.html level="Beginner" %}
+
+### Intermediate
+
+{% include podcasts.html level="Intermediate" %}
+
+### Advanced
+
+{% include podcasts.html level="Advanced" %}
+
+
 
 ### Archive
 

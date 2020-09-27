@@ -1,4 +1,12 @@
-{% assign sorted_pods = site.podcasts | where: 'tier', include.tier | sort: 'rank' %}
+{% assign sorted_pods = site.podcasts %}
+
+{% if include.tier %}
+  {% assign sorted_pods = site.podcasts | where: 'tier', include.tier | sort: 'rank' %}
+{% endif %}
+
+{% if include.level %}
+  {% assign sorted_pods = site.podcasts | where: 'level', include.level | sort: 'rank' %}
+{% endif %}
 
 <ul class="podcasts">
 {% for pod in sorted_pods %}
