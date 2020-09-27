@@ -13,5 +13,5 @@ rank: 10
 twitter: https://twitter.com/WhatBitcoinDid
 youtube: https://www.youtube.com/whatbitcoindid
 level: Beginner
-tags: ['community', ' non-technical']
+tags: ['interviews', ' roundtable']
 ---

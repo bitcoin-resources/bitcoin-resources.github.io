@@ -12,6 +12,6 @@ rss: ['https://feeds.simplecast.com/Z1tu2Hds']
 rank: 7
 twitter: https://twitter.com/swanbitcoin
 youtube: https://www.youtube.com/channel/UCl4takhOQtiyprismCPsa2Q
-level: 
-tags: ['']
+level: Intermediate
+tags: ['roundtable']
 ---

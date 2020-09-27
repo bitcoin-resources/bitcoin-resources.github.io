@@ -13,5 +13,5 @@ rank: 1
 twitter: https://twitter.com/tftc21
 youtube: https://www.youtube.com/tftc21
 level: Intermediate
-tags: ['community', ' entertainment']
+tags: ['entertainment', ' interviews', ' news']
 ---

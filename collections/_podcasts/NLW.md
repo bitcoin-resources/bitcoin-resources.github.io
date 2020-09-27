@@ -12,6 +12,6 @@ rss: ['http://nlwcrypto.libsyn.com/rss']
 rank: 13
 twitter: https://twitter.com/BreakdownNLW
 youtube: 
-level: 
-tags: ['']
+level: Intermediate
+tags: ['news']
 ---

@@ -13,5 +13,5 @@ rank: 16
 twitter: https://twitter.com/princey1976
 youtube: 
 level: Beginner
-tags: ['non-technical', ' entertainment']
+tags: ['interviews', ' entertainment']
 ---

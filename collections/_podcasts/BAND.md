@@ -12,6 +12,6 @@ rss: ['http://feeds.soundcloud.com/users/soundcloud:users:108074218/sounds.rss']
 rank: 12
 twitter: https://twitter.com/bennd77
 youtube: 
-level: 
-tags: ['']
+level: Intermediate
+tags: ['news', ' entertainment', ' pleb']
 ---

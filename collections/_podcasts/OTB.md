@@ -9,9 +9,9 @@ ios: https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id148
 android: ['https://subscribeonandroid.com/castleisland.libsyn.com/rss']
 spotify: https://open.spotify.com/show/47aw3C5brBfL8pCIw8LrQL?si=FXzVA5LoRYyTnsLfPebhkw
 rss: ['https://castleisland.libsyn.com/rss']
-rank: 27
+rank: 24
 twitter: https://twitter.com/OnTheBrinkCIV
 youtube: 
 level: Intermediate
-tags: ['non-technical', ' macro', ' industry']
+tags: ['economics', ' industry']
 ---
