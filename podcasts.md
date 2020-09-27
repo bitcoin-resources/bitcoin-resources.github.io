@@ -23,4 +23,4 @@ description: Curated Bitcoin podcasts and episodes.
 
 The following podcasts are not active anymore.
 
-{% include podcasts.html tier="4" %}
+{% include podcasts.html tier="0" %}
