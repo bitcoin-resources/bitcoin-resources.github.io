@@ -12,6 +12,6 @@ rss: ['https://anchor.fm/s/80d5cfc/podcast/rss']
 rank: 4
 twitter: https://twitter.com/BitcoinAudible
 youtube: https://www.youtube.com/channel/UClG-wqz-OuXfzbpqwJd3fVA
-level: Beginner
+level: Intermediate
 tags: ['economics', 'technical']
 ---
