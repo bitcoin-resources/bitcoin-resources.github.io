@@ -5,6 +5,13 @@ image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Curated Bitcoin podcasts and episodes.
 ---
 
+The following podcasts are roughly grouped into
+[beginner](#beginner),
+[intermediate](#intermediate), and
+[advanced](#advanced).
+There is also a "[specialized](#specialized)" category for podcasts that
+focus on one narrow aspect of Bitcoin, and an [archive](#archive) for inactive shows.
+
 ### Beginner
 
 {% include podcasts.html level="Beginner" %}
