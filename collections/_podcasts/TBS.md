@@ -12,4 +12,6 @@ rss: ['https://www.spreaker.com/show/3478385/episodes/feed']
 rank: 8
 twitter: https://twitter.com/saifedean
 youtube: 
+level: 
+tags: ['']
 ---

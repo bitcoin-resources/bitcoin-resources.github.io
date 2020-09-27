@@ -12,4 +12,6 @@ rss: ['https://noded.org/feed.xml']
 rank: 4
 twitter: https://twitter.com/NodedPodcast
 youtube: https://www.youtube.com/channel/UC3j-JWXorlfMwkDfsJjdWmQ
+level: 
+tags: ['']
 ---

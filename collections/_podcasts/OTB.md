@@ -12,4 +12,6 @@ rss: ['https://castleisland.libsyn.com/rss']
 rank: 27
 twitter: https://twitter.com/OnTheBrinkCIV
 youtube: 
+level: Intermediate
+tags: ['non-technical', ' macro', ' industry']
 ---

@@ -12,4 +12,6 @@ rss: ['https://anchor.fm/s/889e768/podcast/rss']
 rank: 14
 twitter: https://twitter.com/Coinicarus
 youtube: https://www.youtube.com/channel/UCa0ZTLukeshFoZYmYvQfLHw
+level: 
+tags: ['']
 ---

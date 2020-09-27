@@ -12,4 +12,6 @@ rss: ['https://anchor.fm/s/80d5cfc/podcast/rss']
 rank: 5
 twitter: https://twitter.com/BitcoinAudible
 youtube: https://www.youtube.com/channel/UClG-wqz-OuXfzbpqwJd3fVA
+level: Beginner
+tags: ['community', ' macro']
 ---

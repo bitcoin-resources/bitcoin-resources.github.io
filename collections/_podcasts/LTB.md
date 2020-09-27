@@ -12,4 +12,6 @@ rss: ['https://letstalkbitcoin.com/rss/feed/blog?limit=9001&soundcloud-id=true&a
 rank: 17
 twitter: https://twitter.com/theltbnetwork
 youtube: https://www.youtube.com/user/LetsTalkBitcoinChan
+level: Intermediate
+tags: ['non-technical', ' technical']
 ---

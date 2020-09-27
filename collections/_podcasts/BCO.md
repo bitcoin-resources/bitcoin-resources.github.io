@@ -12,4 +12,6 @@ rss: ['https://bitcoinundco.com/en/feed/mp3/']
 rank: 22
 twitter: https://twitter.com/anitaposch
 youtube: https://www.youtube.com/c/AnitaPosch
+level: Intermediate
+tags: ['non-technical', ' macro']
 ---

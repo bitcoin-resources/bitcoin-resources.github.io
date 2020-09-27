@@ -12,4 +12,6 @@ rss: ['https://cryptoandgrill.podbean.com/feed.xml']
 rank: 20
 twitter: https://twitter.com/cryptoandgrill
 youtube: https://www.youtube.com/channel/UCB1Mjmtdtq7r9o-uPLBQL6A
+level: 
+tags: ['']
 ---

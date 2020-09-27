@@ -12,4 +12,6 @@ rss: ['https://www.spreaker.com/show/3478708/episodes/feed']
 rank: 19
 twitter: https://twitter.com/UnhashedPodcast
 youtube: 
+level: Advanced
+tags: ['technical', ' community', ' entertainment']
 ---

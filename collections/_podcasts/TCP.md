@@ -12,4 +12,6 @@ rss: ['https://podcast.chaincode.com/atom.xml']
 rank: 28
 twitter: https://twitter.com/chaincodelabs
 youtube: https://www.youtube.com/channel/UC9OcX1kIjsowRRZzl8tD27w
+level: 
+tags: ['']
 ---

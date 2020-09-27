@@ -12,4 +12,6 @@ rss: ['http://povcryptopod.btc.libsynpro.com/rss']
 rank: 24
 twitter: https://twitter.com/POVCryptoPod
 youtube: https://www.youtube.com/channel/UC6KH0zR25FufHeMexvGq8tQ
+level: 
+tags: ['']
 ---

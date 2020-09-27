@@ -12,4 +12,6 @@ rss: ['https://didyouknowcrypto.com/feed/']
 rank: 25
 twitter: https://twitter.com/DustinDry1st
 youtube: https://www.youtube.com/channel/UCGDMTdSf3vagLhLIQVCYDxQ
+level: 
+tags: ['']
 ---

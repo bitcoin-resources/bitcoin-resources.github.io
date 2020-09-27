@@ -12,4 +12,6 @@ rss: ['https://feeds.soundcloud.com/users/soundcloud:users:246365412/sounds.rss'
 rank: 15
 twitter: https://twitter.com/crypto_voices
 youtube: 
+level: 
+tags: ['']
 ---

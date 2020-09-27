@@ -12,4 +12,6 @@ rss: ['https://feeds.buzzsprout.com/263522.rss']
 rank: 23
 twitter: https://twitter.com/reckless_review
 youtube: 
+level: Advanced
+tags: ['technical', ' entertainment', ' community']
 ---

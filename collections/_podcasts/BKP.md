@@ -12,4 +12,6 @@ rss: ['https://www.bitcoin.kn/feed/podcast/']
 rank: 18
 twitter: https://twitter.com/bitcoinkn
 youtube: 
+level: 
+tags: ['']
 ---
