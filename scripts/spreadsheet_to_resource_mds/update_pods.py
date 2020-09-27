@@ -32,6 +32,8 @@ for row in sodes.get_all_values():
     pod_rank = row[9]
     pod_twitter = row[10].lstrip().rstrip()
     pod_youtube = row[11].lstrip().rstrip() if row[11] != '' else EMPTY
+    pod_level = row[12].lstrip().rstrip()
+    pod_tags = row[13].lstrip().rstrip().split(',')
 
     md_file_path = '../../collections/_podcasts/' + pod_code + '.md'
     if md_file_path == "":
@@ -52,6 +54,8 @@ for row in sodes.get_all_values():
                 f"rank: {pod_rank}\n"
                 f"twitter: {pod_twitter}\n"
                 f"youtube: {pod_youtube}\n"
+                f"level: {pod_level}\n"
+                f"tags: {pod_tags}\n"
                 f"---\n")
 
     with open(md_file_path, 'w') as f:
