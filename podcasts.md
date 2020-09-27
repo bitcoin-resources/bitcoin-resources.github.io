@@ -17,7 +17,13 @@ description: Curated Bitcoin podcasts and episodes.
 
 {% include podcasts.html level="Advanced" %}
 
+### Specialized
 
+As Bitcoin grows, more specialization is to be expected. The following podcasts
+focus on one specific aspect of Bitcoin, such as the Lightning Network or
+mining.
+
+{% include podcasts.html level="Specialized" %}
 
 ### Archive
 
