@@ -33,7 +33,7 @@ for row in sodes.get_all_values():
     pod_twitter = row[10].lstrip().rstrip()
     pod_youtube = row[11].lstrip().rstrip() if row[11] != '' else EMPTY
     pod_level = row[12].lstrip().rstrip()
-    pod_tags = row[13].lstrip().rstrip().split(',')
+    pod_tags = row[13].lstrip().rstrip().split(', ')
 
     md_file_path = '../../collections/_podcasts/' + pod_code + '.md'
     if md_file_path == "":
