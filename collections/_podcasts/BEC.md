@@ -13,5 +13,5 @@ rank: 11
 twitter: https://twitter.com/heavilyarmedc
 youtube: 
 level: Intermediate
-tags: ['interviews', ' pleb']
+tags: ['interviews', 'pleb']
 ---

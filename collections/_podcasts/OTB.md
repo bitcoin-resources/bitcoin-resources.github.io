@@ -13,5 +13,5 @@ rank: 24
 twitter: https://twitter.com/OnTheBrinkCIV
 youtube: 
 level: Intermediate
-tags: ['economics', ' industry']
+tags: ['economics', 'industry']
 ---

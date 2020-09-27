@@ -13,5 +13,5 @@ rank: 23
 twitter: https://twitter.com/BottomshelfBTC
 youtube: https://www.youtube.com/channel/UC-vAqJTaPrkCqD0zfpT_6PQ
 level: Intermediate
-tags: ['community', ' interviews']
+tags: ['community', 'interviews']
 ---

@@ -13,5 +13,5 @@ rank: 6
 twitter: https://twitter.com/NodedPodcast
 youtube: https://www.youtube.com/channel/UC3j-JWXorlfMwkDfsJjdWmQ
 level: Advanced
-tags: ['interviews', ' economics']
+tags: ['interviews', 'economics']
 ---

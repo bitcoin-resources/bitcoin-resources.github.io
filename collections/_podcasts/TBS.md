@@ -13,5 +13,5 @@ rank: 8
 twitter: https://twitter.com/saifedean
 youtube: 
 level: Advanced
-tags: ['economics', ' lectures']
+tags: ['economics', 'lectures']
 ---

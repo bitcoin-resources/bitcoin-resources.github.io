@@ -13,5 +13,5 @@ rank: 20
 twitter: https://twitter.com/anitaposch
 youtube: https://www.youtube.com/c/AnitaPosch
 level: Intermediate
-tags: ['interviews', ' economics']
+tags: ['interviews', 'economics']
 ---

@@ -13,5 +13,5 @@ rank: 14
 twitter: https://twitter.com/Coinicarus
 youtube: https://www.youtube.com/channel/UCa0ZTLukeshFoZYmYvQfLHw
 level: Beginner
-tags: ['community', ' interviews']
+tags: ['interviews', 'pleb']
 ---

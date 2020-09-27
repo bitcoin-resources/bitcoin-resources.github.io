@@ -13,5 +13,5 @@ rank: 19
 twitter: https://twitter.com/UnhashedPodcast
 youtube: 
 level: Advanced
-tags: ['technical', ' community', ' entertainment']
+tags: ['technical', 'community', 'entertainment']
 ---

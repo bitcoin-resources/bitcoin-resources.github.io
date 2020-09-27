@@ -13,5 +13,5 @@ rank: 21
 twitter: https://twitter.com/reckless_review
 youtube: 
 level: Advanced
-tags: ['entertainment', ' technical']
+tags: ['entertainment', 'technical']
 ---
