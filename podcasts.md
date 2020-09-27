@@ -44,7 +44,7 @@ The following podcast series are worth listening to in full:
 - [Bitcoin - There Is No Alternative][tina-series] ([1][tina1], [2][tina2], [3][tina3], [4][tina4], [bonus][tina-bonus]) with Bitcoin Tina
 - [Bitcoin Matters][bitcoin-matters] ([1][b1], [2][b2], [3][b3], [4][b4], [5][b5], [6][b6], [7][b7], [8][b8], [9][b9], [10][b10], [11][b11], [12][b12], [13][b13], [14][b14], [15][b15], [16][b16]) by Beautyon
 
-#### Selected Podcast Episodes
+### Selected Podcast Episodes
 
 Some "evergreen" episodes were recorded in the last couple of years. Again, this
 is a personal selection so it is biased towards certain guests and topics.
@@ -61,3 +61,5 @@ episode.
 The following podcasts are not active anymore.
 
 {% include podcasts.html tier="0" %}
+
+{% include bibliography.md %}
