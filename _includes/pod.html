@@ -1,0 +1,26 @@
+<li>
+  <a href="{{ pod.rss }}" target="_blank"><i class="fa fa-rss"></i></a>
+  <a href="{{ pod.link }}" target="_blank">{{ pod.name }}</a>
+  [
+  {% if pod.tags %}
+    {% for tag in pod.tags %}
+    {% include tagmoji.html tag=tag %}
+    {% endfor %}
+    |
+  {% endif %}
+  <a href="{{ pod.android }}" target="_blank"><i class="fa fa-android"></i></a>
+  <a href="{{ pod.ios }}" target="_blank"><i class="fa fa-apple"></i></a>
+  {% if pod.youtube or pod.spotify %}
+  |
+  {% endif %}
+  {% if pod.youtube %}
+  <a href="{{ pod.youtube }}" target="_blank"><i class="fa fa-youtube"></i></a>
+  {% endif %}
+  {% if pod.spotify %}
+  <a href="{{ pod.spotify }}" target="_blank"><i class="fa fa-spotify"></i></a>
+  {% endif %}
+  ]
+  <br/>
+  by {{ pod.hosts }}
+  <a href="{{ pod.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+</li>

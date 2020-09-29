@@ -13,5 +13,5 @@ rank: 13
 twitter: https://twitter.com/BreakdownNLW
 youtube: 
 level: Intermediate
-tags: ['news', 'industry', 'shitcoinery']
+tags: ['news', 'industry', 'shitcoinery', 'daily']
 ---

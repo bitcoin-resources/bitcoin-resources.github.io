@@ -1,0 +1,15 @@
+{% assign sorted_pods = site.podcasts | sort: 'rank' %}
+
+<ul class="podcasts">
+{% for pod in sorted_pods %}
+{% assign hasTag = false %}
+{% for t in pod.tags %}
+{% if t == tag %} {% assign hasTag = true %} {% endif %}
+{% endfor %}
+{% if hasTag %}
+{% include pod.html pod=pod %}
+{% else %}
+{% continue %}
+{% endif %}
+{% endfor %}
+</ul>

@@ -43,7 +43,6 @@ version][bullish-case-audio])
 
 <center>
   <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
-
 </center>
 
 [toc]: #toc
