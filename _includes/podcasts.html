@@ -16,7 +16,7 @@
     [
     {% if pod.tags %}
       {% for tag in pod.tags %}
-      {% include tag.html tag=tag %}
+      {% include tagmoji.html tag=tag %}
       {% endfor %}
       |
     {% endif %}
