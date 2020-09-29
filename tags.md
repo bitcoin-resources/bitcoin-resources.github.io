@@ -2,11 +2,13 @@
 layout: resources
 title: Tags
 image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Bitcoin Resources
+description: Bitcoin Podcasts Categorized by Tags
 ---
 
-{% include tags.html %}
+Bitcoin seems to spawn an endless list of podcasts. Categorizing them by tags
+helps to break up the long (and growing) list.
 
+{% include tags.html %}
 {% for tag in tags %}
 ### {{ tag | capitalize }}
 {% include tagged-resources.html tag=tag %}
