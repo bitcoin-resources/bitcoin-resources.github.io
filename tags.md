@@ -8,5 +8,6 @@ description: Bitcoin Resources
 {% include tags.html %}
 
 {% for tag in tags %}
-{{ tag }}
+### {{ tag | capitalize }}
+{% include tagged-resources.html tag=tag %}
 {% endfor %}
