@@ -27,4 +27,4 @@
 {% else %}
 {% endcase %}
 
-<span title="{{ tag }}">{{ emoji }}</span>
+<a title="{{ tag }}" href="{{ './tags#' | append: tag | absolute_url }}">{{ emoji }}</a>
