@@ -13,5 +13,5 @@ rank: 12
 twitter: https://twitter.com/bennd77
 youtube: 
 level: Intermediate
-tags: ['news', 'entertainment', 'pleb', 'daily']
+tags: ['news', 'entertainment', 'pleb', 'daily', 'reading']
 ---
