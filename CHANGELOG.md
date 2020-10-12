@@ -5,18 +5,27 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
-#### 2020-09-28
+#### 2020-10-12
+- Add curations:
+  - Bitcoin Q+A
+  - Bitcoin Privacy Guide by Bitcoin Q+A
+  - No KYC only by Bitcoin Q+A
+- Add podcast episode: 
+  - TFTC #157 on WTF Happened in 1971?
+- Add podast:
+  - Bitcoin Rehab by Karo Zagorus
 
-- Add article: Bitcoin Astronomy by Dhruv Bansal
-- Add podcast episode: Michael Saylor on a Corporate Bitcoin Standard hosted by Guy Swann
+#### 2020-09-28
+- Add article:
+  - Bitcoin Astronomy by Dhruv Bansal
+- Add podcast episode:
+  - Michael Saylor on a Corporate Bitcoin Standard hosted by Guy Swann
 
 #### 2020-09-27
-
 - Add features:
   - New /podcasts page
   - Tag support for podcasts
   - New categories for podcasts: beginner, intermediate, advanced, specialized
-
 - Add podcasts:
   - HASHR8 podcast
   - Lightning Junkies podcast
@@ -24,11 +33,10 @@ title: Resources
 
 
 #### 2020-09-15
-
-- Add podcast: The Breakdown by Nathaniel Whittemore (NLW)
+- Add podcast:
+  - The Breakdown by Nathaniel Whittemore (NLW)
 
 #### 2020-09-12
-
 - Add Bitcoiner Book Club by John Vallis
 
 #### 2020-08-31
