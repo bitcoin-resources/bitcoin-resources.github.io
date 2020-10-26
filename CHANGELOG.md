@@ -5,14 +5,21 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-10-26
+- Add podcasts:
+  - Bitcoin Kindergarten Live Q&A by Nik and Optimist Fields
+  - Bitcoin OP_UXUI by Pedro
+- Add podcast episode:
+  - CB #52 with Robert Breedlove
+
 #### 2020-10-12
 - Add curations:
   - Bitcoin Q+A
   - Bitcoin Privacy Guide by Bitcoin Q+A
   - No KYC only by Bitcoin Q+A
-- Add podcast episode: 
+- Add podcast episode:
   - TFTC #157 on WTF Happened in 1971?
-- Add podast:
+- Add podcast:
   - Bitcoin Rehab by Karo Zagorus
 
 #### 2020-09-28
