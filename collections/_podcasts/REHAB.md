@@ -9,7 +9,7 @@ ios:
 android: ['https://subscribeonandroid.com/anchor.fm/s/e773900/podcast/rss']
 spotify: https://open.spotify.com/show/5O0D2twnsZ4k8HnLMVE4vS
 rss: ['https://anchor.fm/s/e773900/podcast/rss']
-rank: 26
+rank: 27
 twitter: https://twitter.com/bitcoinrehab
 youtube: 
 level: Intermediate
