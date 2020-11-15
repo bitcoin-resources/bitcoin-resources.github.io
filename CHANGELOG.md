@@ -5,6 +5,18 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-11-15
+- Add podcasts:
+  - Orange Pill Podcast by Max Keiser and Stacy Herbert
+  - The Bitcoin Matrix by Cedric Youngelman
+- Add articles:
+  - Bitcoin at 12 by Nic Carter
+  - The Last Word on Bitcoin’s Energy Consumption by Nic Carter
+  - Our Most Brilliant Idea by Robert Breedlove
+- Add curations:
+  - Best of Bitcoin Magazine by Bitcoin Magazine
+  - Bitcoin Node Guide by Bitcoin Q+A
+
 #### 2020-10-26
 - Add podcasts:
   - Bitcoin Kindergarten Live Q&A by Nik and Optimist Fields
