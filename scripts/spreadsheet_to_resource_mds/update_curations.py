@@ -21,7 +21,7 @@ for idx, row in enumerate(articles.get_all_values()):
     curation_title = row[0].lstrip().rstrip()
     curation_link = row[1]
     curation_author = row[2].lstrip().rstrip()
-    curation_author = row[3].lstrip().rstrip()
+    curation_type = row[3].lstrip().rstrip()
 
     md_file_path = title_to_file_path(curation_title, 'curations')
     if md_file_path == "":
