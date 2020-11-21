@@ -1,4 +1,7 @@
 {% assign sorted_curations = site.curations | sort: 'order' %}
+{% if include.type %}
+{% assign sorted_curations = sorted_curations | where: "type", include.type %}
+{% endif %}
 
 <ul class="curations">
 {% for curation in sorted_curations %}
