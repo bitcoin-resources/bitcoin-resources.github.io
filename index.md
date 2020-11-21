@@ -436,6 +436,13 @@ check out the [Bitcoin Developer Guide][bitcoin-dev-guide].
 
 {% include curations.html type='guide' %}
 
+#### Learning Sites 
+
+The following sites are dedicated to teach you about Bitcoin in a comprehensive,
+step-by-step fashion.
+
+{% include curations.html type='learn' %}
+
 #### Other Curations
 
 There are plenty of other curations in the Bitcoin space, created by various
