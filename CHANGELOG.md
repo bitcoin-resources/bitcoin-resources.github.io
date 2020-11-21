@@ -5,6 +5,14 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2020-11-21
+- Add guides and learning sites to "Further Resources"
+- Add guides:
+  - Multisig Guide by Michael Flaxman
+- Add learning sites:
+  - River Learn by River Financial
+  - Learn Me A Bitcoin by Greg
+
 #### 2020-11-15
 - Add podcasts:
   - Orange Pill Podcast by Max Keiser and Stacy Herbert
