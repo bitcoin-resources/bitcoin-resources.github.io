@@ -21,6 +21,7 @@ for idx, row in enumerate(articles.get_all_values()):
     curation_title = row[0].lstrip().rstrip()
     curation_link = row[1]
     curation_author = row[2].lstrip().rstrip()
+    curation_author = row[3].lstrip().rstrip()
 
     md_file_path = title_to_file_path(curation_title, 'curations')
     if md_file_path == "":
@@ -32,6 +33,7 @@ for idx, row in enumerate(articles.get_all_values()):
                 f"title: {curation_title}\n"
                 f"link: {curation_link}\n"
                 f"author: {curation_author}\n"
+                f"type: {curation_type}\n"
                 f"order: {idx}\n"
                 f"---\n")
 
