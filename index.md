@@ -438,10 +438,11 @@ check out the [Bitcoin Developer Guide][bitcoin-dev-guide].
 
 #### Other Curations
 
-There are other, more complete curations of Bitcoin content and resources. If
-you are looking for longer, more varied lists, the following got you covered:
+There are plenty of other curations in the Bitcoin space, created by various
+bitcoiners. If you are looking for more beginner-friendly or more varied lists
+the following links will be useful:
 
-{% include curations.html %}
+{% include curations.html type='curation' %}
 
 ---
 
