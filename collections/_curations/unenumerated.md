@@ -3,5 +3,6 @@ layout: page
 title: Unenumerated
 link: https://unenumerated.blogspot.com/
 author: Nick Szabo
-order: 13
+type: Curation
+order: 12
 ---
