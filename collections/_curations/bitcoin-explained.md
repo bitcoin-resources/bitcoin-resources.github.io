@@ -3,6 +3,6 @@ layout: page
 title: Bitcoin Explained
 link: https://www.bitcoin-explained.com/
 author: Bassie Wouters
-type: Explainer
+type: explainer
 order: 19
 ---

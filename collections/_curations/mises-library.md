@@ -3,6 +3,6 @@ layout: page
 title: Mises Library
 link: https://mises.org/library
 author: The Mises Institute
-type: Curation
+type: curation
 order: 11
 ---
