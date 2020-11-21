@@ -425,12 +425,16 @@ There are many great articles written by contributors of the [Bitcoin
 Wiki][wiki-bitcoin]. If you want to know more about a specific topic, the
 Bitcoin Wiki is a great resource. The [Libbitcoin Wiki][wiki-libbitcoin] has an
 amazing list of fallacies and some great explanations of Bitcoin's properties
-and principles. If you want to start hacking on Bitcoin you might want to check
-out the [Bitcoin Developer Guide][bitcoin-dev-guide].
+and principles.
 
-- [Bitcoin Wiki][wiki-bitcoin] maintained by the Bitcoin community
-- [Libbitcoin Wiki][wiki-libbitcoin] by libbitcoin developers
-- [Bitcoin Developer Guide][bitcoin-dev-guide] by bitcoin.org
+{% include curations.html type='wiki' %}
+
+There are many great guides that will help you on your bitcoin journey and
+beyond. How to set up nodes, how to take care of your privacy, how to avoid KYC,
+and many more. If you ever want to start hacking on Bitcoin you might want to
+check out the [Bitcoin Developer Guide][bitcoin-dev-guide].
+
+{% include curations.html type='guide' %}
 
 #### Other Curations
 
