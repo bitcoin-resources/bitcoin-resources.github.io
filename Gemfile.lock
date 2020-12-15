@@ -248,6 +248,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   github-pages
@@ -258,4 +259,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   2.1.4
+   2.2.0
