@@ -396,8 +396,7 @@ of my arbitrarily chosen categories above.
 One of the best ways to educate yourself on Bitcoin is by listening to the
 smartest people in the space. Luckily, we are living in the golden age of
 podcasts, and many great conversations are "open source" so to speak.
-Disclosure: I was a guest on some of these podcasts. Links to those specific
-episodes can be found [here][interviews].
+[Disclosure][interviews]: I was a guest on some of these podcasts.
 
 I consider the following podcasts the best in the space:
 
