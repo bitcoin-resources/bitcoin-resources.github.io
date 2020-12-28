@@ -71,6 +71,13 @@
 [tina2]: http://bitcoinmagazine.btc.libsynpro.com/bitcointina-on-bitcoin-part-2-how-to-value-bitcoin-and-think-about-sov
 [tina3]: http://bitcoinmagazine.btc.libsynpro.com/bitcointina-on-bitcoin-part-3how-to-think-about-investing-in-bitcoin
 [tina4]: http://bitcoinmagazine.btc.libsynpro.com/bitcoin-magazine-is-proud-to-present-bitcointina-on-bitcoin-part-4-the-path-to-100-trillion-usd-repricing-the-world-in-sats
+[saylor-series]: https://www.youtube.com/watch?v=4rvTppy1qLI&list=PL2jAZ0x9H0bRvoNt1xNJWYa9_8_an03h0
+[saylor1]: https://youtu.be/4rvTppy1qLI
+[saylor2]: https://youtu.be/rCXzHiYs38Q
+[saylor3]: https://youtu.be/VGkyVoNw9v8
+[saylor4]: https://youtu.be/1Ms7ql_S63A
+[saylor5]: https://youtu.be/eJMewJcaI50
+[saylor6]: https://youtu.be/gSc6BC1Kh2g
 
 <!-- Videos -->
 [aantonop-intro]: https://www.youtube.com/watch?v=l1si5ZWLgy0
