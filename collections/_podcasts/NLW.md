@@ -9,7 +9,7 @@ ios: https://podcasts.apple.com/us/podcast/the-breakdown/id1438693620
 android: ['https://www.subscribeonandroid.com/nlwcrypto.libsyn.com/rss']
 spotify: https://open.spotify.com/show/538vuul1PuorUDwgkC8JWF
 rss: ['http://nlwcrypto.libsyn.com/rss']
-rank: 13
+rank: 14
 twitter: https://twitter.com/BreakdownNLW
 youtube: 
 level: Intermediate
