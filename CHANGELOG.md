@@ -5,6 +5,20 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2021-01-13
+- Add articles:
+  - Bitcoin: Two Parts Math, One Part Biology by Hugo Nguyen
+  - Stone Ridge 2020 Shareholder Letter by Ross L. Stevens
+- Add guides:
+  - Lightning Node Management Guide by Openoms
+- Add selected episodes:
+  - Michael Saylor & Jeff Booth on Bitcoin as the Fight Of Our Time hosted by Daniel Prince
+- Add podcasts:
+  - 21ism by 21ism Bitcoin Art Collective
+  - A Boy Named Pseu by Phil Gibson
+  - Bit Buy Bit by Max
+  - Fed Watch by Christian Keroles and Ansel Lindner
+
 #### 2020-11-21
 - Add guides and learning sites to "Further Resources"
 - Add guides:
