@@ -78,6 +78,9 @@
 [saylor4]: https://youtu.be/1Ms7ql_S63A
 [saylor5]: https://youtu.be/eJMewJcaI50
 [saylor6]: https://youtu.be/gSc6BC1Kh2g
+[saylor7]: https://youtu.be/SojzZxhMf00
+[saylor8]: https://youtu.be/FXXx4DBi0SM
+[saylor9]: https://youtu.be/fzg9I7hHdzs
 
 <!-- Videos -->
 [aantonop-intro]: https://www.youtube.com/watch?v=l1si5ZWLgy0
