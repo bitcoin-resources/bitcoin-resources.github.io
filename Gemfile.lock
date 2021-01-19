@@ -29,7 +29,7 @@ GEM
       faraday-net_http (~> 1.0)
       multipart-post (>= 1.2, < 3)
       ruby2_keywords
-    faraday-net_http (1.0.0)
+    faraday-net_http (1.0.1)
     ffi (1.14.2)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -226,7 +226,7 @@ GEM
     rouge (2.2.1)
     ruby-enum (0.8.0)
       i18n
-    ruby2_keywords (0.0.2)
+    ruby2_keywords (0.0.4)
     ruby_dep (1.5.0)
     rubyzip (2.3.0)
     safe_yaml (1.0.5)
@@ -238,7 +238,7 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
-    simpleidn (0.1.1)
+    simpleidn (0.2.1)
       unf (~> 0.1.4)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
