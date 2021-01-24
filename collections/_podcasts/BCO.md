@@ -1,7 +1,7 @@
 ---
 layout: page
 code: BCO
-name: Bitcoin & Co.
+name: The Anita Posch Show
 hosts: Anita Posch
 link: https://bitcoinundco.com/en/
 tier: 3
