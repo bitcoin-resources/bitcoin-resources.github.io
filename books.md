@@ -41,8 +41,15 @@ Some of the books listed below were discussed at the [Bitcoiner Book
 Club](https://www.youtube.com/playlist?list=PL8GxRkxnvMl3_O3DYNQJFnVBvvt8A9qqW)
 organized by John Vallis.
 
+---
 
-#### Bitcoin (non-technical)
+<center>
+  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+</center>
+
+---
+
+## Bitcoin (non-technical)
 
 Books about Bitcoin which can be read by anyone, no special background knowledge
 or education required. As mentioned above, I consider [The Bitcoin
@@ -68,7 +75,7 @@ available for free at the [Satoshi Nakamoto Institute][complete-satoshi].
 [aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0
 [complete-satoshi]: https://satoshi.nakamotoinstitute.org/
 
-#### Bitcoin (technical)
+## Bitcoin (technical)
 
 If you would like to dig deeper or get your hands dirty with programming, these
 books are for you. Technical knowledge and skills in computer science,
@@ -87,7 +94,7 @@ GitHub][grokking-bitcoin-free] as well.
 [grokking-bitcoin-free]: https://github.com/kallerosenbaum/grokkingbitcoin
 [wikis-and-guides]: #wikis-and-guides
 
-#### Economics
+## Economics
 
 Bitcoin is capable of being the new base layer of our economy, which is why
 understanding economics is essential in understanding Bitcoin. Bitcoin's
@@ -103,7 +110,7 @@ both an ebook and an audiobook.
 
 [human-action-free]: https://mises.org/library/human-action-0
 
-#### Money
+## Money
 
 In stark contrast to our current economic system, Bitcoin does not offer the
 possibility of inflating the monetary base. Understanding money - and especially
@@ -114,7 +121,7 @@ impact of Bitcoin.
 
 All of the above are available for free at the Mises Institute.
 
-#### Banking
+## Banking
 
 Banking is a mystery to most, and central banking doubly so. Bitcoin isn't
 necessarily an enemy of the former, but, if successful, it will abolish and
@@ -122,7 +129,7 @@ replace the latter.
 
 {% include books.html category='banking' %}
 
-#### The Big Picture
+## The Big Picture
 
 Bitcoin is an empowering, freedom-enabling technology. It allows individuals to
 become self-sovereign in matters of money and finance, just like other
@@ -139,7 +146,7 @@ understand this shift than the one by Davidson and Rees-Mogg.
 
 [The Sovereign Individual]: {{ '/books/the-sovereign-individual' | absolute_url }}
 
-#### Software and Programming
+## Software and Programming
 
 Bitcoin is free, libre open-source software. It is free as in freedom, free as
 in free speech. What this means, why free software exists, and what the
@@ -149,7 +156,7 @@ programming are important cornerstones for Bitcoin as well.
 
 {% include books.html category='software' %}
 
-#### Computation and Complexity Theory
+## Computation and Complexity Theory
 
 While Bitcoin is in the business of verification and not computation, knowing
 the limits of what computers can do and what future computers might be able to
@@ -174,7 +181,7 @@ to complex systems.
 [quantum-computing-since-democritus-free]: https://www.scottaaronson.com/democritus/
 [a-new-kind-of-science]: {{ '/books/a-new-kind-of-science' | absolute_url }}
 
-#### Nassim Taleb
+## Nassim Taleb
 
 Highly improbable events, such as the invention of Bitcoin, are almost
 impossible to predict. However, [Nassim Nicholas Taleb][nntaleb] wrote multiple
@@ -187,7 +194,7 @@ and participation requires *skin in the game*.
 
 [nntaleb]: https://twitter.com/nntaleb
 
-#### Work
+## Work
 
 Decentralized networks like Bitcoin, and the internet before it, change the way
 people interact and work with each other. People who work on or create content
@@ -198,3 +205,5 @@ on things. If you think about working on Bitcoin or other open-source projects,
 these books are for you.
 
 {% include books.html category='work' %}
+
+{% include bibliography.md %}
