@@ -85,4 +85,10 @@ The following podcasts are not active anymore.
 
 {% include podcasts.html tier="0" %}
 
+---
+
+[« back to overview][index]
+
+[index]: {{ '#podcasts' | absolute_url }}
+
 {% include bibliography.md %}

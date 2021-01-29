@@ -210,8 +210,6 @@ these books are for you.
 
 [« back to overview][index]
 
-[index]: {{ '' | absolute_url }}
-
----
+[index]: {{ '#books' | absolute_url }}
 
 {% include bibliography.md %}

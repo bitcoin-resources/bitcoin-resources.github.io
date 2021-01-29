@@ -153,8 +153,6 @@ of my arbitrarily chosen categories above.
 
 [« back to overview][index]
 
-[index]: {{ '' | absolute_url }}
-
----
+[index]: {{ '#articles' | absolute_url }}
 
 {% include bibliography.md %}
