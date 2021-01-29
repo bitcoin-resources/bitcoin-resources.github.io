@@ -84,9 +84,7 @@ One of the best articles to read if you are new to Bitcoin is [The Bullish Case
 for Bitcoin][bullish-case], which outlines why there are very good reasons to be
 optimistic about Bitcoin's future.
 
-- [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati
-
-{% include articles.html category="Bitcoin's Uniqueness" %}
+{% include articles_starred.html %}
 
 [View all articles »][articles]
 
