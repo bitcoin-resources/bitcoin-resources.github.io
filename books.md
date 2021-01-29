@@ -206,4 +206,12 @@ these books are for you.
 
 {% include books.html category='work' %}
 
+---
+
+[« back to overview][index]
+
+[index]: {{ '' | absolute_url }}
+
+---
+
 {% include bibliography.md %}
