@@ -19,6 +19,14 @@ optimistic about Bitcoin's future.
 
 - [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati
 
+---
+
+<center>
+  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+</center>
+
+---
+
 ## The Difficulty of Understanding Bitcoin
 
 Bitcoin isn't exactly easy to understand. Some of the reasons for this
@@ -26,9 +34,9 @@ phenomenon are explored in the following articles:
 
 {% include articles.html category='The Difficulty of Understanding Bitcoin' %}
 
-I explore the multi-disciplinary nature of Bitcoin at [21Lessons.com].
+I explore the multi-disciplinary nature of Bitcoin in [21 Lessons].
 
-[21Lessons.com]: http://21lessons.com
+[21 Lessons]: http://21lessons.com
 
 ## Bitcoin's Uniqueness
 
