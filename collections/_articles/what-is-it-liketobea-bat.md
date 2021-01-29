@@ -7,4 +7,7 @@ category: Lesson Links
 date: Oct 1, 1974
 lesson: 4
 audio: 
+audio2: 
+audio3: 
+star: 
 ---

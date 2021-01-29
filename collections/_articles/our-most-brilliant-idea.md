@@ -7,4 +7,7 @@ category: Misc
 date: Nov 2, 2020
 lesson: 
 audio: https://anchor.fm/thecryptoconomy/episodes/Read_457---Our-Most-Brilliant-Idea-Robert-Breedlove-em06ee
+audio2: 
+audio3: 
+star: 
 ---

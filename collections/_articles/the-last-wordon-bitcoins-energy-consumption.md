@@ -7,4 +7,7 @@ category: Proof-of-work
 date: May 19, 2020
 lesson: 17
 audio: https://anchor.fm/thecryptoconomy/episodes/Read_454---The-Last-Word-on-Bitcoins-Energy-Consumption-Nic-Carter-ellq8h
+audio2: 
+audio3: 
+star: TRUE
 ---

@@ -7,4 +7,7 @@ category: Bitcoin's Uniqueness
 date: Jun 29, 2018
 lesson: 
 audio: https://anchor.fm/thecryptoconomy/episodes/Read_417---On-Schelling-Points--Network-Effects---Lindy-Willem-Van-Den-Bergh-eghjp4
+audio2: 
+audio3: 
+star: 
 ---

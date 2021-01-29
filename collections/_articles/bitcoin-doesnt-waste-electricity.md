@@ -7,4 +7,7 @@ category: Proof-of-work
 date: Mar 30, 2017
 lesson: 17
 audio: 
+audio2: 
+audio3: 
+star: 
 ---

@@ -7,4 +7,7 @@ category: Through the Looking Glass
 date: Aug 7, 2019
 lesson: 1
 audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_285---Proof-of-Life-dergigi-e51lt1/a-alann0
+audio2: 
+audio3: 
+star: 
 ---

@@ -7,4 +7,7 @@ category: Through the Looking Glass
 date: Jun 10, 2018
 lesson: 1
 audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_245---Bitcoins-Gravity-dergigi-e3urjl/a-aefav4
+audio2: 
+audio3: 
+star: 
 ---

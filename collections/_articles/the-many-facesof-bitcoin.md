@@ -7,4 +7,7 @@ category: Bitcoin's Identity
 date: Apr 9, 2018
 lesson: 
 audio: 
+audio2: 
+audio3: 
+star: 
 ---

@@ -7,4 +7,7 @@ category: Lesson Links
 date: Sep 29, 2017
 lesson: 1
 audio: 
+audio2: 
+audio3: 
+star: 
 ---

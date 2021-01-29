@@ -7,4 +7,7 @@ category: The Difficulty of Understanding Bitcoin
 date: May 14, 2018
 lesson: 
 audio: 
+audio2: 
+audio3: 
+star: 
 ---

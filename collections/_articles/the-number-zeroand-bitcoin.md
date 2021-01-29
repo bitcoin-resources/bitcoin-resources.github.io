@@ -7,4 +7,7 @@ category: Bitcoin's Uniqueness
 date: Mar 29, 2020
 lesson: 
 audio: https://anchor.fm/thecryptoconomy/episodes/Read_374---The-Number-Zero--Bitcoin-Robert-Breedlove-ecbnnq
+audio2: 
+audio3: 
+star: TRUE
 ---

@@ -7,4 +7,7 @@ category: Bitcoin's Uniqueness
 date: Mar 19, 2014
 lesson: 1
 audio: 
+audio2: 
+audio3: 
+star: 
 ---

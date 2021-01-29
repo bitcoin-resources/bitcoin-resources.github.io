@@ -7,4 +7,7 @@ category: Privacy
 date: Aug 19, 1993
 lesson: 19
 audio: 
+audio2: 
+audio3: 
+star: 
 ---

@@ -7,4 +7,7 @@ category: Cypherpunks
 date: Sep 10, 1994
 lesson: 20
 audio: 
+audio2: 
+audio3: 
+star: 
 ---

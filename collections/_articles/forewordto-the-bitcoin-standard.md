@@ -7,4 +7,7 @@ category: Bitcoin as a Living Organism
 date: Jan 22, 2018
 lesson: 
 audio: 
+audio2: 
+audio3: 
+star: 
 ---
