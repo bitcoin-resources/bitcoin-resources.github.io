@@ -1,9 +1,11 @@
 ---
 layout: resources
-title: Podcasts
+title: Bitcoin Podcasts
 image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Curated Bitcoin podcasts and episodes.
 ---
+
+# Bitcoin Podcasts
 
 The list of podcasts is roughly grouped into
 [beginner](#beginner),
@@ -24,25 +26,25 @@ series](#noteworthy-podcast-series).
 
 ---
 
-### Beginner
+## Beginner
 
 {% include podcasts.html level="Beginner" %}
 
 ---
 
-### Intermediate
+## Intermediate
 
 {% include podcasts.html level="Intermediate" %}
 
 ---
 
-### Advanced
+## Advanced
 
 {% include podcasts.html level="Advanced" %}
 
 ---
 
-### Specialized
+## Specialized
 
 As Bitcoin grows, more specialization is to be expected. The following podcasts
 focus on one specific aspect of Bitcoin, such as the Lightning Network or
@@ -52,7 +54,7 @@ mining.
 
 ---
 
-### Noteworthy Podcast Series
+## Noteworthy Podcast Series
 
 The following podcast series are worth listening to in full:
 
@@ -63,7 +65,7 @@ The following podcast series are worth listening to in full:
 
 ---
 
-### Selected Podcast Episodes
+## Selected Podcast Episodes
 
 Some "evergreen" episodes were recorded in the last couple of years. Again, this
 is a personal selection so it is biased towards certain guests and topics.
@@ -77,7 +79,7 @@ episode.
 
 ---
 
-### Archive
+## Archive
 
 The following podcasts are not active anymore.
 

@@ -4,5 +4,5 @@ title: No KYC only
 link: https://bitcoinqna.github.io/noKYConly/
 author: Bitcoin Q+A
 type: guide
-order: 16
+order: 17
 ---

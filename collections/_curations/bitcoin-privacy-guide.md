@@ -4,5 +4,5 @@ title: Bitcoin Privacy Guide
 link: https://bitcoinprivacy.guide/
 author: Bitcoin Q+A
 type: guide
-order: 17
+order: 18
 ---
