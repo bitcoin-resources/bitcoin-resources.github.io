@@ -28,6 +28,9 @@ for row in articles.get_all_values():
     article_date = row[4] if row[4] != '' else NO_DATE
     article_lesson = row[5].lstrip().rstrip()
     article_audio = row[6].lstrip().rstrip()
+    article_audio2 = row[7].lstrip().rstrip()
+    article_audio3 = row[8].lstrip().rstrip()
+    article_star = row[9].lstrip().rstrip()
 
     md_file_path = title_to_file_path(article_title, 'articles')
     if md_file_path == "":
@@ -43,6 +46,9 @@ for row in articles.get_all_values():
                 f"date: {article_date}\n"
                 f"lesson: {article_lesson}\n"
                 f"audio: {article_audio}\n"
+                f"audio2: {article_audio2}\n"
+                f"audio3: {article_audio3}\n"
+                f"star: {article_star}\n"
                 f"---\n")
 
     with open(md_file_path, 'w') as f:

@@ -7,4 +7,7 @@ category: A Social Revolution
 date: Sep 7, 2019
 lesson: 6
 audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_293---A-Most-Peaceful-Revolution-Nic-Carter-e5bfpm/a-an7otc
+audio2: 
+audio3: 
+star: TRUE
 ---

@@ -7,4 +7,7 @@ category: Through the Looking Glass
 date: Oct 3, 2019
 lesson: 6
 audio: 
+audio2: 
+audio3: 
+star: 
 ---

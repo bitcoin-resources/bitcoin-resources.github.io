@@ -7,4 +7,7 @@ category: Misc
 date: Nov 29, 2019
 lesson: 
 audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_363---Bitcoin-is-Not-for-Criminals-Parker-Lewis-ebcs6f/a-a1lt3lg
+audio2: 
+audio3: 
+star: 
 ---

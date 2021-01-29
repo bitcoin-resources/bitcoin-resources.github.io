@@ -7,4 +7,7 @@ category: Through the Looking Glass
 date: Aug 22, 2019
 lesson: 6
 audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_292---Rise-of-the-Sovereign-Individual-dergigi-e58uoj/a-amikhb
+audio2: 
+audio3: 
+star: 
 ---

@@ -7,4 +7,7 @@ category: Lesson Links
 date: Jan 1, 1981
 lesson: 3
 audio: 
+audio2: 
+audio3: 
+star: 
 ---

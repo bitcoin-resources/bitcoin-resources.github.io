@@ -7,4 +7,7 @@ category: A Social Revolution
 date: Jan 5, 2021
 lesson: 
 audio: https://anchor.fm/thecryptoconomy/episodes/Read_482---The-Stone-Ridge-Letter-Ross-Stevens-eol4m1
+audio2: 
+audio3: 
+star: TRUE
 ---
