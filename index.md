@@ -77,8 +77,8 @@ Bitcoin.
 Many amazing articles have been written about Bitcoin. I am aware that trying to
 link to all of them is futile, but I want to make an effort and at least
 highlight some of them. I highly recommend the [literature listed][sni] at the
-Nakamoto Institute, the selection of [articles read][guy-episodes] by
-Guy Swann, and the [writings collected][brh-writings] by Adam Taché.
+Nakamoto Institute and the selection of [articles read][guy-episodes] by
+Guy Swann.
 
 One of the best articles to read if you are new to Bitcoin is [The Bullish Case
 for Bitcoin][bullish-case], which outlines why there are very good reasons to be
