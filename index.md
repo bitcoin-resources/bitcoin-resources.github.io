@@ -11,7 +11,7 @@ Case for Bitcoin][bullish-case].
 
 ---
 
-### Essentials
+## Essentials
 
 I encourage everyone to start at the beginning, and read -- or at least skim --
 the 8 pages which gave birth to Bitcoin:
@@ -57,7 +57,7 @@ version][bullish-case-audio])
 ---
 
 
-### Books
+## Books
 
 Books about Bitcoin which can be read by anyone, no special background knowledge
 or education required. As mentioned above, I consider [The Bitcoin
@@ -72,7 +72,7 @@ Bitcoin.
 
 ---
 
-### Articles
+## Articles
 
 Many amazing articles have been written about Bitcoin. I am aware that trying to
 link to all of them is futile, but I want to make an effort and at least
@@ -86,7 +86,7 @@ optimistic about Bitcoin's future.
 
 - [The Bullish Case for Bitcoin][bullish-case] by Vijay Boyapati
 
-#### The Difficulty of Understanding Bitcoin
+### The Difficulty of Understanding Bitcoin
 
 Bitcoin isn't exactly easy to understand. Some of the reasons for this
 phenomenon are explored in the following articles:
@@ -97,21 +97,21 @@ I explore the multi-disciplinary nature of Bitcoin at [21Lessons.com].
 
 [21Lessons.com]: http://21lessons.com
 
-#### Bitcoin's Uniqueness
+### Bitcoin's Uniqueness
 
 Why Bitcoin, and not something else? Because Bitcoin matters, Bitcoin is unique,
 Bitcoin is fair, and Bitcoin is way better than you think.
 
 {% include articles.html category="Bitcoin's Uniqueness" %}
 
-#### Money
+### Money
 
 If you aren't ready yet to read [books on money][money], these articles are a
 great entry point to start learning about the purpose and history of money.
 
 {% include articles.html category='Money' %}
 
-#### Proof-of-work
+### Proof-of-work
 
 In my opinion, proof-of-work is one of the most misunderstood parts of the
 Bitcoin puzzle. It solves multiple problems, making it one of the most integral
@@ -126,7 +126,7 @@ Consumption: A shift in perspective][energy-consumption] and in [Lesson 17][less
 [energy-consumption]: https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/
 [lesson-17]: https://21lessons.com/17
 
-#### Bitcoin's Identity
+### Bitcoin's Identity
 
 What is Bitcoin? This question is surprisingly difficult to answer. It is a
 network (Bitcoin), money (bitcoin), software (various implementations), an idea
@@ -139,7 +139,7 @@ I explore Bitcoin's identity in [Lesson 4][lesson-4].
 
 [lesson-4]: https://21lessons.com/4
 
-#### A Social Revolution
+### A Social Revolution
 
 Bitcoin is not only a technological, financial, and monetary phenomenon, it is
 also a global revolution. Bitcoin captures the hearts and minds of people all
@@ -156,7 +156,7 @@ Sovereign Individual][rise-of-the-sovereign-individual].
 [lesson-1]: https://21lessons.com/1
 [rise-of-the-sovereign-individual]: https://medium.com/bull-bitcoin/the-rise-of-the-sovereign-individual-2201eee82f00
 
-#### Who Controls Bitcoin?
+### Who Controls Bitcoin?
 
 One of the first responses of people learning about Bitcoin is "Yeah yeah I get
 it... but who controls it?" The question of control is not an easy one to
@@ -171,7 +171,7 @@ and in [The Magic Dust of Cryptography][magic-dust].
 [magic-dust]: https://dergigi.com/2018/08/17/the-magic-dust-of-cryptography/
 [lesson-6]: https://21lessons.com/6
 
-#### Bitcoin as a Living Organism
+### Bitcoin as a Living Organism
 
 Ralph Merkle famously called Bitcoin ["the first example of a new form of
 life."][dao-merkle]. Others developed this idea further, which is - in my
@@ -184,7 +184,7 @@ Life][proof-of-life].
 
 [proof-of-life]: https://dergigi.com/2019/08/07/proof-of-life/
 
-#### Cypherpunks
+### Cypherpunks
 
 Bitcoin is cypherpunk technology. Made by a cypherpunk, based on cypherpunk
 ideas. I consider exposure to the ideas and ideals of cypherpunk culture
@@ -192,7 +192,7 @@ essential.
 
 {% include articles.html category="Cypherpunks" %}
 
-#### Privacy
+### Privacy
 
 Without digital cash, a cashless society is a surveillance society. While
 privacy in Bitcoin is not a given, there are various ways to transact privately.
@@ -201,7 +201,7 @@ privately is essential, and why it has to be protected.
 
 {% include articles.html category="Privacy" %}
 
-#### Misc
+### Misc
 
 The following are what I consider excellent articles that didn't fit into one
 of my arbitrarily chosen categories above.
@@ -210,7 +210,7 @@ of my arbitrarily chosen categories above.
 
 ---
 
-### Podcasts
+## Podcasts
 
 One of the best ways to educate yourself on Bitcoin is by listening to the
 smartest people in the space. Luckily, we are living in the golden age of
@@ -223,7 +223,7 @@ I consider the following podcasts the best in the space:
 
 [View all podcasts »][podcasts]
 
-#### Selected Podcast Episodes
+### Selected Podcast Episodes
 
 You can find all selected podcast episodes [here][selected-episodes].
 
@@ -232,12 +232,12 @@ You can find all selected podcast episodes [here][selected-episodes].
 
 ---
 
-### Further Resources
+## Further Resources
 
 The more rabbit holes, the better! Don't rely on this resource page alone, there
 are plenty of other excellent curations.
 
-#### Wikis and Guides
+### Wikis and Guides
 
 There are many great articles written by contributors of the [Bitcoin
 Wiki][wiki-bitcoin]. If you want to know more about a specific topic, the
@@ -254,14 +254,14 @@ check out the [Bitcoin Developer Guide][bitcoin-dev-guide].
 
 {% include curations.html type='guide' %}
 
-#### Learning Sites
+### Learning Sites
 
 The following sites are dedicated to teach you about Bitcoin in a comprehensive,
 step-by-step fashion.
 
 {% include curations.html type='learn' %}
 
-#### Other Curations
+### Other Curations
 
 There are plenty of other curations in the Bitcoin space, created by various
 bitcoiners. If you are looking for more beginner-friendly or more varied lists
@@ -271,7 +271,7 @@ the following links will be useful:
 
 ---
 
-### About these Resources
+## About these Resources
 
 The resources listed above are but a small selection which was particularly
 influential in my thinking. A sincere *thank you* to all the people who shared
