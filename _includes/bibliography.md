@@ -126,5 +126,6 @@
 [issues]: https://github.com/bitcoin-resources/bitcoin-resources.github.io/issues
 
 <!-- Internal -->
+[dergigi]: https://dergigi.com
 [contact]: https://dergigi.com/contact
 [interviews]: https://dergigi.com/interviews
