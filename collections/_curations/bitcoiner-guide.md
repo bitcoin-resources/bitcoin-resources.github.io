@@ -4,5 +4,6 @@ title: Bitcoiner Guide
 link: https://bitcoiner.guide/
 author: Bitcoin Q+A
 type: guide
-order: 16
+star: YES
+order: 15
 ---

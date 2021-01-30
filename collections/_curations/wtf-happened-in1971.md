@@ -2,7 +2,8 @@
 layout: page
 title: WTF Happened In 1971?
 link: https://wtfhappenedin1971.com/
-author: Ben Prentice and Collin
+author: Ben Prentice and HAC
 type: curation
-order: 13
+star: YES
+order: 12
 ---

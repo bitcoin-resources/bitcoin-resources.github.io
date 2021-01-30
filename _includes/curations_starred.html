@@ -1,0 +1,9 @@
+{% assign sorted_curations = site.curations | where: 'star', true | sort: 'order' %}
+
+<ul class="curations">
+{% for curation in sorted_curations %}
+  <li>
+    <a href="{{ curation.link }}" target="_blank">{{ curation.title }}</a> by {{ curation.author }}
+  </li>
+{% endfor %}
+</ul>
