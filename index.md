@@ -13,7 +13,7 @@ Case for Bitcoin][bullish-case].
 
 ## Essentials
 
-I encourage everyone to start at the beginning, and read -- or at least skim --
+Start at the beginning, and read -- or at least skim --
 the 8 pages which gave birth to Bitcoin:
 
 - [Bitcoin: A Peer-to-Peer Electronic Cash System][bitcoin-whitepaper] by Satoshi Nakamoto
@@ -22,9 +22,9 @@ To get a grasp on Bitcoin you will have to read a book or two.  If you only want
 to read one book, you can't do wrong with Saifedean's **[The Bitcoin
 Standard][the-bitcoin-standard]**. Bitcoin is money, so understanding [The
 Ethics of Money Production][the-ethics-of-money-production] is paramount to
-understanding what Bitcoin is about. If you need a crash-course in economics I
-recommend reading [Economics in One Lesson][economics-in-one-lesson] by Henry
-Hazlitt. All three books are also available as audiobooks.
+understanding what Bitcoin is about. If you need a crash-course in economics,
+read [Economics in One Lesson][economics-in-one-lesson] by Henry
+Hazlitt.
 
 [economics-in-one-lesson]: {{ '/books/economics-in-one-lesson' | absolute_url }}
 [the-bitcoin-standard]: {{ '/books/the-bitcoin-standard' | absolute_url }}
