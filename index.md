@@ -94,9 +94,8 @@ optimistic about Bitcoin's future.
 One of the best ways to educate yourself on Bitcoin is by listening to the
 smartest people in the space. Luckily, we are living in the golden age of
 podcasts, and many great conversations are "open source" so to speak.
-[Disclosure][interviews]: I was a guest on some of these podcasts.
 
-I consider the following podcasts the best in the space:
+The following podcasts are among the best in the space:
 
 {% include podcasts.html tier="1" %}
 
@@ -104,7 +103,7 @@ I consider the following podcasts the best in the space:
 
 ### Selected Podcast Episodes
 
-You can find all selected podcast episodes [here][selected-episodes].
+You can find a list of selected podcast episodes [here][selected-episodes].
 
 [podcasts]: {{ '/podcasts' | absolute_url }}
 [selected-episodes]: {{ '/podcasts#selected-podcast-episodes' | absolute_url }}
