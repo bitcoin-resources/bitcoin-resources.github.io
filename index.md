@@ -58,9 +58,8 @@ version][bullish-case-audio])
 ## Books
 
 Books about Bitcoin which can be read by anyone, no special background knowledge
-or education required. As mentioned above, I consider [The Bitcoin
-Standard][the-bitcoin-standard] required reading for anyone interested in
-Bitcoin.
+or education required. As mentioned above, [The Bitcoin Standard][the-bitcoin-standard]
+is required reading for anyone interested in Bitcoin.
 
 {% include books.html category='non-technical' %}
 
@@ -72,11 +71,11 @@ Bitcoin.
 
 ## Articles
 
-Many amazing articles have been written about Bitcoin. I am aware that trying to
-link to all of them is futile, but I want to make an effort and at least
-highlight some of them. I highly recommend the [literature listed][sni] at the
-Nakamoto Institute and the selection of [articles read][guy-episodes] by
-Guy Swann.
+Many amazing articles have been written about Bitcoin. Trying to
+link to all of them is futile. The following is an effort to highlight
+at least some of them. For a more comprehensive list of resources please
+refer to the literature listed at the [Satoshi Nakamoto Institute][sni] and the
+selection of articles read by [Bitcoin Audible][guy-episodes].
 
 One of the best articles to read if you are new to Bitcoin is [The Bullish Case
 for Bitcoin][bullish-case], which outlines why there are very good reasons to be
