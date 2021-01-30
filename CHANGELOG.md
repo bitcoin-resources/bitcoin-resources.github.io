@@ -12,6 +12,11 @@ title: Resources
 - Add guides:
   - Bitcoin Best Practices by Matt Odell
   - TFTC Video Guides by Matt Odell
+- Add books:
+  - Independence Reimagined
+  - Layered Money
+  - Magic Internet Money
+  - Bitcoin & Black America
 
 #### 2021-01-29
 - Add features:
