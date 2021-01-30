@@ -117,16 +117,18 @@ are many excellent curations and guides by other bitcoiners, such as:
 
 {% include curations_starred.html %}
 
-[View all curations »][articles]
+[More Resources »][further-resources]
+
+[further-resources]: {{ '/further-resources' | absolute_url }}
 
 ---
 
 ## About these Resources
 
 The resources listed above are but a small selection which was particularly
-influential in my thinking. A sincere *thank you* to all the people who shared
-their thoughts and insights, past and present. I have learned so much, and for
-that, I will be eternally grateful.
+influential in [my thinking][dergigi]. A sincere *thank you* to all the people
+who shared their thoughts and insights, past and present. I have learned so
+much, and for that, I will be eternally grateful.
 
 If you have suggestions for content or improvements, feel free to open issues
 or PRs on [GitHub][issues] or [reach out to me][contact].
