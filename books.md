@@ -64,12 +64,17 @@ readers of all ages.
 
 {% include books.html category='non-technical2' %}
 
+More books are coming out every year, relating Bitcoin to different fields
+and examining it from different angles.
+
+{% include books.html category='non-technical3' %}
+
 The Internet of Money books are a collection of talks by Andreas Antonopoulos,
 most of which are available for [free on YouTube][aantonop-bitcoin-talks]. The
 Book Of Satoshi is a collection of Satoshi Nakamoto's writings, which are
 available for free at the [Satoshi Nakamoto Institute][complete-satoshi].
 
-{% include books.html category='non-technical3' %}
+{% include books.html category='non-technical4' %}
 
 [bitcoin-money]: {{ '/books/bitcoin-money' | absolute_url }}
 [aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0

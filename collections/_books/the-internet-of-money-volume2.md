@@ -3,7 +3,7 @@ layout: page-books
 title: The Internet Of Money (Volume 2)
 subtitle: 
 essential: 
-categories: ['non-technical3']
+categories: ['non-technical4']
 authors: ['Andreas Antonopoulos']
 authors_twitter: ['https://twitter.com/aantonop']
 resource_url: https://theinternetofmoney.info/
