@@ -131,6 +131,6 @@ who shared their thoughts and insights, past and present. I have learned so
 much, and for that, I will be eternally grateful.
 
 If you have suggestions for content or improvements, feel free to open issues
-or PRs on [GitHub][issues] or [reach out to me][contact].
+or PRs on [GitHub][issues] or reach out to me.
 
 {% include bibliography.md %}
