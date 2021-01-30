@@ -6,7 +6,7 @@ essential: true
 categories: ['non-technical']
 authors: ['Saifedean Ammous']
 authors_twitter: ['https://twitter.com/saifedean']
-resource_url: https://thesaifhouse.wpcomstaging.com/book/
+resource_url: https://saifedean.com/thebitcoinstandard/
 amazon_url: https://amzn.to/2TLl5RP
 wikipedia_url: 
 free_url: 

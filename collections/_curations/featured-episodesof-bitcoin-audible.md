@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Featured Episodes of the Cryptoconomy Podcast
+title: Featured Episodes of Bitcoin Audible
 link: https://sourcecrypto.pub/blog/thecryptoconomy-podcast-deep-dive/
 author: Infominer
 type: curation
-order: 6
+star: 
+order: 5
 ---
