@@ -5,6 +5,21 @@ title: Resources
 
 ### Bitcoin Resources Changelog
 
+#### 2021-01-30
+- Add features:
+  - Dedicated page for /further-resources
+  - Further remove clutter from the landing page
+- Add guides:
+  - Bitcoin Best Practices by Matt Odell
+  - TFTC Video Guides by Matt Odell
+
+#### 2021-01-29
+- Add features:
+  - Dedicated pages for /books and /articles
+  - Remove clutter from the landing page
+- Add guides:
+  - bitcoiner.guide by Bitcoin Q+A
+
 #### 2021-01-13
 - Add articles:
   - Bitcoin: Two Parts Math, One Part Biology by Hugo Nguyen
