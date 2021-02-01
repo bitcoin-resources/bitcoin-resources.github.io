@@ -52,6 +52,12 @@ great entry point to start learning about the purpose and history of money.
 
 {% include articles.html category='Money' %}
 
+I wrote about money and the history and downfall of money in [Lesson
+11][lesson-11] and [Lesson 12][lesson-12].
+
+[lesson-11]: https://21lessons.com/11
+[lesson-12]: https://21lessons.com/12
+
 ## Proof-of-work
 
 In my opinion, proof-of-work is one of the most misunderstood parts of the
