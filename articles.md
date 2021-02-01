@@ -47,7 +47,7 @@ Bitcoin is fair, and Bitcoin is way better than you think.
 
 ## Money
 
-If you aren't ready yet to read [books on money][money], these articles are a
+If you aren't ready yet to read [books on money][moneybooks], these articles are a
 great entry point to start learning about the purpose and history of money.
 
 {% include articles.html category='Money' %}
@@ -66,6 +66,7 @@ Consumption: A shift in perspective][energy-consumption] and in [Lesson 17][less
 
 [energy-consumption]: https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/
 [lesson-17]: https://21lessons.com/17
+[moneybooks]: {{ '/books/#money' | absolute_url }}
 
 ## Bitcoin's Identity
 
