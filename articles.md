@@ -98,8 +98,8 @@ following.
 {% include articles.html category='A Social Revolution' %}
 
 I explore some of the societal impacts in [Lesson 1][lesson-1] and wrote about
-some of these impacts - in relation to current affairs - in [The Rise of the
-Sovereign Individual][rise-of-the-sovereign-individual].
+some of these impacts in [The Rise of the Sovereign
+Individual][rise-of-the-sovereign-individual].
 
 [lesson-1]: https://21lessons.com/1
 [rise-of-the-sovereign-individual]: https://medium.com/bull-bitcoin/the-rise-of-the-sovereign-individual-2201eee82f00
@@ -128,9 +128,10 @@ opinion - one of the most useful analogies to understand Bitcoin.
 {% include articles.html category="Bitcoin as a Living Organism" %}
 
 I explore the idea of Bitcoin as a living organism in [Proof of
-Life][proof-of-life].
+Life][proof-of-life] and [Bitcoin's Habitats][bitcoins-habitats].
 
 [proof-of-life]: https://dergigi.com/2019/08/07/proof-of-life/
+[bitcoins-habitats]: https://dergigi.com/2020/03/01/bitcoin-s-habitats/
 
 ## Cypherpunks
 
