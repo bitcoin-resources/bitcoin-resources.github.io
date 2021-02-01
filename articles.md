@@ -83,9 +83,11 @@ network (Bitcoin), money (bitcoin), software (various implementations), an idea
 
 {% include articles.html category="Bitcoin's Identity" %}
 
-I explore Bitcoin's identity in [Lesson 4][lesson-4].
+I explore Bitcoin's identity in [Lesson 4][lesson-4] and [Bitcoin's
+Gravity][gravity].
 
 [lesson-4]: https://21lessons.com/4
+[gravity]: https://dergigi.com/2019/05/01/bitcoins-gravity/
 
 ## A Social Revolution
 
