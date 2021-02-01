@@ -47,10 +47,16 @@ Bitcoin is fair, and Bitcoin is way better than you think.
 
 ## Money
 
-If you aren't ready yet to read [books on money][money], these articles are a
+If you aren't ready yet to read [books on money][moneybooks], these articles are a
 great entry point to start learning about the purpose and history of money.
 
 {% include articles.html category='Money' %}
+
+I wrote about money and the history and downfall of money in [Lesson
+11][lesson-11] and [Lesson 12][lesson-12].
+
+[lesson-11]: https://21lessons.com/11
+[lesson-12]: https://21lessons.com/12
 
 ## Proof-of-work
 
@@ -66,6 +72,7 @@ Consumption: A shift in perspective][energy-consumption] and in [Lesson 17][less
 
 [energy-consumption]: https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/
 [lesson-17]: https://21lessons.com/17
+[moneybooks]: {{ '/books/#money' | absolute_url }}
 
 ## Bitcoin's Identity
 
@@ -76,9 +83,11 @@ network (Bitcoin), money (bitcoin), software (various implementations), an idea
 
 {% include articles.html category="Bitcoin's Identity" %}
 
-I explore Bitcoin's identity in [Lesson 4][lesson-4].
+I explore Bitcoin's identity in [Lesson 4][lesson-4] and [Bitcoin's
+Gravity][gravity].
 
 [lesson-4]: https://21lessons.com/4
+[gravity]: https://dergigi.com/2019/05/01/bitcoins-gravity/
 
 ## A Social Revolution
 
@@ -91,8 +100,8 @@ following.
 {% include articles.html category='A Social Revolution' %}
 
 I explore some of the societal impacts in [Lesson 1][lesson-1] and wrote about
-some of these impacts - in relation to current affairs - in [The Rise of the
-Sovereign Individual][rise-of-the-sovereign-individual].
+some of these impacts in [The Rise of the Sovereign
+Individual][rise-of-the-sovereign-individual].
 
 [lesson-1]: https://21lessons.com/1
 [rise-of-the-sovereign-individual]: https://medium.com/bull-bitcoin/the-rise-of-the-sovereign-individual-2201eee82f00
@@ -121,9 +130,10 @@ opinion - one of the most useful analogies to understand Bitcoin.
 {% include articles.html category="Bitcoin as a Living Organism" %}
 
 I explore the idea of Bitcoin as a living organism in [Proof of
-Life][proof-of-life].
+Life][proof-of-life] and [Bitcoin's Habitats][bitcoins-habitats].
 
 [proof-of-life]: https://dergigi.com/2019/08/07/proof-of-life/
+[bitcoins-habitats]: https://dergigi.com/2020/03/01/bitcoin-s-habitats/
 
 ## Cypherpunks
 
