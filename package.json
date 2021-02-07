@@ -22,7 +22,9 @@
   ],
   "dependencies": {
     "aos": "^2.3.4",
+    "global": "^4.4.0",
     "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
     "jekyll-infinite-scroll": "^1.0.5",
     "jquery": "^3.5.1",
     "salvattore": "^1.0.9"
