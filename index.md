@@ -54,6 +54,15 @@ version][bullish-case-audio])
 
 ---
 
+## Videos
+
+<div class="flex-vid">
+  <iframe src="https://www.youtube-nocookie.com/embed/xLYYh4aPXAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+[View all videos »][videos]
+
+[videos]: {{ '/videos' | absolute_url }}
 
 ## Books
 
