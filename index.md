@@ -58,9 +58,9 @@ version][bullish-case-audio])
 
 <iframe src="https://www.youtube-nocookie.com/embed/xLYYh4aPXAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[View all videos »][books]
+[View all videos »][videos]
 
-[books]: {{ '/books' | absolute_url }}
+[videos]: {{ '/videos' | absolute_url }}
 
 ## Books
 
