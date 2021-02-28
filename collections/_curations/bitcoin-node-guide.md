@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bitcoin Node Guide
-link: https://node.guide/
+link: https://bitcoiner.guide/node/
 author: Bitcoin Q+A
 type: guide
 star: 

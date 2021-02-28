@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bitcoin Privacy Guide
-link: https://bitcoinprivacy.guide/
+link: https://bitcoiner.guide/privacy/
 author: Bitcoin Q+A
 type: guide
 star: 
