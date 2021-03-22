@@ -102,7 +102,7 @@ see the value of bitcoin.
 ### Won\'t governments just ban it?
 
 Some will, some won\'t. In any case, [outlawing
-speech](https://21lessons.com/6/) is futile, as was the prohibition. 
+speech](https://21lessons.com/6/) is futile, as was the Prohibition. 
 
 -   [Can Governments Stop
     Bitcoin?](https://quillette.com/2021/02/21/can-governments-stop-bitcoin/)
