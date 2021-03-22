@@ -1,8 +1,9 @@
-{% if page.path contains '_books' or page.path contains 'videos' or page.path contains 'books' or page.path contains 'articles' or page.path contains 'podcasts' or page.path contains 'tags' or page.path contains 'further-resources'  %}
+{% if page.path contains '_books' or page.path contains 'videos' or page.path contains 'books' or page.path contains 'articles' or page.path contains 'podcasts' or page.path contains 'tags' or page.path contains 'further-resources' or page.path contains 'faq'  %}
 {% assign prefix = "../" %}
 {% endif %}
 <nav>
   <ul class="header__list">
+    <li><a href="{{ prefix }}{{ 'faq' }}">FAQ</a></li>
     <li><a href="{{ prefix }}{{ '#books' }}">Books</a></li>
     <li><a href="{{ prefix }}{{ '#articles' }}">Articles</a></li>
     <li><a href="{{ prefix }}{{ '#podcasts' }}">Podcasts</a></li>
