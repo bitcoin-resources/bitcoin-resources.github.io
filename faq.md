@@ -86,7 +86,7 @@ Short answer: download [Bitcoin
 Core](https://bitcoin.org/en/bitcoin-core/) and run it. Long answer: it depends on what you want to do with your node.
 
 -   [Why Run A Full
-    Node?](https://blog.lopp.net/securing-your-financial-sovereignty/)
+    Node?](https://armantheparman.com/why-should-you-run-your-own-bitcoin-node/)
 -   [Bitcoiner Node Guide](https://bitcoiner.guide/node/)
 
 ### Are all bitcoiners crazy?
