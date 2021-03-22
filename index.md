@@ -37,6 +37,10 @@ If you prefer a shorter introduction, read and listen to the following:
 version][bullish-case-audio])
 - [The Stories We Tell About Money][aantonop-stories] by Andreas Antonopoulos
 
+Find answers to common questions in the [FAQ][faq].
+
+[faq]: {{ '/faq' }}
+
 ---
 
 <center>
