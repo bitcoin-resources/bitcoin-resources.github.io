@@ -5,5 +5,5 @@ link: https://bitcoiner.guide/node/
 author: Bitcoin Q+A
 type: guide
 star: 
-order: 18
+order: 19
 ---
