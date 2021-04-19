@@ -5,5 +5,5 @@ link: https://bitcoinqna.github.io/noKYConly/
 author: Bitcoin Q+A
 type: guide
 star: 
-order: 16
+order: 17
 ---

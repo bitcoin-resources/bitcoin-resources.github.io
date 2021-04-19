@@ -5,5 +5,5 @@ link: https://www.bitcoin-explained.com/
 author: Bassie Wouters
 type: explainer
 star: 
-order: 19
+order: 20
 ---
