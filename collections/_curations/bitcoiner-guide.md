@@ -5,5 +5,5 @@ link: https://bitcoiner.guide/
 author: Bitcoin Q+A
 type: guide
 star: YES
-order: 16
+order: 17
 ---

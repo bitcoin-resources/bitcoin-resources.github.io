@@ -5,5 +5,5 @@ link: https://learnmeabitcoin.com/
 author: Greg
 type: learn
 star: YES
-order: 25
+order: 26
 ---
