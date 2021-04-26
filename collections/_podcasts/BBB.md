@@ -9,7 +9,7 @@ ios: https://podcasts.apple.com/us/podcast/bit-buy-bit/id1491067458
 android: ['https://subscribeonandroid.com/bit-buy-bit.libsyn.com/rss']
 spotify: https://open.spotify.com/show/58fLzau7Vag4cKp5J02AiX?si=APzibVSBQIOLkEYUGb1v-g
 rss: ['https://bit-buy-bit.libsyn.com/rss']
-rank: 21
+rank: 22
 twitter: https://twitter.com/BitBuyBitPod
 youtube: 
 level: Intermediate

@@ -5,5 +5,5 @@ link: https://openoms.gitbook.io/lightning-node-management/
 author: Openoms
 type: guide
 star: 
-order: 28
+order: 29
 ---
