@@ -20,10 +20,20 @@ description: Curated Bitcoin videos.
 </div>
 
 
-### On the Art of Hodling
+## On the Art of Hodling
 {% assign absoluteVideoUrl = '/assets/videos/american-hodl.mp4' | absolute_url %}
 {% include video.html file=absoluteVideoUrl %}
 
+
+## Battle of Ideas
+
+<div class="flex-vid">
+  <iframe src="https://www.youtube-nocookie.com/embed/QwqnRYPcrl0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="flex-vid">
+  <iframe src="https://www.youtube-nocookie.com/embed/GTQnarzmTOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ---
 
