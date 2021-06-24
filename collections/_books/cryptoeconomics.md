@@ -10,7 +10,7 @@ resource_url: https://github.com/libbitcoin/libbitcoin-system/wiki/Cryptoeconomi
 amazon_url: https://amzn.to/3zMHZv8
 wikipedia_url: 
 free_url: 
-rating_order: 
+rating_order: 6
 lesson: ['']
 audio_url: 
 free_audio_url: 

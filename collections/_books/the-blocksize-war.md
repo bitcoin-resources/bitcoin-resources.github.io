@@ -10,8 +10,8 @@ resource_url:
 amazon_url: https://amzn.to/3d9cP7C
 wikipedia_url: 
 free_url: 
-rating_order: 7
-lesson: ['']
+rating_order: 8
+lesson: ['4']
 audio_url: https://amzn.to/3xN6AhB
 free_audio_url: 
 ---

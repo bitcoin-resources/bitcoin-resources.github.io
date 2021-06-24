@@ -10,8 +10,8 @@ resource_url: https://www.bookofsatoshi.com/
 amazon_url: https://amzn.to/39KNltn
 wikipedia_url: 
 free_url: https://satoshi.nakamotoinstitute.org/
-rating_order: 6
-lesson: ['']
+rating_order: 9
+lesson: ['20']
 audio_url: https://amzn.to/2QZfJR4
 free_audio_url: 
 ---
