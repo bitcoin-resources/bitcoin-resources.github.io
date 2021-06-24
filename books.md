@@ -56,6 +56,8 @@ or education required. As mentioned above, I consider [The Bitcoin
 Standard][the-bitcoin-standard] required reading for anyone interested in
 Bitcoin.
 
+[the-bitcoin-standard]: {{ '/books/the-bitcoin-standard' | absolute_url }}
+
 {% include books.html category='non-technical' %}
 
 Even though [Bitcoin Money][bitcoin-money] is a children's book, it drives home
