@@ -80,6 +80,10 @@ available for free at the [Satoshi Nakamoto Institute][complete-satoshi].
 [aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0
 [complete-satoshi]: https://satoshi.nakamotoinstitute.org/
 
+## Bitcoin History
+
+{% include books.html category='bitcoin-history' %}
+
 ## Bitcoin (technical)
 
 If you would like to dig deeper or get your hands dirty with programming, these
@@ -194,7 +198,7 @@ books on concepts that help to foster a solid understanding of Bitcoin. In
 short, the invention of Bitcoin is a *Black Swan* event resulting in an
 *antifragile* organism. Miners are *"fooled by randomness"* to keep it alive,
 and participation requires *skin in the game*. Unfortunately, Taleb [fails to
-appreciate][fragile-nassim] the beauty of Bitcoin and 
+appreciate][fragile-nassim] the beauty of Bitcoin and
 currently suffers from [Bitcoin Derangement Syndrome][BDS].
 
 {% include books.html category='taleb' %}
