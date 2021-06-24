@@ -3,7 +3,7 @@ layout: page-books
 title: Independence Reimagined
 subtitle: 
 essential: 
-categories: ['non-technical3']
+categories: ['non-technical2']
 authors: ['Knut Svanholm']
 authors_twitter: ['https://twitter.com/knutsvanholm/']
 resource_url: 

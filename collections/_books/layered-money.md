@@ -3,7 +3,7 @@ layout: page-books
 title: Layered Money
 subtitle: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies 
 essential: 
-categories: ['non-technical3']
+categories: ['non-technical2']
 authors: ['Nik Bhatia']
 authors_twitter: ['https://twitter.com/timevalueofbtc']
 resource_url: https://www.layeredmoney.com/

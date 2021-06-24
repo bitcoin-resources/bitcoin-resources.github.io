@@ -3,7 +3,7 @@ layout: page-books
 title: Magic Internet Money
 subtitle: A Book About Bitcoin
 essential: 
-categories: ['non-technical3']
+categories: ['non-technical2']
 authors: ['Jesse Berger']
 authors_twitter: ['https://twitter.com/jayberjay']
 resource_url: https://www.magicbitcoinbook.com/

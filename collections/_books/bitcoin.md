@@ -3,7 +3,7 @@ layout: page-books
 title: Bitcoin
 subtitle: Sovereignty through mathematics
 essential: 
-categories: ['non-technical']
+categories: ['non-technical2']
 authors: ['Knut Svanholm']
 authors_twitter: ['https://twitter.com/knutsvanholm/']
 resource_url: 

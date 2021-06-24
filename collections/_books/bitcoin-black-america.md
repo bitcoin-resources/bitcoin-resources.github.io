@@ -3,7 +3,7 @@ layout: page-books
 title: Bitcoin & Black America
 subtitle: 
 essential: 
-categories: ['non-technical3']
+categories: ['non-technical2']
 authors: ['Isaiah Jackson']
 authors_twitter: ['https://twitter.com/bitcoinzay']
 resource_url: https://bitcoinandblackamerica.com/
