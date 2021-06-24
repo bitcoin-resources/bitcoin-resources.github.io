@@ -49,38 +49,54 @@ organized by John Vallis.
 
 ---
 
-## Bitcoin (non-technical)
+## General Bitcoin Books
 
 Books about Bitcoin which can be read by anyone, no special background knowledge
 or education required. As mentioned above, I consider [The Bitcoin
 Standard][the-bitcoin-standard] required reading for anyone interested in
 Bitcoin.
 
+[the-bitcoin-standard]: {{ '/books/the-bitcoin-standard' | absolute_url }}
+
 {% include books.html category='non-technical' %}
-
-Even though [Bitcoin Money][bitcoin-money] is a children's book, it drives home
-the value proposition of Bitcoin in a succinct way, making it valuable for
-readers of all ages.
-
-{% include books.html category='non-technical2' %}
 
 More books are coming out every year, relating Bitcoin to different fields
 and examining it from different angles.
 
-{% include books.html category='non-technical3' %}
+{% include books.html category='non-technical2' %}
 
 The Internet of Money books are a collection of talks by Andreas Antonopoulos,
 most of which are available for [free on YouTube][aantonop-bitcoin-talks]. The
 Book Of Satoshi is a collection of Satoshi Nakamoto's writings, which are
 available for free at the [Satoshi Nakamoto Institute][complete-satoshi].
 
-{% include books.html category='non-technical4' %}
+{% include books.html category='aantonop' %}
 
 [bitcoin-money]: {{ '/books/bitcoin-money' | absolute_url }}
 [aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0
 [complete-satoshi]: https://satoshi.nakamotoinstitute.org/
 
-## Bitcoin (technical)
+## Bitcoin and Cypherpunk History
+
+Bitcoin's origin story is as mysterious as it is fascinating. Invented by a
+pseudonymous creator and growing organically as dark market money in its early
+days, Bitcoin's history is rich with eccentric characters and entrepreneurs. The
+following books highlight some of these characters while shining some light on
+Bitcoin's early days. I highly recommend
+[The Book Satoshi][the-book-of-satoshi], which collects all known writings of
+Bitcoin's creator and  [American Kingpin][american-kingpin], which is a gripping
+retelling of Bitcoin's early days and its application on The Silk Road
+marketplace. [The Blocksize Wars][the-blocksize-war] is required reading as
+well, at least for anyone who wants to understand Bitcoin's civil war and the
+nature of the politics involved in this global consensus system.
+
+[the-book-of-satoshi]: {{ '/books/the-book-of-satoshi' | absolute_url }}
+[american-kingpin]: {{ '/books/american-kingpin' | absolute_url }}
+[the-blocksize-war]: {{ '/books/the-blocksize-war' | absolute_url }}
+
+{% include books.html category='bitcoin-history' %}
+
+## Bitcoin Programming
 
 If you would like to dig deeper or get your hands dirty with programming, these
 books are for you. Technical knowledge and skills in computer science,
@@ -194,7 +210,7 @@ books on concepts that help to foster a solid understanding of Bitcoin. In
 short, the invention of Bitcoin is a *Black Swan* event resulting in an
 *antifragile* organism. Miners are *"fooled by randomness"* to keep it alive,
 and participation requires *skin in the game*. Unfortunately, Taleb [fails to
-appreciate][fragile-nassim] the beauty of Bitcoin and 
+appreciate][fragile-nassim] the beauty of Bitcoin and
 currently suffers from [Bitcoin Derangement Syndrome][BDS].
 
 {% include books.html category='taleb' %}

@@ -3,7 +3,7 @@ layout: page-books
 title: Bitcoin Clarity
 subtitle: The Complete Beginners Guide to Understanding
 essential: 
-categories: ['non-technical']
+categories: ['non-technical2']
 authors: ['Kiara Bickers']
 authors_twitter: ['https://twitter.com/kiarabickers']
 resource_url: https://getbitcoinclarity.com/
