@@ -10,7 +10,7 @@ resource_url: https://thebitcoinrabbi.com/bitcoin-money-book/
 amazon_url: https://amzn.to/39MFbAS
 wikipedia_url: 
 free_url: 
-rating_order: 7
+rating_order: 5
 lesson: ['']
 audio_url: 
 free_audio_url: 

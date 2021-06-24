@@ -10,7 +10,7 @@ resource_url: https://bitcoinandblackamerica.com/
 amazon_url: https://amzn.to/2NROVDV
 wikipedia_url: 
 free_url: 
-rating_order: 5
+rating_order: 1
 lesson: ['']
 audio_url: 
 free_audio_url: 
