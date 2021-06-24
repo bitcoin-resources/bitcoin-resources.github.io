@@ -49,7 +49,7 @@ organized by John Vallis.
 
 ---
 
-## Bitcoin (non-technical)
+## General Bitcoin Books
 
 Books about Bitcoin which can be read by anyone, no special background knowledge
 or education required. As mentioned above, I consider [The Bitcoin
@@ -60,14 +60,10 @@ Bitcoin.
 
 {% include books.html category='non-technical' %}
 
-Even though [Bitcoin Money][bitcoin-money] is a children's book, it drives home
-the value proposition of Bitcoin in a succinct way, making it valuable for
-readers of all ages.
-
-{% include books.html category='non-technical2' %}
-
 More books are coming out every year, relating Bitcoin to different fields
 and examining it from different angles.
+
+{% include books.html category='non-technical2' %}
 
 The Internet of Money books are a collection of talks by Andreas Antonopoulos,
 most of which are available for [free on YouTube][aantonop-bitcoin-talks]. The
@@ -80,11 +76,11 @@ available for free at the [Satoshi Nakamoto Institute][complete-satoshi].
 [aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0
 [complete-satoshi]: https://satoshi.nakamotoinstitute.org/
 
-## Bitcoin History
+## Bitcoin and Cypherpunk History
 
 {% include books.html category='bitcoin-history' %}
 
-## Bitcoin (technical)
+## Bitcoin Programming
 
 If you would like to dig deeper or get your hands dirty with programming, these
 books are for you. Technical knowledge and skills in computer science,
