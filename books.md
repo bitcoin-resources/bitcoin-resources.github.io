@@ -7,39 +7,12 @@ description: Curated Bitcoin books.
 
 # Bitcoin Books
 
-Thanks to Bitcoin, my list of books to read gets longer and longer, way quicker
-than I could ever read them. The books listed below are books I can personally
-recommend. If a particular book is not listed here, it is probably because I
-didn't get around to read it yet. Although there is some overlap, the books are
-roughly grouped by topics as follows:
-
-- [Bitcoin (non-technical)][bitcoin-non-technical]
-- [Bitcoin (technical)][bitcoin-technical]
-- [Economics][economics]
-- [Money][money]
-- [Banking][banking]
-- [The Big Picture][the-big-picture]
-- [Software and Programming][software-and-programming]
-- [Computation and Complexity Theory][computation-and-complexity-theory]
-- [Nassim Taleb (Incerto Series)][nassim-taleb]
-- [Work][work]
-
-[bitcoin-non-technical]: #bitcoin-non-technical
-[bitcoin-technical]: #bitcoin-technical
-[economics]: #economics
-[money]: #money
-[banking]: #banking
-[the-big-picture]: #the-big-picture
-[software-and-programming]: #software-and-programming
-[computation-and-complexity-theory]: #computation-and-complexity-theory
-[nassim-taleb]: #nassim-taleb
-[work]: #work
-
-I hope to update this list continually as my reading progresses.
-
-Some of the books listed below were discussed at the [Bitcoiner Book
+The following is an incomplete list of Bitcoin books worth reading. Some of the
+books listed below were discussed at the [Bitcoiner Book
 Club](https://www.youtube.com/playlist?list=PL8GxRkxnvMl3_O3DYNQJFnVBvvt8A9qqW)
 organized by John Vallis.
+
+Jump to the [table of contents](#toc) to get an overview of the various sections.
 
 ---
 
