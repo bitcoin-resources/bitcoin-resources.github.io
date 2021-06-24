@@ -3,7 +3,7 @@ layout: page-books
 title: The Book Of Satoshi
 subtitle: The Collected Writings of Bitcoin Creator Satoshi Nakamoto
 essential: 
-categories: ['non-technical2']
+categories: ['bitcoin-history']
 authors: ['Phil Champagne']
 authors_twitter: ['https://twitter.com/egg_descrambler']
 resource_url: https://www.bookofsatoshi.com/
