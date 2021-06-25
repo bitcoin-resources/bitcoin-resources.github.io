@@ -36,8 +36,7 @@
 
     <!-- Description for twitter card -->
     {% capture cardAuthors %}{{ page.authors | join: ", " }}{% endcapture %}
-    {% if page.subtitle %}{% capture titleSep %} - {% endcapture %}{% endif %}
-    {% capture cardDescription %}{{ cardAuthors }}, {{ page.title }}{{ titleSep }}{{ page.subtitle }}{% endcapture %}
+    {% capture cardDescription %}Book by {{ cardAuthors }}{% endcapture %}
 {% endif %}
 
 <!-- Twitter cards -->
