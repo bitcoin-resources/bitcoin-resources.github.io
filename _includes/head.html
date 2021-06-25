@@ -34,6 +34,10 @@
     {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
     {% capture cardImageUrl %}{{ folderPath }}/jpg/{{ slugTitle }}.jpg{% endcapture %}
 
+    <!-- Description for twitter card -->
+    {% capture cardAuthors %}{{ page.authors | join: ", " }}{% endcapture %}
+    {% if page.subtitle %}{% capture titleSep %} - {% endcapture %}{% endif %}
+    {% capture cardDescription %}{{ cardAuthors }}, {{ page.title }}{{ titleSep }}{{ page.subtitle }}{% endcapture %}
 {% endif %}
 
 <!-- Twitter cards -->
@@ -44,6 +48,8 @@
 
 {% if page.description %}
 <meta name="twitter:description" content="{{ page.description | escape }}">
+{% elsif cardDescription %}
+<meta name="twitter:description" content="{{ cardDescription | escape }}">
 {% else %}
 <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
@@ -51,7 +57,7 @@
 {% if page.image %}
 <meta name="twitter:card"  content="summary_large_image">
 <meta name="twitter:image" content="{{ page.image | absolute_url }}">
-{% elsif imageUrl %}
+{% elsif cardImageUrl %}
 <meta name="twitter:card"  content="summary">
 <meta name="twitter:image" content="{{ cardImageUrl | absolute_url }}">
 {% else %}
