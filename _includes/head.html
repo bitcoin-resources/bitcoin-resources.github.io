@@ -35,7 +35,7 @@
     {% capture cardImageUrl %}{{ folderPath }}/jpg/{{ slugTitle }}.jpg{% endcapture %}
 
     <!-- Description for twitter card -->
-    {% capture cardAuthors %}{{ page.authors | join: ", " }}{% endcapture %}
+    {% capture cardAuthors %}{{ page.authors | join: " and " }}{% endcapture %}
     {% capture cardDescription %}Book by {{ cardAuthors }}{% endcapture %}
 {% endif %}
 
