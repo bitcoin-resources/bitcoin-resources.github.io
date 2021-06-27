@@ -9,7 +9,7 @@ ios: https://podcasts.apple.com/us/podcast/the-rollo-and-slappy-show/id114742331
 android: ['https://subscribeonandroid.com/www.mcfloogle.com/feed/podcast/']
 spotify: https://open.spotify.com/show/4ns16CKsodwX4XRw8j2mDj
 rss: ['https://www.mcfloogle.com/feed/podcast/']
-rank: 36
+rank: 37
 twitter: https://twitter.com/rollomcfloogle?lang=en
 youtube: https://www.youtube.com/channel/UCncvSvuOOGmk1jyYHk6x3CQ
 level: Intermediate
