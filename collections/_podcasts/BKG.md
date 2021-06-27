@@ -9,7 +9,7 @@ ios:
 android: ['']
 spotify: 
 rss: ['']
-rank: 33
+rank: 34
 twitter: https://twitter.com/BtcKindergarten
 youtube: https://www.youtube.com/playlist?list=PLixZbbcZ-CAJve-isepm5x-rtv01csTtu
 level: Beginner
