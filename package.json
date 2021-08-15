@@ -31,8 +31,8 @@
   },
   "devDependencies": {
     "@babel/cli": "^7.14.8",
-    "@babel/core": "^7.14.8",
-    "@babel/preset-env": "^7.14.9",
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
     "eslint": "^7.32.0",
