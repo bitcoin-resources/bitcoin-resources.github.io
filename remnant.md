@@ -20,7 +20,8 @@ that we don't necessarily need the masses. But we do need you, the remnant.
 
 ## Podcast Episodes
 
-* [Hass McCook](https://pca.st/podcast/2c390830-ee9d-0138-e808-0acc26574db2) preaching to the True Believers
+* [Francis, John, and Aleks](https://youtu.be/8t_sQ4rTGho) on the Bitcoin Remnant
+* [Hass McCook](https://pca.st/podcast/2c390830-ee9d-0138-e808-0acc26574db2) preaching to the True Believer
 
 ---
 
