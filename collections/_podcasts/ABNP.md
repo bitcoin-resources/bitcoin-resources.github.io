@@ -9,7 +9,7 @@ ios: https://podcasts.apple.com/us/podcast/a-boy-named-pseu/id1477843916
 android: ['https://subscribeonandroid.com/feed.podbean.com/mrpseu/feed.xml']
 spotify: https://open.spotify.com/show/3fLf1NRajwbtwKGpznFClr
 rss: ['https://feed.podbean.com/mrpseu/feed.xml']
-rank: 36
+rank: 37
 twitter: https://twitter.com/MrPseu
 youtube: 
 level: Beginner

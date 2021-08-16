@@ -9,7 +9,7 @@ ios: https://podcasts.apple.com/us/podcast/for-the-love-of-bitcoin/id1551683632
 android: ['https://subscribeonandroid.com/feeds.buzzsprout.com/1655380.rss']
 spotify: https://open.spotify.com/show/20wXgrsYicdzxPJloDpVI4
 rss: ['https://feeds.buzzsprout.com/1655380.rss']
-rank: 24
+rank: 25
 twitter: 
 youtube: https://www.youtube.com/channel/UC9-9d1j_8zZzYum3FAsW5yQ
 level: Advanced
