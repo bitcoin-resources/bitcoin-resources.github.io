@@ -1,0 +1,27 @@
+---
+layout: resources
+title: The Remnant Archives
+image: /assets/images/isaiah.jpg
+description: Links for the Bitcoin Remnant
+---
+
+# The Remnant Archives
+
+Welcome, remnant. There are two options why you ended up here. You are either
+insanely curious, or someone sent you.
+
+In any case, welcome. Below are some links to resources that might be helpful
+for you. They were definitely helpful for me.  It took me a while to understand
+that we don't necessarily need the masses. But we do need you, the remnant.
+
+## Required Reading
+
+* [Isaiah's Job](https://mises.org/library/isaiahs-job) by Albert Jay Nock
+
+## Podcast Episodes
+
+* [Hass McCook](https://pca.st/podcast/2c390830-ee9d-0138-e808-0acc26574db2) preaching to the True Believers
+
+---
+
+{% include image.html path="/assets/images/isaiah-wall.jpg" %}
