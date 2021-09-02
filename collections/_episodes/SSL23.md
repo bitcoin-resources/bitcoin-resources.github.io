@@ -8,4 +8,5 @@ date: Aug 14, 2020
 guest: Saifedean Ammous & George Gammon
 lesson: ['9']
 link: https://swansignalpodcast.com/episodes/saifedean-ammous-and-george-gammon-e23
+fav: 
 ---

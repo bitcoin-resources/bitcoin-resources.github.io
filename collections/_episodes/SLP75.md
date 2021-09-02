@@ -8,4 +8,5 @@ date: May 28, 2019
 guest: Giacomo Zucco
 lesson: ['4']
 link: https://stephanlivera.com/episode/75
+fav: 
 ---

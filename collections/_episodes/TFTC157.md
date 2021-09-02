@@ -8,4 +8,5 @@ date: May 5, 2020
 guest: Ben Prentice & Heavily Armed Clown
 lesson: ['9']
 link: https://anchor.fm/tales-from-the-crypt/episodes/157-Ben-Prentice--Heavily-Armed-Clown-edlfjb
+fav: 
 ---

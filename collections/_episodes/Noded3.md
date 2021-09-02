@@ -8,4 +8,5 @@ date: Dec 2, 2017
 guest: Saifedean Ammous
 lesson: ['14']
 link: https://noded.org/podcast/noded-030-with-saifedean-ammous/
+fav: 
 ---

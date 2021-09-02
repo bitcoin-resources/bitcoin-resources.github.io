@@ -8,4 +8,5 @@ date: Jul 25, 2019
 guest: BTCDCA
 lesson: ['']
 link: https://noded.org/podcast/noded-0560-with-btcdca/
+fav: 
 ---

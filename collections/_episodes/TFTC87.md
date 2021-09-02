@@ -8,4 +8,5 @@ date: Jul 23, 2019
 guest: Conner Brown
 lesson: ['11']
 link: https://anchor.fm/tales-from-the-crypt/episodes/Tales-from-the-Crypt-87-Conner-Brown-e4n9pg
+fav: 
 ---
