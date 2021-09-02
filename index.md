@@ -78,6 +78,7 @@ is required reading for anyone interested in Bitcoin.
 
 Categories: [Economics], [Money], [Banking], [Cypherpunk], [Fiction]
 
+[View book wall »][books-wall] \\
 [View all books »][books]
 
 [Economics]: {{ '/books/#economics' | absolute_url }}
@@ -85,7 +86,9 @@ Categories: [Economics], [Money], [Banking], [Cypherpunk], [Fiction]
 [Banking]: {{ '/books/#banking' | absolute_url }}
 [Cypherpunk]: {{ '/books/#bitcoin-and-cypherpunk-history' | absolute_url }}
 [Fiction]: {{ '/books/#fiction' | absolute_url }}
+
 [books]: {{ '/books' | absolute_url }}
+[books-wall]: {{ '/books/wall' | absolute_url }}
 
 ---
 
