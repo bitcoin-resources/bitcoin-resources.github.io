@@ -219,6 +219,16 @@ these books are for you.
 
 ---
 
+## List of All Books
+
+{% for book in site.books %}
+{% if book.categories[0] != "" %}
+* [{{ book.title }}]({{ book.url }})
+{% endif %}
+{% endfor %}
+
+---
+
 [« back to overview][index]
 
 [index]: {{ '#books' | absolute_url }}
