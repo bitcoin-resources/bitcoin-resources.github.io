@@ -76,8 +76,15 @@ is required reading for anyone interested in Bitcoin.
 
 {% include books.html category='non-technical' %}
 
+Categories: [Economics], [Money], [Banking], [Cypherpunk], [Fiction]
+
 [View all books »][books]
 
+[Economics]: {{ '/books/#economics' | absolute_url }}
+[Money]: {{ '/books/#money' | absolute_url }}
+[Banking]: {{ '/books/#banking' | absolute_url }}
+[Cypherpunk]: {{ '/books/#bitcoin-and-cypherpunk-history' | absolute_url }}
+[Fiction]: {{ '/books/#fiction' | absolute_url }}
 [books]: {{ '/books' | absolute_url }}
 
 ---
