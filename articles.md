@@ -135,6 +135,14 @@ Life][proof-of-life] and [Bitcoin's Habitats][bitcoins-habitats].
 [proof-of-life]: https://dergigi.com/2019/08/07/proof-of-life/
 [bitcoins-habitats]: https://dergigi.com/2020/03/01/bitcoin-s-habitats/
 
+## Hyperbitcoinization
+
+The concept of Hyperbitcoinization describes the inflection point at which
+Bitcoin becomes the default value system of the world. Like a hyperinflation
+event,  it is postulated that this process will happen gradually, than suddenly.
+
+{% include articles.html category="Hyperbitcoinization" %}
+
 ## Cypherpunks
 
 Bitcoin is cypherpunk technology. Made by a cypherpunk, based on cypherpunk
