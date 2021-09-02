@@ -221,11 +221,12 @@ these books are for you.
 
 ## List of All Books
 
-{% for book in site.books %}
-{% if book.categories[0] != "" %}
-* [{{ book.title }}]({{ book.url }})
-{% endif %}
-{% endfor %}
+For you CTRL+F freaks.
+
+Also make sure to check out [bitcoiner books](https://www.bitcoinerbooks.com/)
+and [JBP's list of great books](https://www.jordanbpeterson.com/great-books/).
+
+{% include books-list.html %}
 
 ---
 
