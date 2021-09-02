@@ -5,7 +5,15 @@
 {% endif %}
 
 <ul class="books">
-{% for book in category %}
-{% include book.html book=book %}
-{% endfor %}
+{% if include.category %}
+  {% for book in category %}
+  {% include book.html book=book %}
+  {% endfor %}
+{% else %}
+  {% for book in site.books %}
+  {% if book.categories[0] != '' %}
+  {% include book.html book=book %}
+  {% endif %}
+  {% endfor %}
+{% endif %}
 </ul>
