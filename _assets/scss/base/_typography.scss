@@ -107,6 +107,7 @@ p {
   }
 }
 
+
 //----------------------------------------------
 // Blockquote
 //----------------------------------------------
@@ -119,8 +120,17 @@ blockquote {
   font-family: $font-post;
   font-weight: 300;
   font-size: 1.2em;
-  color: $color-white;
+  color: $color-darkgrey;
   line-height: 1.4;
+
+  p:first-child {
+    &:before {
+      content: "\201C";
+    }
+    &:after {
+      content: "\201D";
+    }
+  }
 }
 
 cite {
@@ -133,7 +143,7 @@ cite {
   font-family: $font;
   font-size: $font-xxxsmall;
   font-style: normal;
-  color: $color-white;
+  color: $color-darkgrey;
   line-height: $base-lineheight;
 
   &:before {
