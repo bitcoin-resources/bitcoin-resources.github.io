@@ -8,4 +8,5 @@ date: Oct 7, 2019
 guest: Hass McCook
 lesson: ['']
 link: https://anchor.fm/john-vallis/episodes/Further-Discussion-Hass-McCook-e6d4ln
+fav: 
 ---

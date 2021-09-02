@@ -2,7 +2,11 @@
 <ul class="sodes">
 {% for sode in sorted_sodes %}
   <li>
-    <a href="{{ sode.link }}" target="_blank">🎧 {{ sode.title }}</a><br/>
+    <a href="{{ sode.link }}" target="_blank">🎧
+      {{ sode.title }}
+      {% if sode.fav %} ⭐ {% endif %}
+    </a>
+    <br/>
     {{ sode.podcast }} #{{ sode.episode }} hosted by {{ sode.hosts }}
   </li>
 {% endfor %}

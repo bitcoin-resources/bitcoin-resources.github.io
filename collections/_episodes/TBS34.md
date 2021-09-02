@@ -8,4 +8,5 @@ date: Feb 16, 2021
 guest: Michael Saylor
 lesson: ['']
 link: https://saifedean.com/podcast/34-michael-saylor-on-the-fiat-standard/
+fav: 
 ---

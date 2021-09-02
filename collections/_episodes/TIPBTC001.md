@@ -8,4 +8,5 @@ date: Nov 25, 2020
 guest: Robert Breedlove
 lesson: ['']
 link: https://www.theinvestorspodcast.com/episodes/bf-001-bitcoin-common-misconceptions-w-robert-breedlove/
+fav: 
 ---

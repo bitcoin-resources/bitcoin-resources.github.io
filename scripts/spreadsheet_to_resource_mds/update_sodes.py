@@ -29,6 +29,7 @@ for row in sodes.get_all_values():
     sode_title = sode_guest + ' ' + row[5].lstrip().rstrip()
     sode_lesson = row[7].lstrip().rstrip().split(',')
     sode_link = row[8]
+    sode_fav = row[14].lower()
 
     md_file_path = '../../collections/_episodes/' + sode_podcast + str(sode_episode) + '.md'
     if md_file_path == "":
@@ -45,6 +46,7 @@ for row in sodes.get_all_values():
                 f"guest: {sode_guest}\n"
                 f"lesson: {sode_lesson}\n"
                 f"link: {sode_link}\n"
+                f"fav: {sode_fav}\n"
                 f"---\n")
 
     with open(md_file_path, 'w') as f:
