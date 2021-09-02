@@ -141,6 +141,15 @@ understand this shift than the one by Davidson and Rees-Mogg.
 
 ## Fiction
 
+
+
+> Fiction is Truth's elder sister. Obviously. No one in the world knew what
+> truth was till some one had told a story.
+>
+> <cite>Rudyard Kipling</cite>
+
+The following books are recommended often:
+
 {% include books.html category='fiction' %}
 
 ## Software and Programming
