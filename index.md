@@ -122,7 +122,7 @@ The following podcasts are among the best in the space:
 
 {% include podcasts.html tier="1" %}
 
-[View selected podcast episodes »][selected-episodes] //
+[View selected podcast episodes »][selected-episodes] \\
 [View all podcasts »][podcasts]
 
 ### Selected Podcast Episodes
