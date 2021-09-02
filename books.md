@@ -137,8 +137,11 @@ We are currently living through the fourth great shift, moving from an
 industrial to an information-based society. There is no better book to
 understand this shift than the one by Davidson and Rees-Mogg.
 
-
 [The Sovereign Individual]: {{ '/books/the-sovereign-individual' | absolute_url }}
+
+## Fiction
+
+{% include books.html category='fiction' %}
 
 ## Software and Programming
 
