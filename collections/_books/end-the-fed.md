@@ -12,6 +12,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/End_the_Fed
 free_url: 
 rating_order: 
 lesson: ['11']
+quote: ""
 audio_url: https://amzn.to/33XAguG
 free_audio_url: 
 ---

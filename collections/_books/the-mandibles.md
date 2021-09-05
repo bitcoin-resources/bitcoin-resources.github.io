@@ -12,6 +12,7 @@ wikipedia_url:
 free_url: 
 rating_order: 
 lesson: ['']
+quote: "Economics is closer to religion than science."
 audio_url: https://amzn.to/3DJknJO
 free_audio_url: 
 ---

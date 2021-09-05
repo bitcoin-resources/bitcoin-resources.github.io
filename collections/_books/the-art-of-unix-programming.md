@@ -12,6 +12,7 @@ wikipedia_url:
 free_url: http://www.catb.org/~esr/writings/taoup/html/
 rating_order: 6
 lesson: ['']
+quote: ""
 audio_url: 
 free_audio_url: 
 ---

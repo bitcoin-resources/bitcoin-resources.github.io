@@ -12,6 +12,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/Cypherpunks_(book)
 free_url: 
 rating_order: 6
 lesson: ['20']
+quote: ""
 audio_url: https://amzn.to/3xNVw3L
 free_audio_url: 
 ---

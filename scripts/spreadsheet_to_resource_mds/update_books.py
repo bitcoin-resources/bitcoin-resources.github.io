@@ -39,6 +39,7 @@ for row in books.get_all_values():
         permalink_line = ''
     resource_rating_order = row[13]
     resource_lesson = row[14].lstrip().rstrip().split(',')
+    resource_quote = row[15]
     resource_audiobook = row[16]
     resource_audiobook_free = row[17]
 
@@ -62,6 +63,7 @@ for row in books.get_all_values():
                 f"{permalink_line}"
                 f"rating_order: {resource_rating_order}\n"
                 f"lesson: {resource_lesson}\n"
+                f"quote: \"{resource_quote}\"\n"
                 f"audio_url: {resource_audiobook}\n"
                 f"free_audio_url: {resource_audiobook_free}\n"
                 f"---\n")

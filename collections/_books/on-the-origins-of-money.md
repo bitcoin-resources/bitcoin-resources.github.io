@@ -12,6 +12,7 @@ wikipedia_url:
 free_url: https://cdn.mises.org/On%20the%20Origins%20of%20Money_5.pdf
 rating_order: 
 lesson: ['12']
+quote: ""
 audio_url: 
 free_audio_url: 
 ---

@@ -12,6 +12,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/G._Edward_Griffin#The_Creature_from
 free_url: https://archive.org/details/pdfy--Pori1NL6fKm2SnY
 rating_order: 
 lesson: ['13']
+quote: ""
 audio_url: https://amzn.to/2UP9gcO
 free_audio_url: 
 ---

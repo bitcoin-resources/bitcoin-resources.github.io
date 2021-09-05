@@ -12,6 +12,7 @@ wikipedia_url: https://en.wikipedia.org/wiki/A_New_Kind_of_Science
 free_url: https://www.wolframscience.com/nks/
 rating_order: 5
 lesson: ['']
+quote: ""
 audio_url: 
 free_audio_url: 
 ---

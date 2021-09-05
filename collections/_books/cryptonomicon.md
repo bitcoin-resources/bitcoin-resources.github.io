@@ -12,6 +12,7 @@ wikipedia_url:
 free_url: 
 rating_order: 
 lesson: ['']
+quote: "Arguing with anonymous strangers on the Internet is a sucker's game because they almost always turn out to be—or to be indistinguishable from—self-righteous sixteen-year-olds possessing infinite amounts of free time."
 audio_url: https://amzn.to/3yDlMxR
 free_audio_url: 
 ---
