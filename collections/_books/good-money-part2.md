@@ -15,4 +15,6 @@ lesson: ['9']
 quote: ""
 audio_url: 
 free_audio_url: 
+goodreads_url: 
+description: ""
 ---

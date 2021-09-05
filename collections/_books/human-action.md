@@ -15,4 +15,6 @@ lesson: ['8']
 quote: ""
 audio_url: https://amzn.to/2xGb9Ap
 free_audio_url: https://mises.org/library/human-action-audiobook
+goodreads_url: 
+description: ""
 ---

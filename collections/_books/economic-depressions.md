@@ -15,4 +15,6 @@ lesson: ['8']
 quote: "We live in a world of euphemism. Undertakers have become “morticians,” press agents are now “public relations counsellors” and janitors have all been transformed into “superintendents.” In every walk of life, plain facts have been wrapped in cloudy camouflage."
 audio_url: 
 free_audio_url: 
+goodreads_url: 
+description: ""
 ---

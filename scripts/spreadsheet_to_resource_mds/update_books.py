@@ -42,6 +42,8 @@ for row in books.get_all_values():
     resource_quote = row[15]
     resource_audiobook = row[16]
     resource_audiobook_free = row[17]
+    resource_description = row[18]
+    resource_goodreads = row[19]
 
     md_file_path = title_to_file_path(resource_title, resource_type)
     if md_file_path == "":
@@ -66,6 +68,8 @@ for row in books.get_all_values():
                 f"quote: \"{resource_quote}\"\n"
                 f"audio_url: {resource_audiobook}\n"
                 f"free_audio_url: {resource_audiobook_free}\n"
+                f"goodreads_url: {resource_goodreads}\n"
+                f"description: \"{resource_description}\"\n"
                 f"---\n")
 
     with open(md_file_path, 'w') as f:
