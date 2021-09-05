@@ -1,7 +1,7 @@
 ---
 layout: page-books
 title: Programming Bitcoin
-subtitle: 
+subtitle: Learn How to Program Bitcoin from Scratch
 essential: 
 categories: ['technical']
 authors: ['Jimmy Song']
