@@ -27,6 +27,7 @@ layout: page
 {% endfor %}
     </p>
 
+
     <ul class="book_reading_links">
       {% if page.resource_url %}<li><a href="{{ page.resource_url }}">Official Website</a></li>{% endif %}
       {% if page.amazon_url %}<li><a href="{{ page.amazon_url }}">Buy on Amazon</a></li>{% endif %}
@@ -37,6 +38,14 @@ layout: page
     </ul>
   </div>
 </div>
+
+<hr/>
+
+{% if page.quote %}
+    <blockquote>
+        {{ page.quote }}
+    </blockquote>
+{% endif %}
 
 {{content}}
 
