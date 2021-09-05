@@ -15,4 +15,6 @@ lesson: ['']
 quote: "If you want a picture of the future, imagine a boot stamping on a human face—for ever."
 audio_url: https://amzn.to/2WFLx3j
 free_audio_url: 
+goodreads_url: https://www.goodreads.com/book/show/40961427
+description: ""
 ---

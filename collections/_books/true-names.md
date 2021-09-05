@@ -15,4 +15,6 @@ lesson: ['']
 quote: "[He] was an insect wandering in the cathedral his mind had become."
 audio_url: 
 free_audio_url: 
+goodreads_url: https://www.goodreads.com/book/show/1280983
+description: ""
 ---

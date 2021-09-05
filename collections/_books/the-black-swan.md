@@ -15,4 +15,6 @@ lesson: ['5']
 quote: ""
 audio_url: https://amzn.to/2Uyi1J6
 free_audio_url: 
+goodreads_url: 
+description: ""
 ---

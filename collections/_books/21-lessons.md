@@ -16,4 +16,6 @@ lesson: ['']
 quote: ""
 audio_url: https://amzn.to/2ZeUsYX
 free_audio_url: https://21lessons.com/audio
+goodreads_url: 
+description: ""
 ---

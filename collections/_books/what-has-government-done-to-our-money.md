@@ -15,4 +15,6 @@ lesson: ['11']
 quote: ""
 audio_url: https://amzn.to/3azpT2D
 free_audio_url: https://mises.org/library/what-has-government-done-our-money-2
+goodreads_url: 
+description: ""
 ---
