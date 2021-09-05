@@ -5,8 +5,6 @@ image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Curated Bitcoin articles.
 ---
 
-# Bitcoin Articles
-
 Many amazing articles have been written about Bitcoin. I am aware that trying to
 link to all of them is futile, but I want to make an effort and at least
 highlight some of them. I highly recommend the [literature listed][sni] at the

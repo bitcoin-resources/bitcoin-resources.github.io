@@ -54,6 +54,7 @@ h5,
 h6 {
   @extend %font-header;
 
+  font-family: $font-post;
   margin: {
     top: 2em;
     bottom: 0.5em;

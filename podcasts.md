@@ -5,8 +5,6 @@ image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Curated Bitcoin podcasts and episodes.
 ---
 
-# Bitcoin Podcasts
-
 The list of podcasts is roughly grouped into
 [beginner](#beginner),
 [intermediate](#intermediate), and

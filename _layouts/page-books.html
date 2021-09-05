@@ -15,8 +15,8 @@ layout: page
 
   <div class="book_links">
     <p>
-      <strong>{{ page.title }}</strong> -
-      {{ page.subtitle }}
+      <strong>{{ page.title }}</strong>
+      {% if page.subtitle %} - {{ page.subtitle }}{% endif %}
     </p>
 
     <!-- Links -->

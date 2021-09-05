@@ -1,14 +1,10 @@
-{% if page.path contains '_books' or page.path contains 'videos' or page.path contains 'books' or page.path contains 'articles' or page.path contains 'podcasts' or page.path contains 'tags' or page.path contains 'further-resources' or page.path contains 'faq'  %}
-{% assign prefix = "../" %}
-{% endif %}
 <nav>
   <ul class="header__list">
-    <li><a href="{{ prefix }}{{ 'faq' }}">FAQ</a></li>
-    <li><a href="{{ prefix }}{{ '#books' }}">Books</a></li>
-    <li><a href="{{ prefix }}{{ '#articles' }}">Articles</a></li>
-    <li><a href="{{ prefix }}{{ '#podcasts' }}">Podcasts</a></li>
-    <li><a href="{{ prefix }}{{ '#videos' }}">Videos</a></li>
-    <li><a href="{{ prefix }}{{ '#toc' }}">ToC</a></li>
+    <li><a href="{{ 'faq' | absolute_url }}">FAQ</a></li>
+    <li><a href="{{ 'books' | absolute_url }}">Books</a></li>
+    <li><a href="{{ 'articles' | absolute_url }}">Articles</a></li>
+    <li><a href="{{ 'podcasts' | absolute_url }}">Podcasts</a></li>
+    <li><a href="{{ 'videos' | absolute_url }}">Videos</a></li>
     <li><a href="https://dergigi.com/support">❤</a></li>
   </ul>
 </nav>

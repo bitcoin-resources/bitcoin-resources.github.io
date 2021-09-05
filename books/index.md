@@ -5,8 +5,6 @@ image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Curated Bitcoin books.
 ---
 
-# Bitcoin Books
-
 The following is an incomplete list of Bitcoin books worth reading. Some of the
 books listed below were discussed at the [Bitcoiner Book
 Club](https://www.youtube.com/playlist?list=PL8GxRkxnvMl3_O3DYNQJFnVBvvt8A9qqW)
