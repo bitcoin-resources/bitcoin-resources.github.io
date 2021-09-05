@@ -12,6 +12,7 @@ wikipedia_url:
 free_url: 
 rating_order: 
 lesson: ['']
+quote: "[He] was an insect wandering in the cathedral his mind had become."
 audio_url: 
 free_audio_url: 
 ---

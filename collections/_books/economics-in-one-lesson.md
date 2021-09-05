@@ -12,6 +12,7 @@ wikipedia_url:
 free_url: http://www.hacer.org/pdf/Hazlitt00.pdf
 rating_order: 7
 lesson: ['9']
+quote: ""
 audio_url: https://amzn.to/33XKqf3
 free_audio_url: 
 ---

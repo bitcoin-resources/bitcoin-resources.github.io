@@ -12,6 +12,7 @@ wikipedia_url:
 free_url: https://satoshi.nakamotoinstitute.org/
 rating_order: 9
 lesson: ['20']
+quote: ""
 audio_url: https://amzn.to/2QZfJR4
 free_audio_url: 
 ---

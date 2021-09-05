@@ -13,6 +13,7 @@ wikipedia_url:
 free_url: https://21lessons.com/
 rating_order: 8
 lesson: ['']
+quote: ""
 audio_url: https://amzn.to/2ZeUsYX
 free_audio_url: https://21lessons.com/audio
 ---
