@@ -28,12 +28,12 @@
     "jekyll-infinite-scroll": "^1.0.5",
     "jquery": "^3.6.0",
     "salvattore": "^1.0.9",
-    "sass": "^1.39.0"
+    "sass": "^1.41.1"
   },
   "devDependencies": {
-    "@babel/cli": "^7.15.4",
+    "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.5",
-    "@babel/preset-env": "^7.15.4",
+    "@babel/preset-env": "^7.15.6",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
     "eslint": "^7.32.0",
