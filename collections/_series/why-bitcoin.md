@@ -1,5 +1,5 @@
 ---
-layout: why-bitcoin
+layout: page-series
 author: Tomer Strolight
 title: Why Bitcoin
 date: March 10, 2021
