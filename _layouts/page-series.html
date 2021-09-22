@@ -22,8 +22,8 @@ layout: default
             {% if page.mirror %}
             <a href="{{ page.mirror }}">Mirror</a>
             {% endif %}
-            {% if page.mirror or page.archive %}
-            , 
+            {% if page.mirror and page.archive %}
+            ,
             {% endif %}
             {% if page.archive %}
             <a href="{{ page.archive }}">Archive</a>
