@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_414---Masters--Slaves-of-
 audio2: https://anchor.fm/thecryptoconomy/episodes/Read_415---Masters--Slaves-of-Money---Part-2-Robert-Breedlove-egelgs/a-a2l7sb3
 audio3: 
 star: TRUE
+archive: 
+series: 
+seriesnr: 
 ---

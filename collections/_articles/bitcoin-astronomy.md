@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_303---Bitcoin-A
 audio2: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_304---Bitcoin-Astronomy-Part-2---Dhruv-Bansal-e6flns
 audio3: 
 star: 
+archive: 
+series: 
+seriesnr: 
 ---

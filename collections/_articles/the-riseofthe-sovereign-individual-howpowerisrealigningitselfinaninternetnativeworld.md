@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_292---Rise-of-t
 audio2: 
 audio3: 
 star: 
+archive: 
+series: 
+seriesnr: 
 ---

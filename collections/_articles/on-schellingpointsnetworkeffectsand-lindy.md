@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_417---On-Schelling-Points
 audio2: 
 audio3: 
 star: 
+archive: 
+series: 
+seriesnr: 
 ---

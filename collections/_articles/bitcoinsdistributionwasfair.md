@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_172---Bitcoins-
 audio2: 
 audio3: 
 star: 
+archive: 
+series: 
+seriesnr: 
 ---

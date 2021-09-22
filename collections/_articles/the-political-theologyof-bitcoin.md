@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_398---The-Political-Theol
 audio2: 
 audio3: 
 star: 
+archive: 
+series: 
+seriesnr: 
 ---
