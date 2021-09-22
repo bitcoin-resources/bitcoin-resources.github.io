@@ -5,5 +5,5 @@ title: Bitcoin Astronomy
 date: Sep 13, 2019
 landing: https://unchained.com/blog/category/bitcoin-astronomy/
 mirror:
-archive:
+archive: https://archive.is/X9sms
 ---
