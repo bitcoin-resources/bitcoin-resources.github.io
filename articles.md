@@ -27,9 +27,12 @@ optimistic about Bitcoin's future.
 
 ## Article Series
 
+<ul class="articles">
 {% for s in site.series %}
-  [{{ s.title }}]({{ s.url }})
+  <li><a href="{{ s.url }}">{{ s.title }}</a>
+  by {{ s.author }}</li>
 {% endfor %}
+</ul>
 
 ---
 
