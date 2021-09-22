@@ -11,6 +11,6 @@ audio2:
 audio3: 
 star: 
 archive: https://archive.is/rnPDB
-series: 
-seriesnr: 
+series: Bitcoin is Venice
+seriesnr: 3
 ---
