@@ -31,6 +31,9 @@ for row in articles.get_all_values():
     article_audio2 = row[7].lstrip().rstrip()
     article_audio3 = row[8].lstrip().rstrip()
     article_star = row[9].lstrip().rstrip()
+    article_archive = row[10].lstrip().rstrip()
+    article_series = row[11].lstrip().rstrip()
+    article_seriesnr = row[12].lstrip().rstrip()
 
     md_file_path = title_to_file_path(article_title, 'articles')
     if md_file_path == "":
@@ -49,6 +52,9 @@ for row in articles.get_all_values():
                 f"audio2: {article_audio2}\n"
                 f"audio3: {article_audio3}\n"
                 f"star: {article_star}\n"
+                f"archive: {article_archive}\n"
+                f"series: {article_series}\n"
+                f"seriesnr: {article_seriesnr}\n"
                 f"---\n")
 
     with open(md_file_path, 'w') as f:
