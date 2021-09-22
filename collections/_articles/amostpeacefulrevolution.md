@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_293---A-Most-Pe
 audio2: 
 audio3: 
 star: TRUE
+archive: 
+series: 
+seriesnr: 
 ---

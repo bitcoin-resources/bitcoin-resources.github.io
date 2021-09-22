@@ -10,4 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
+archive: 
+series: Gradually, Then Suddenly
+seriesnr: 14
 ---

@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_407---The-Bullish-Case-fo
 audio2: 
 audio3: 
 star: TRUE
+archive: 
+series: 
+seriesnr: 
 ---

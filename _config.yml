@@ -32,6 +32,9 @@ collections:
   articles:
     title: Articles
     output: true
+  series:
+    title: Article Series
+    output: true
   podcasts:
     title: Podcasts
     output: true

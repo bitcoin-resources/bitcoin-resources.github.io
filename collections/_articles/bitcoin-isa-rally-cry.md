@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_371---Bitcoin-is-a-Rally-
 audio2: 
 audio3: 
 star: 
+archive: 
+series: Gradually, Then Suddenly
+seriesnr: 13
 ---

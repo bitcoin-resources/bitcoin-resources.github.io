@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Chat_42---Project-Snow-White--
 audio2: 
 audio3: 
 star: 
+archive: 
+series: 
+seriesnr: 
 ---

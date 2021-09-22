@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_158---Anatomy-o
 audio2: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_159---Bitcoin--Chance--and-Randomness-Part-2---Hugo-Nguyen-e2ndpi/a-a7d5vf
 audio3: 
 star: 
+archive: 
+series: 
+seriesnr: 
 ---

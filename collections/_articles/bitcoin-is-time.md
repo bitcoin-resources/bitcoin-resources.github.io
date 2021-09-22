@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_503---Bitcoin-is-Time-Der
 audio2: 
 audio3: 
 star: TRUE
+archive: 
+series: 
+seriesnr: 
 ---

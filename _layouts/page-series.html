@@ -1,0 +1,40 @@
+---
+layout: default
+---
+<section class="post">
+  <div>
+    <div class="post__header section-padding">
+      <div class="grid-small">
+        <h1>{{ page.title }}</h1>
+        <h3>by {{ page.author }}</h3>
+      </div>
+    </div>
+
+    <div class="post__content section-padding">
+      <div class="grid">
+        <div id="markdown">
+          {% include series.html series=page.title %}
+          <hr/>
+          <p>
+          Originally published in <a href="{{ page.landing }}">{{ page.date | date: '%Y' }}</a>
+          {% if page.mirror or page.archive %}
+            (
+            {% if page.mirror %}
+            <a href="{{ page.mirror }}">Mirror</a>
+            {% endif %}
+            {% if page.mirror and page.archive %}
+            ,
+            {% endif %}
+            {% if page.archive %}
+            <a href="{{ page.archive }}">Archive</a>
+            {% endif %}
+            )
+          {% endif %}
+          </p>
+          <hr/>
+          {{content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

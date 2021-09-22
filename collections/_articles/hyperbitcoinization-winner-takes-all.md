@@ -10,4 +10,7 @@ audio: https://citizenbitcoin.world/episodes/a-reading-hyperbitcoinization-winne
 audio2: 
 audio3: 
 star: 
+archive: 
+series: 
+seriesnr: 
 ---

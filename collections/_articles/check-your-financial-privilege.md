@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_526---Check-Your-Financia
 audio2: 
 audio3: 
 star: 
+archive: 
+series: 
+seriesnr: 
 ---

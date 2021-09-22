@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Reboot---Shelling-Out-The-Orig
 audio2: 
 audio3: 
 star: TRUE
+archive: 
+series: 
+seriesnr: 
 ---

@@ -10,4 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_290---Gradually
 audio2: 
 audio3: 
 star: 
+archive: 
+series: Gradually, Then Suddenly
+seriesnr: 1
 ---

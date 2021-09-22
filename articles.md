@@ -25,6 +25,17 @@ optimistic about Bitcoin's future.
 
 ---
 
+## Article Series
+
+<ul class="articles">
+{% for s in site.series %}
+  <li><a href="{{ s.url }}">{{ s.title }}</a>
+  by {{ s.author }}</li>
+{% endfor %}
+</ul>
+
+---
+
 ## The Difficulty of Understanding Bitcoin
 
 Bitcoin isn't exactly easy to understand. Some of the reasons for this
