@@ -10,6 +10,7 @@ resource_url: https://getbitcoinclarity.com/
 amazon_url: https://amzn.to/3f8AC6c
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 7
 lesson: ['']
 quote: ""

@@ -10,6 +10,7 @@ resource_url: https://www.penguinrandomhouse.com/books/176226/the-black-swan-sec
 amazon_url: https://amzn.to/2vfz0Gn
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 9
 lesson: ['5']
 quote: ""

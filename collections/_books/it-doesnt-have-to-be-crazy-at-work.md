@@ -10,7 +10,7 @@ resource_url: https://basecamp.com/books/calm
 amazon_url: https://amzn.to/2vSLpk9
 wikipedia_url: 
 free_url: 
-permalink: books/it-doesnt-have-to-be-crazy-at-work
+summary_url: https://twitter.com/dergigi/status/1050772021578276869
 rating_order: 10
 lesson: ['']
 quote: ""

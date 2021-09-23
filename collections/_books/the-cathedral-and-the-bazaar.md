@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/3cTjFfA
 wikipedia_url: 
 free_url: http://www.catb.org/~esr/writings/cathedral-bazaar
+summary_url: 
 rating_order: 8
 lesson: ['']
 quote: ""

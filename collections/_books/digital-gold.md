@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/3qnjAb9
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 4
 lesson: ['']
 quote: ""

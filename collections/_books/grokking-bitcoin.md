@@ -10,6 +10,7 @@ resource_url: https://www.manning.com/books/grokking-bitcoin
 amazon_url: https://amzn.to/2TIteqd
 wikipedia_url: 
 free_url: https://github.com/kallerosenbaum/grokkingbitcoin
+summary_url: 
 rating_order: 7
 lesson: ['']
 quote: ""

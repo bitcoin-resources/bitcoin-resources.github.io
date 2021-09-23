@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/3DGE8Sn
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: "We need not to be let alone. We need to be really bothered once in a while. How long is it since you were really bothered? About something important, about something real?"

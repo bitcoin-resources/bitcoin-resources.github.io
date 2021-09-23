@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/3zHgv9Z
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: "If you want a picture of the future, imagine a boot stamping on a human face—for ever."

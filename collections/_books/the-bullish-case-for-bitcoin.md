@@ -10,6 +10,7 @@ resource_url: https://www.kickstarter.com/projects/boyapati/the-bullish-case-for
 amazon_url: https://amzn.to/3gaVj4g
 wikipedia_url: 
 free_url: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
+summary_url: https://twitter.com/petermiyoung/status/1336612103436824576?s=20
 rating_order: 9
 lesson: ['']
 quote: ""

@@ -10,6 +10,7 @@ resource_url: https://mises.org/library/economics-one-lesson
 amazon_url: https://amzn.to/3aK2AD0
 wikipedia_url: 
 free_url: http://www.hacer.org/pdf/Hazlitt00.pdf
+summary_url: 
 rating_order: 7
 lesson: ['9']
 quote: ""

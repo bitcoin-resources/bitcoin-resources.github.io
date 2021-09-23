@@ -10,6 +10,7 @@ resource_url: https://www.fooledbyrandomness.com/
 amazon_url: https://amzn.to/2w18QHT
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 7
 lesson: ['15']
 quote: ""

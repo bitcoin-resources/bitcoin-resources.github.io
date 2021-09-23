@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/3cTDX92
 wikipedia_url: https://en.wikipedia.org/wiki/A_New_Kind_of_Science
 free_url: https://www.wolframscience.com/nks/
+summary_url: 
 rating_order: 5
 lesson: ['']
 quote: ""

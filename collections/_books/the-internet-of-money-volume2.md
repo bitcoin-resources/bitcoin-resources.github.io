@@ -10,7 +10,7 @@ resource_url: https://theinternetofmoney.info/
 amazon_url: https://amzn.to/2QqbLB5
 wikipedia_url: 
 free_url: 
-permalink: books/the-internet-of-money-volume-2
+summary_url: https://twitter.com/bquittem/status/979650054934822912
 rating_order: 7
 lesson: ['']
 quote: ""

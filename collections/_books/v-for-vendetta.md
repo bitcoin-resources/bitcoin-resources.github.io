@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/38xAgVz
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: "People shouldn't be afraid of their government. Governments should be afraid of their people."

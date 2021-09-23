@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/3d9cP7C
 wikipedia_url: 
 free_url: 
+summary_url: https://twitter.com/gladstein/status/1374054823012626432
 rating_order: 8
 lesson: ['4']
 quote: ""
