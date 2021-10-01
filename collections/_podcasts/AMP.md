@@ -9,7 +9,7 @@ ios:
 android: ['']
 spotify: https://open.spotify.com/show/4DlKHGBZbpcFhCnT2W40iv
 rss: ['']
-rank: 40
+rank: 41
 twitter: https://twitter.com/thealexgalaxy
 youtube: https://www.youtube.com/alexmillar
 level: Beginner
