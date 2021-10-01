@@ -1,6 +1,6 @@
 ---
 layout: page
-code: TB
+code: BIZ
 name: The Biz
 hosts: John Carvalho
 link: https://thebiz.pro/
