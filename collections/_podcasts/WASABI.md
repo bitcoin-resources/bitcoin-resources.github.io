@@ -9,7 +9,7 @@ ios:
 android: ['https://subscribeonandroid.com/anchor.fm/s/48dbc6b0/podcast/rss']
 spotify: https://open.spotify.com/show/1nES9u7HIWZgaHWxkiaa7r
 rss: ['https://anchor.fm/s/48dbc6b0/podcast/rss']
-rank: 52
+rank: 53
 twitter: https://twitter.com/HillebrandMax/
 youtube: 
 level: Specialized

@@ -9,7 +9,7 @@ ios:
 android: ['https://subscribeonandroid.com/meetup.bitcoinenemies.com/@dirtcoin/feed.xml']
 spotify: 
 rss: ['https://meetup.bitcoinenemies.com/@dirtcoin/feed.xml']
-rank: 49
+rank: 50
 twitter: https://twitter.com/bitcoinenemies
 youtube: 
 level: Specialized
