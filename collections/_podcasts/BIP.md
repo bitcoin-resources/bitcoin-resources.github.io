@@ -1,7 +1,7 @@
 ---
 layout: page
 code: BIP
-name: Bitcoin Infinity
+name: Bitcoin Infinity Podcast
 hosts: Ram and Krishna
 link: https://bitcoininfinitypodcast.com/
 tier: 3
