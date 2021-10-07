@@ -23,6 +23,10 @@ that we don't necessarily need the masses. But we do need you, the remnant.
 * [Francis, John, and Aleks](https://youtu.be/8t_sQ4rTGho) on the Bitcoin Remnant
 * [Hass McCook](https://pca.st/podcast/2c390830-ee9d-0138-e808-0acc26574db2) preaching to the True Believer
 
+## People to Follow
+
+I will not make a list of people. Lists are dangerous. You will find others if you know where to look.
+
 ---
 
 {% include image.html path="/assets/images/isaiah-wall.jpg" %}
