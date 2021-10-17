@@ -5,5 +5,5 @@ link: https://bitcoiner.guide/privacy/
 author: Bitcoin Q+A
 type: guide
 star: 
-order: 19
+order: 20
 ---

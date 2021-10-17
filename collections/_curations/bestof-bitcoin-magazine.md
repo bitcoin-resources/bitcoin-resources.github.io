@@ -5,5 +5,5 @@ link: https://bitcoinmagazine.com/best-of-bitcoin-magazine
 author: Bitcoin Magazine
 type: curation
 star: 
-order: 14
+order: 15
 ---
