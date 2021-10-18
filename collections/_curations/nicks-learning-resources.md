@@ -5,5 +5,5 @@ link: https://nickbeaird.com/bitcoin
 author: Nick Beaird
 type: curation
 star: 
-order: 16
+order: 17
 ---
