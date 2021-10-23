@@ -56,11 +56,11 @@ mining.
 
 The following podcast series are worth listening to in full:
 
-- [The Beginner's Guide to Bitcoin][1] ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17]) by Peter McCormack
-- [Bitcoin - There Is No Alternative][tina-playlist] ([web][tina-series], [1][tina1], [2][tina2], [3][tina3], [4][tina4], [bonus][tina-bonus], [TFTC][tina-tftc]) with Bitcoin Tina
-- [The Saylor Series][saylor-series] ([1][saylor1], [2][saylor2], [3][saylor3], [4][saylor4], [5][saylor5], [6][saylor6], [7][saylor7], [8][saylor8], [9][saylor9]) with Michael Saylor, by Robert Breedlove
-- [The Vervaeke Series][vervaeke-series] ([1][vervaeke1], [2][vervaeke2], [3][vervaeke3], [4][vervaeke4], [5][vervaeke5], [6][vervaeke6], [7][vervaeke7], [8][vervaeke8]) with John Vervaeke, by Robert Breedlove
-- [Bitcoin Matters][bitcoin-matters] ([1][b1], [2][b2], [3][b3], [4][b4], [5][b5], [6][b6], [7][b7], [8][b8], [9][b9], [10][b10], [11][b11], [12][b12], [13][b13], [14][b14], [15][b15], [16][b16]) by Beautyon
+- [Bitcoin Matters][bitcoin-matters] ([1][b1], [2][b2], [3][b3], [4][b4], [5][b5], [6][b6], [7][b7], [8][b8], [9][b9], [10][b10], [11][b11], [12][b12], [13][b13], [14][b14], [15][b15], [16][b16]) by Beautyon (Sep 2018)
+- [The Beginner's Guide to Bitcoin][1] ([1], [2], [3], [4], [5], [6], [7], [8], [9], [10], [11], [12], [13], [14], [15], [16], [17]) by Peter McCormack (Jan 2020)
+- [Bitcoin - There Is No Alternative][tina-playlist]: [web][tina-series], [1][tina1], [2][tina2], [3][tina3], [4][tina4], [bonus][tina-bonus], [TFTC][tina-tftc] with Bitcoin Tina (Jul 2020)
+- [The Saylor Series][saylor-series] ([1][saylor1], [2][saylor2], [3][saylor3], [4][saylor4], [5][saylor5], [6][saylor6], [7][saylor7], [8][saylor8], [9][saylor9]) with Michael Saylor, by Robert Breedlove (Nov 2020)
+- [The Vervaeke Series][vervaeke-series] ([1][vervaeke1], [2][vervaeke2], [3][vervaeke3], [4][vervaeke4], [5][vervaeke5], [6][vervaeke6], [7][vervaeke7], [8][vervaeke8]) with John Vervaeke, by Robert Breedlove (Sep 2021)
 
 ---
 
