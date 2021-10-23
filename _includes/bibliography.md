@@ -83,6 +83,15 @@
 [saylor7]: https://youtu.be/SojzZxhMf00
 [saylor8]: https://youtu.be/FXXx4DBi0SM
 [saylor9]: https://youtu.be/fzg9I7hHdzs
+[vervaeke-series]: https://www.youtube.com/playlist?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG
+[vervaeke1]: https://youtu.be/W8mAIOKsl24?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG
+[vervaeke2]: https://youtu.be/V6NiLOi3icc?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG
+[vervaeke3]: https://youtu.be/yUKJ3blj8ZM?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG
+[vervaeke4]: https://youtu.be/237-jbJfleY?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG
+[vervaeke5]: https://youtu.be/66zWs5jZtJw?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG
+[vervaeke6]: https://youtu.be/yEfV1M5_0Xs?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG
+[vervaeke7]: https://youtu.be/LcKtc1bLPX0?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG
+[vervaeke8]: https://youtu.be/3WsDa9ae5-M?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG
 
 <!-- Videos -->
 [aantonop-intro]: https://www.youtube.com/watch?v=l1si5ZWLgy0
