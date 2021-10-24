@@ -11,7 +11,7 @@ amazon_url: https://amzn.to/3zlvoP4
 wikipedia_url: 
 free_url: 
 rating_order: 
-lesson: ['12']
+lesson: ['9']
 quote: ""
 audio_url: https://amzn.to/3Dg61AF
 free_audio_url: 
