@@ -27,6 +27,10 @@ that we don't necessarily need the masses. But we do need you, the remnant.
 
 * [Citadel Theory: What is coming and how to survive it](https://untappedgrowth.com/citadel-theory-what-is-coming-and-how-to-survive-it/) by Joel from Untapped Growth
 
+## Art
+
+* [In Shadow: A Modern Odyssey](https://youtu.be/j800SVeiS5I) by Lubomir Arsov
+
 ## People to Follow
 
 I will not make a list of people. Lists are dangerous. You will find others if you know where to look.
