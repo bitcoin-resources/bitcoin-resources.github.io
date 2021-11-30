@@ -28,7 +28,7 @@
     "jekyll-infinite-scroll": "^1.0.5",
     "jquery": "^3.6.0",
     "salvattore": "^1.0.9",
-    "sass": "^1.43.5"
+    "sass": "^1.44.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
