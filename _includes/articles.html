@@ -7,6 +7,9 @@
     <a href="{{ article.audio }}" target="_blank" title="Audio version">🎧</a>
     {% endif %}
     <a href="{{ article.link }}" target="_blank">{{ article.title }}</a> by {{ article.author }}
+    {% if article.archive %}
+      <a href="{{ article.archive }}" target="_blank">[💾]</a>
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
