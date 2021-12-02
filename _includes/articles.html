@@ -8,7 +8,7 @@
     {% endif %}
     <a href="{{ article.link }}" target="_blank">{{ article.title }}</a> by {{ article.author }}
     {% if article.archive %}
-      <a href="{{ article.archive }}" target="_blank">[💾]</a>
+      [<a href="{{ article.archive }}" title="Archive Link" target="_blank">💾</a>]
     {% endif %}
   </li>
 {% endfor %}
