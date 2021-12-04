@@ -2,8 +2,7 @@
 layout: resources
 title: Donate to Bitcoin Resources
 image: /assets/images/bitcoin-resources-twitter-cover.png
-description: Books, articles, podcasts, and other curated Bitcoin resources.
-redirect_from: resources
+description: If this site was useful to you, please consider giving back.
 ---
 
 <div class="action-buttons">
