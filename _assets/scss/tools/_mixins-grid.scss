@@ -1,4 +1,4 @@
-//---------------------------------------------- 
+//----------------------------------------------
 //  Flex Grid - flex-grid()
 //  @description: Creates a flexbox grid
 //  @param:       $sm, $md, $lg, $xl: [null] - Media sizes
@@ -13,36 +13,36 @@
 
   & > * {
     padding: $pad;
-    flex-basis: 100% / $xs;
-    max-width: 100% / $xs;
+    flex-basis: calc(100% / $xs);
+    max-width: calc(100% / $xs);
 
     @media (min-width: $mq-small) {
-      flex-basis: 100% / $sm;
-      max-width: 100% / $sm;
+      flex-basis: calc(100% / $sm);
+      max-width: calc(100% / $sm);
     }
 
     @media (min-width: $mq-med) {
-      flex-basis: 100% / $md;
-      max-width: 100% / $md;
+      flex-basis: calc(100% / $md);
+      max-width: calc(100% / $md);
     }
 
     @if $lg {
       @media (min-width: $mq-large) {
-        flex-basis: 100% / $lg;
-        max-width: 100% / $lg;
+        flex-basis: calc(100% / $lg);
+        max-width: calc(100% / $lg);
       }
     }
 
     @if $xl {
       @media (min-width: $mq-xlarge) {
-        flex-basis: 100% / $xl;
-        max-width: 100% / $xl;
+        flex-basis: calc(100% / $xl);
+        max-width: calc(100% / $xl);
       }
     }
   }
 }
 
-//---------------------------------------------- 
+//----------------------------------------------
 //  Flex Grid Animation - flex-grid-animation()
 //  @description: Animation delay for flex grid
 //  @param:       $xs, $sm, $md, $lg, $xl: [null] - Media sizes
