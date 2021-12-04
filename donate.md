@@ -5,6 +5,9 @@ image: /assets/images/bitcoin-resources-twitter-cover.png
 description: If this site was useful to you, please consider giving back.
 ---
 
+Bitcoin Resources is a <a href="{{ site.social[1].url }}">free open-source</a> project curated by volunteers.
+If this site was useful to you, please consider giving back.
+
 <div class="action-buttons">
   <div class="button button-blue button-medium">
     <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V-2&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD&price=2.10">
