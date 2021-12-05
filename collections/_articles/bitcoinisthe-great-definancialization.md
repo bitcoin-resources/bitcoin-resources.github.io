@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_477---Bitcoin-is-the-Grea
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/zlWUJ
 series: Gradually, Then Suddenly
 seriesnr: 16
 ---

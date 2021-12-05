@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_283---Invalid-B
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/cbCsy
 series: 
 seriesnr: 
 ---

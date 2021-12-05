@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_108---Bitcoin-G
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/SRM3y
 series: 
 seriesnr: 
 ---

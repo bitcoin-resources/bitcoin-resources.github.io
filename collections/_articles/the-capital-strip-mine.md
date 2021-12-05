@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_501---The-Capital-Strip-M
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/lFdvW
 series: Bitcoin is Venice
 seriesnr: 2
 ---

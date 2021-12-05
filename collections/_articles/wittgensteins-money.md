@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_488---Wittgensteins-Money
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/NnRWG
 series: Bitcoin is Venice
 seriesnr: 1
 ---

@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_499---The-Bitcoin-Black-H
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/6f0eJ
 series: 
 seriesnr: 
 ---

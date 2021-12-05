@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_471---The-Speculative-Att
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/nIqwn
 series: 
 seriesnr: 
 ---

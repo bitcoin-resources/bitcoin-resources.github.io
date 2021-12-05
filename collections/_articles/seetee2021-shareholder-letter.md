@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_504---SeeTee-Shareholder-
 audio2: 
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.ph/6vGBR
 series: 
 seriesnr: 
 ---

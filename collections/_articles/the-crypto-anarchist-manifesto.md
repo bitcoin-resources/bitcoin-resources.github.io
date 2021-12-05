@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_300-----The-Cry
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/ZYpoA
 series: 
 seriesnr: 
 ---

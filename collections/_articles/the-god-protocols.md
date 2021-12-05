@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_261---The-God-P
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/cJTcV
 series: 
 seriesnr: 
 ---

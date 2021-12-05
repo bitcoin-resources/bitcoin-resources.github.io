@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_457---Our-Most-Brilliant-
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/8Eb1A
 series: 
 seriesnr: 
 ---
