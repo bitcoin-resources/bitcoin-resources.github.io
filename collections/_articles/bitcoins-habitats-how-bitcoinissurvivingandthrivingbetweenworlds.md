@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_361---Bitcoins-
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/c0tOC
 series: 
 seriesnr: 
 ---

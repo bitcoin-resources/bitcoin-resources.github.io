@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_304---Bitcoin-A
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/GuGgI
 series: Bitcoin Astronomy
 seriesnr: 2
 ---

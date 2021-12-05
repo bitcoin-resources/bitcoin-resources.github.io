@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_253---The-Magic
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/mm7EN
 series: 
 seriesnr: 
 ---

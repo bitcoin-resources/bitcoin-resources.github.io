@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_302---Bitcoin-i
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.md/L18jM
 series: Gradually, Then Suddenly
 seriesnr: 3
 ---

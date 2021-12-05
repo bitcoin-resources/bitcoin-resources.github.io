@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_454---The-Last-Word-on-Bi
 audio2: 
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.ph/fibzo
 series: 
 seriesnr: 
 ---

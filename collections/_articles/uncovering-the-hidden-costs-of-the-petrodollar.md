@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_522---The-Hidden-Costs-of
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/OAMd6
 series: 
 seriesnr: 
 ---

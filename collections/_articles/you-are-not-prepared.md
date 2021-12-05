@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_521---You-Are-Not-Prepare
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/XRFrX
 series: 
 seriesnr: 
 ---

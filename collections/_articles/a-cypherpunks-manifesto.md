@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_163---A-Cypherp
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/6of6P
 series: 
 seriesnr: 
 ---

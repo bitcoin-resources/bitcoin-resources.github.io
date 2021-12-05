@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_374---The-Number-Zero--Bi
 audio2: 
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.md/MKiM1
 series: 
 seriesnr: 
 ---

@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_336---Bitcoins-
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/nJOZU
 series: 
 seriesnr: 
 ---

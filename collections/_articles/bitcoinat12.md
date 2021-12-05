@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_456---Bitcoin-at-12-Nic-C
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://archive.ph/MmCRe
 series: 
 seriesnr: 
 ---

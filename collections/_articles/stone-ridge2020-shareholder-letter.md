@@ -10,7 +10,7 @@ audio: https://anchor.fm/thecryptoconomy/episodes/Read_482---The-Stone-Ridge-Let
 audio2: 
 audio3: 
 star: TRUE
-archive: 
+archive: https://archive.md/Fhqrr
 series: 
 seriesnr: 
 ---
