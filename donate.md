@@ -9,6 +9,21 @@ Bitcoin Resources is a [free open-source][github] project curated by volunteers.
 If this site was useful to you, please consider giving back.
 
 <div class="action-buttons">
+  <div class="button button-wide">
+    <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=BR-6&checkoutDesc=Give+back+to+Bitcoin+Resources&currency=USD&price=6.15">
+      $6.15
+    </a>
+  </div>
+  <small>
+    <a href="#support-with-sats">More options</a>
+  </small>
+</div>
+
+
+
+### Support With Sats
+
+<div class="action-buttons">
   <div class="button">
     <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=BR-2&checkoutDesc=Give+back+to+Bitcoin+Resources&currency=USD&price=2.10">
       $2.10
