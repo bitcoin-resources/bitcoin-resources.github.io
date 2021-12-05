@@ -19,6 +19,9 @@ If this site was useful to you, please consider giving back.
     <a href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=BR-210&checkoutDesc=Give+back+to+Bitcoin+Resources&currency=USD&price=210">
       $210
     </a>
+    <a style="background-color: #46B00C;" href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
+      Custom amount
+    </a>
   </div>
 </div>
 
@@ -26,9 +29,6 @@ If this site was useful to you, please consider giving back.
 
 <div class="action-buttons">
   <div class="button button-wide">
-    <a style="background-color: #46B00C;" href="https://ts.dergigi.com/api/v1/invoices?storeId=3WkiYEG5DaQv7Ak5M2UjUi1pe5FFTPyNF1yAE9CVLNJn&orderId=V4V&checkoutDesc=Value+for+Value%3A+Give+as+much+as+it+is+worth+to+you.&currency=USD">
-      Custom amount
-    </a>
   </div>
 </div>
 
