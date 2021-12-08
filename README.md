@@ -4,7 +4,7 @@ A curated collection of articles, books, podcasts, podcast episodes, and other r
 
 ### Contribute
 
-If you find any typos, grammatical errors, broken links, or any other mistakes or issues, please point them out to me on [twitter](https://twitter.com/dergigi). Or create a pull request to correct them.
+If you find any typos, grammatical errors, broken links, or any other mistakes or issues, please point them out to [me](https://dergigi.com/contact/) or create a pull request to correct them.
 
 For more details on how to contribute please refer to the [contribution guidelines](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md).
 
@@ -32,6 +32,6 @@ You can follow [the project](https://twitter.com/BtcResources) on Twitter, share
 
 ---
 
-Created with :heart: by [Gigi](https://dergigi.com/).
+Created with 🧡 by [Gigi](https://dergigi.com/).
 
 [![tippin.me](https://badgen.net/badge/%E2%9A%A1%EF%B8%8Ftippin.me/@dergigi/F0918E)](https://tippin.me/@dergigi)
