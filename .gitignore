@@ -9,6 +9,3 @@ _site
 .jekyll-metadata
 scripts/spreadsheet_to_resource_mds/client_secret.json
 scripts/spreadsheet_to_resource_mds/__pycache__
-/scripts/archive_links_from_spreadsheet/archived_links.txt
-/scripts/archive_links_from_spreadsheet/article_links.txt
-/scripts/archive_links_from_spreadsheet/geckodriver.log
