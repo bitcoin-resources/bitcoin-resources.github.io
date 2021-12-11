@@ -113,6 +113,12 @@ impact of Bitcoin.
 
 All of the above are available for free at the Mises Institute.
 
+## Inflation
+
+
+
+{% include books.html category='inflation' %}
+
 ## Banking
 
 Banking is a mystery to most, and central banking doubly so. Bitcoin isn't
