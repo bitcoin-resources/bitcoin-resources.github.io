@@ -120,7 +120,10 @@ to read books that describe what happens in a hyperinflation environment.
 
 {% include books.html category='inflation' %}
 
+If you want to read only one book to understand the perils of inflation, read
+[When Money Dies][WMD] by Adam Fergusson.
 
+[WMD]: {{ '/books/when-money-dies' | absolute_url }}
 
 ## Banking
 
