@@ -111,7 +111,8 @@ impact of Bitcoin.
 
 {% include books.html category='money' %}
 
-All of the above are available for free at the Mises Institute.
+Except for Argentarius, all of the above are available for free at the Mises
+Institute.
 
 ## Inflation
 
