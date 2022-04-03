@@ -5,5 +5,5 @@ link: https://www.bitcoinerbooks.com/
 author: Fernando Nikolic
 type: curation
 star: 
-order: 33
+order: 34
 ---
