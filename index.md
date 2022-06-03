@@ -28,6 +28,8 @@ Hazlitt.
 
 {% include books.html category='essentials' %}
 
+[View all books »][books]
+
 If you prefer a shorter introduction, read and listen to the following:
 
 - [The Bullish Case for Bitcoin][bullish-case-book] by Vijay Boyapati
