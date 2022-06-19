@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Erik Cason
 title: The Oath of Machines, Liturgy of Code, and Promise of Bitcoin
 link: https://cryptosovereignty.org/oath-machines-liturgy-code/

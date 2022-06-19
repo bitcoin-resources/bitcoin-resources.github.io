@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Beautyon
 title: Bitcoin is. And that is enough.
 link: https://archive.is/iU7Tu

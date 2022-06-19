@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why You Shouldn’t Be Afraid of Bitcoin
 link: https://tomerstrolight.medium.com/why-you-shouldnt-be-afraid-of-bitcoin-59e99ce02f08

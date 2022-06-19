@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Dear Family, Dear Friends
 link: https://dergigi.com/2020/04/27/dear-family-dear-friends/

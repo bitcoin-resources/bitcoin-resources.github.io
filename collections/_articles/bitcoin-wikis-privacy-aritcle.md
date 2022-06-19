@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Chris Belcher
 title: Bitcoin Wiki’s Privacy Aritcle
 link: https://en.bitcoin.it/wiki/Privacy

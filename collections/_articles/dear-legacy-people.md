@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Dear Legacy People
 link: https://dergigi.com/2020/03/20/dear-legacy-people/

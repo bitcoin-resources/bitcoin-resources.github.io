@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<section class="post">
+  <div>
+    <div class="post__header section-padding">
+      <div class="grid-small">
+        <h1>{{ page.title }}</h1>
+        <h3>by {{ page.author }}</h3>
+      </div>
+    </div>
+
+    <div class="post__content section-padding">
+      <div class="grid">
+        <div id="markdown">
+          <ul class="articles">
+            {% include article-item.html article=page %}
+            <hr/>
+            {% if page.audio %}<li> » 🎧 Audio: <a href="{{ page.audio }}">one</a>{% endif %}{% if page.audio2 %}, <a href="{{ page.audio2 }}">two</a>{% endif %}{% if page.audio3 %}, <a href="{{ page.audio3 }}">three</a> {% endif %}
+            </li>
+            <li> » 🔗 Archive: <a href="{{ page.archive }}">{{ page.archive }}</a></li>
+          </ul>
+          <hr/>
+          {{content}}
+          <p>
+            <a href="{{ '/articles' | absolute_url }}">« Back to articles</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

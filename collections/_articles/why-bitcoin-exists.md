@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin Exists
 link: https://tomerstrolight.medium.com/why-bitcoin-exists-1d050c79927a

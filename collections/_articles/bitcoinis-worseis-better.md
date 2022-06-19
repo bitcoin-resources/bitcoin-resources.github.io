@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gwern
 title: Bitcoin is Worse is Better
 link: https://www.gwern.net/Bitcoin-is-Worse-is-Better

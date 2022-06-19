@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Hal Finney
 title: Digital Cash & Privacy
 link: https://nakamotoinstitute.org/digital-cash-and-privacy/

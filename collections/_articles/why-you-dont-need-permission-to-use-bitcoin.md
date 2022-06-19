@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why You Don't Need Permission To Use Bitcoin
 link: https://tomerstrolight.medium.com/why-you-dont-need-permission-to-use-bitcoin-efdc086eec51

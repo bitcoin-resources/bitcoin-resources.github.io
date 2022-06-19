@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Dear Bitcoiners - An optimistic letter to friends and foes around the globe
 link: https://dergigi.com/2020/03/31/dear-bitcoiners/

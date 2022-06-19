@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin is Common Sense
 link: https://unchained-capital.com/blog/bitcoin-is-common-sense/

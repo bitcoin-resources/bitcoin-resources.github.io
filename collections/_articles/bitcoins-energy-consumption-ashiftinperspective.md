@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Bitcoin's Energy Consumption - A shift in perspective
 link: https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/

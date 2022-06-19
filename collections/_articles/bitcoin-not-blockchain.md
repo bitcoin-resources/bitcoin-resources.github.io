@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin, Not Blockchain
 link: https://unchained-capital.com/blog/bitcoin-not-blockchain/

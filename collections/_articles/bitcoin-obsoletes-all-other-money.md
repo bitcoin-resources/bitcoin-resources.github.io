@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Obsoletes All Other Money
 link: https://unchained-capital.com/blog/bitcoin-obsoletes-all-other-money/

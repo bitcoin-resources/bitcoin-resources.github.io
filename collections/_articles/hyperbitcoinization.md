@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Daniel Krawisz
 title: Hyperbitcoinization
 link: https://nakamotoinstitute.org/mempool/hyperbitcoinization/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Saifedean Ammous
 title: The Bitcoin Halving and Monetary Competition
 link: https://thesaifhouse.wordpress.com/2016/07/09/the-bitcoin-halving-and-monetary-competition/

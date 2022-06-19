@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Nic Carter
 title: Bitcoin’s Existential Crisis
 link: https://medium.com/s/story/what-is-it-like-to-be-a-bitcoin-56109f3e6753

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin is the Great Definancialization
 link: https://unchained.com/blog/bitcoin-is-the-great-definancialization/

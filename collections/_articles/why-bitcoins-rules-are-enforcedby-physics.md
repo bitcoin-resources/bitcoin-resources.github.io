@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin's Rules Are Enforced by Physics
 link: https://tomerstrolight.medium.com/why-bitcoins-rules-are-enforced-by-physics-b69f676cbb70

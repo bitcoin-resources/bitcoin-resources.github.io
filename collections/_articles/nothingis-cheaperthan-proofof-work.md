@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Paul Sztorc
 title: Nothing is Cheaper than Proof of Work
 link: http://www.truthcoin.info/blog/pow-cheapest/

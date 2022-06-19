@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Conner Brown
 title: Bitcoin Has No Intrinsic Value — and That’s Great
 link: https://medium.com/coinmonks/bitcoin-has-no-intrinsic-value-and-thats-great-e6994adbfe0f

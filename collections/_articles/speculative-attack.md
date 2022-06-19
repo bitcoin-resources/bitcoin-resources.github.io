@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Pierre Rochard
 title: Speculative Attack
 link: https://nakamotoinstitute.org/mempool/speculative-attack/

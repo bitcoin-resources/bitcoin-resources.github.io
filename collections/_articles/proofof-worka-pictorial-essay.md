@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Adam Gibson
 title: Proof of Work, a Pictorial Essay
 link: https://reyify.com/blog/pow-a-pictorial-essay

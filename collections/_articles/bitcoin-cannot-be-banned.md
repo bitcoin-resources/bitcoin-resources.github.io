@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Cannot Be Banned
 link: https://unchained-capital.com/blog/bitcoin-cannot-be-banned/

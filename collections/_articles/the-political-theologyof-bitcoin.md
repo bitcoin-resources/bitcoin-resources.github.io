@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Erik Cason
 title: The Political Theology of Bitcoin
 link: https://cryptosovereignty.org/the-political-theology-of-bitcoin/

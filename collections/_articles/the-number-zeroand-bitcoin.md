@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Robert Breedlove
 title: The Number Zero and Bitcoin
 link: https://medium.com/@breedlove22/the-number-zero-and-bitcoin-4c193336db5b

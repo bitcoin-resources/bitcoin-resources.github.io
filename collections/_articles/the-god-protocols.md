@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Nick Szabo
 title: The God Protocols
 link: https://nakamotoinstitute.org/the-god-protocols/

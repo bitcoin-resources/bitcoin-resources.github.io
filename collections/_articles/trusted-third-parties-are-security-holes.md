@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Nick Szabo
 title: Trusted Third Parties Are Security Holes
 link: https://nakamotoinstitute.org/trusted-third-parties/

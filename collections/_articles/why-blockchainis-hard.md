@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Jimmy Song
 title: Why Blockchain is Hard
 link: https://medium.com/@jimmysong/why-blockchain-is-hard-60416ea4c5c

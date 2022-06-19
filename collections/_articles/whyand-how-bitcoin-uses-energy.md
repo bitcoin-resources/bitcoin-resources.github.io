@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why and How Bitcoin Uses Energy
 link: https://tomerstrolight.medium.com/why-and-how-bitcoin-uses-energy-190c6fe9a5a5

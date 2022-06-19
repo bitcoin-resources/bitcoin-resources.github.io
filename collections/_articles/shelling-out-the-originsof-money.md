@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Nick Szabo
 title: Shelling Out - The Origins of Money
 link: https://nakamotoinstitute.org/shelling-out/

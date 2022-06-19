@@ -41,7 +41,7 @@ for row in articles.get_all_values():
 
     md_file = (
                 f"---\n"
-                f"layout: page\n"
+                f"layout: page-article\n"
                 f"author: {article_author}\n"
                 f"title: {article_title}\n"
                 f"link: {article_link}\n"

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Allen Farrington and Big Al
 title: Only The Strong Survive
 link: https://www.uncerto.com/only-the-strong-survive
