@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Chris Kuiper and Jack Neureuter
 title: Bitcoin First - Why Investors Need to Consider Bitcoin Separately From Other Digital Assets
 link: https://www.fidelitydigitalassets.com/articles/bitcoin-first

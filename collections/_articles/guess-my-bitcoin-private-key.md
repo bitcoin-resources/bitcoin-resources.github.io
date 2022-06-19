@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Michael Kerbleski
 title: Guess My Bitcoin Private Key
 link: https://medium.com/@kerbleski/a-dance-with-infinity-980bd8e9a781

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin’s Energy Use is Not Environmentally Harmful
 link: https://tomerstrolight.medium.com/why-bitcoins-energy-use-is-not-environmentally-harmful-6fbba54911ed

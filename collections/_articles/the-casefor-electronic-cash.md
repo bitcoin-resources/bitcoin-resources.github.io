@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Jerry Brito
 title: The Case for Electronic Cash
 link: https://www.coincenter.org/the-case-for-electronic-cash-in-an-open-and-free-society/

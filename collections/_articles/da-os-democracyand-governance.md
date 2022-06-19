@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Ralph C. Merkle
 title: DAOs, Democracy and Governance
 link: https://alcor.org/cryonics/Cryonics2016-4.pdf#page=28

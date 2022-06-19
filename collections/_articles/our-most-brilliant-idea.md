@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Robert Breedlove
 title: Our Most Brilliant Idea
 link: https://breedlove22.medium.com/our-most-brilliant-idea-aced329f8941

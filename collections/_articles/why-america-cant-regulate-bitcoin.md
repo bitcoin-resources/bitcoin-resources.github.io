@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Beautyon
 title: Why America Can’t Regulate Bitcoin
 link: https://archive.is/yAOwZ

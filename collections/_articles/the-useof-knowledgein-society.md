@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Friedrich Hayek
 title: The Use of Knowledge in Society
 link: https://fee.org/articles/the-use-of-knowledge-in-society/

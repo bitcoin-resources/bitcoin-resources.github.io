@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Nic Carter
 title: Bitcoin at 12
 link: https://medium.com/@nic__carter/bitcoin-at-12-f6fce39cb9bb

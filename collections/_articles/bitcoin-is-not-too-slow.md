@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Is Not Too Slow
 link: https://www.unchained-capital.com/blog/bitcoin-is-not-too-slow/

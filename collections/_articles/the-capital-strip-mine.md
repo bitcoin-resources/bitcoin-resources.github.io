@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Allen Farrington
 title: The Capital Strip Mine
 link: https://allenfarrington.medium.com/the-capital-strip-mine-ec627e9fe40a

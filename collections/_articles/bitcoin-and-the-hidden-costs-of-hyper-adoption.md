@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: L0la L33tz
 title: Bitcoin And The Hidden Costs Of Hyper-Adoption
 link: https://bitcoinmagazine.com/culture/the-hidden-costs-of-bitcoin-adoption

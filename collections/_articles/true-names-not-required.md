@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: True Names Not Required
 link: https://dergigi.com/2020/07/21/true-names-not-required/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Is Not For Criminals
 link: https://unchained-capital.com/blog/bitcoin-is-not-for-criminals/

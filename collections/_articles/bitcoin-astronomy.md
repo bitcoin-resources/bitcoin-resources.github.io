@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Dhruv Bansal
 title: Bitcoin Astronomy
 link: https://unchained-capital.com/blog/law-of-hash-horizons/

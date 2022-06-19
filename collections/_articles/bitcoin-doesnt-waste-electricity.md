@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Beautyon
 title: Bitcoin Doesn’t Waste Electricity
 link: https://archive.is/3IpA4

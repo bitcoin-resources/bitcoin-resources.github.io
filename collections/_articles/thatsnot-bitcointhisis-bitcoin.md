@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: StopAndDecrypt
 title: That’s not Bitcoin, this is Bitcoin
 link: https://hackernoon.com/thats-not-bitcoin-this-is-bitcoin-95f05a6fd6c2

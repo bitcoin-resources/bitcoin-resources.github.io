@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why the Bitcoin Community is Growing So Fast and Getting So Large
 link: https://tomerstrolight.medium.com/why-the-bitcoin-community-is-growing-so-fast-and-getting-so-large-223c2da19de1

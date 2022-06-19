@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Everything That Should Hurt Bitcoin Only Makes It Stronger
 link: https://tomerstrolight.medium.com/why-everything-that-should-hurt-bitcoin-only-makes-it-stronger-c62e8bb2e961

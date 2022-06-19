@@ -9,7 +9,7 @@ authors_twitter: ['https://twitter.com/allenf32/']
 resource_url: 
 amazon_url: https://amzn.to/39qRrvP
 wikipedia_url: 
-free_url: 
+free_url: https://bitcoin-resources.com/series/bitcoin-is-venice/
 rating_order: 
 lesson: ['']
 quote: ""

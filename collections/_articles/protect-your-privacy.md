@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Bitcoin.org
 title: Protect Your Privacy
 link: https://bitcoin.org/en/protect-your-privacy

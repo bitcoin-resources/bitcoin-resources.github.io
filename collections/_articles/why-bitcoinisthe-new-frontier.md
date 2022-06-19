@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin is the New Frontier
 link: https://tomerstrolight.medium.com/why-bitcoin-is-the-new-frontier-b21d5038c097

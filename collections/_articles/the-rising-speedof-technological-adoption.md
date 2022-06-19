@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Jeff Desjardins
 title: The Rising Speed of Technological Adoption
 link: https://www.visualcapitalist.com/rising-speed-technological-adoption/

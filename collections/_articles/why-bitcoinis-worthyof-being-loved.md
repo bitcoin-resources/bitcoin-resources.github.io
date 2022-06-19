@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin is Worthy of Being Loved
 link: https://tomerstrolight.medium.com/why-bitcoin-is-worthy-of-being-loved-110c096f170e

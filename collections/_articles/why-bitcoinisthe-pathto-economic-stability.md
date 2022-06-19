@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin is the Path to Economic Stability
 link: https://tomerstrolight.medium.com/why-bitcoin-is-the-path-to-economic-stability-574abe33542e

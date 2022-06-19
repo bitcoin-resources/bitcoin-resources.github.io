@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Allen Farrington
 title: Bitcoin Is Venice
 link: https://allenfarrington.medium.com/bitcoin-is-venice-8414dda42070

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin Is Not Like Anything You’ve Ever Seen Before
 link: https://tomerstrolight.medium.com/why-bitcoin-is-not-like-anything-youve-ever-seen-before-9a7e09b5cc0f

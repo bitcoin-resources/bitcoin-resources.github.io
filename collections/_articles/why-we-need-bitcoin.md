@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why We Need Bitcoin
 link: https://tomerstrolight.medium.com/why-we-need-bitcoin-95ebf121e1e3

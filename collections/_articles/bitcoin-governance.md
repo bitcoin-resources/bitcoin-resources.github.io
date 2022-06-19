@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Pierre Rochard
 title: Bitcoin Governance
 link: https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f

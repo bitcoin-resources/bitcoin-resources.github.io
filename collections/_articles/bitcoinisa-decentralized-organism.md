@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Brandon Quittem
 title: Bitcoin is a Decentralized Organism
 link: https://medium.com/@BrandonQuittem/bitcoin-is-a-decentralized-organism-mycelium-part-1-3-6ec58cdcfaa6

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Nobody Can Stop Bitcoin
 link: https://tomerstrolight.medium.com/why-nobody-can-stop-bitcoin-a4b18f3b4e12

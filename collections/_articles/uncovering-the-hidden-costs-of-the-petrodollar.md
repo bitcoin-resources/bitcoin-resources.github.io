@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Alex Gladstein
 title: Uncovering The Hidden Costs Of The Petrodollar
 link: https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar

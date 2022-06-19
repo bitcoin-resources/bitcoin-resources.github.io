@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Thomas Nagel
 title: What Is It Like to be a Bat?
 link: https://en.wikipedia.org/wiki/What_Is_it_Like_to_Be_a_Bat%3F

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Alex Gladstein
 title: Why Bitcoin Matters for Freedom
 link: https://time.com/5486673/bitcoin-venezuela-authoritarian/?amp=true

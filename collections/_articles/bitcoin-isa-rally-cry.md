@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Is a Rally Cry
 link: https://unchained-capital.com/blog/bitcoin-is-a-rally-cry/

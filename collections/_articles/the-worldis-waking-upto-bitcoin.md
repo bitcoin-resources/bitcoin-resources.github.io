@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: The World is Waking Up to Bitcoin
 link: https://dergigi.com/2019/07/23/the-world-is-waking-up-to-bitcoin/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin is One for All
 link: https://unchained.com/blog/bitcoin-is-one-for-all/

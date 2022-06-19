@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Can’t Be Copied
 link: https://www.unchained-capital.com/blog/bitcoin-cant-be-copied/

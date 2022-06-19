@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Nic Carter
 title: The Last Word on Bitcoin’s Energy Consumption
 link: https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption
