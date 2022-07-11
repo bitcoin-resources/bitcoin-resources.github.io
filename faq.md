@@ -52,7 +52,7 @@ Bitcoin absolutely dominates in terms of hashrate, having its hands on virtually
 -   [It’s the Settlement Assurances, Stupid!](https://archive.ph/u4Axq)
 
 [pow]: https://dergigi.com/pow
-[^hashrate]: [https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y](https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y)
+[^hashrate]: Hashrate comparison chart: [https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y](https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y)
 
 ### Where do I buy bitcoin?
 
@@ -116,9 +116,13 @@ see the value of bitcoin.
 ### Won\'t governments just ban it?
 
 Some will, some won\'t. In any case, [outlawing
-speech](https://21lessons.com/6/) is futile, as was the Prohibition. 
+speech](https://21lessons.com/6/) is futile, as was the Prohibition.  The
+[implications](https://dergigi.com/law) of an outright ban are ridiculous.
+Bitcoin is equivalent to [free speech](https://dergigi.com/speech).
 
 -   [Can Governments Stop
     Bitcoin?](https://quillette.com/2021/02/21/can-governments-stop-bitcoin/)
 -   [Bitcoin Cannot be
     Banned](https://unchained-capital.com/blog/bitcoin-cannot-be-banned/)
+
+---
