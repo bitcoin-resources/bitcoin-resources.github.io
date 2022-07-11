@@ -40,6 +40,20 @@ money](https://21lessons.com/14/) the hard way.
 -   [The Bullish Case for
     Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 
+### ...but isn't Bitcoin too slow?
+
+No. Bitcoin travels at the speed of light, just like all information. In terms
+of final settlement, the important metric to look at is the settlement
+assurance. A trustless settlement mechanism has to use [proof-of-work][pow].
+Bitcoin absolutely dominates in terms of hashrate, having its hands on virtually
+100% of the global hashrate.[^hashrate]
+
+-   [How many confirmations?](https://howmanyconfs.com/)
+-   [It’s the Settlement Assurances, Stupid!](https://archive.ph/u4Axq)
+
+[pow]: https://dergigi.com/pow
+[^hashrate]: [https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y](https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y)
+
 ### Where do I buy bitcoin?
 
 Good question. It depends on where you are in the world and what kind of
