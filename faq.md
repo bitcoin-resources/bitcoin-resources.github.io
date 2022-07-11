@@ -64,7 +64,14 @@ risks and privacy tradeoffs you are willing to accept.
 
 ### Is Bitcoin bad for the environment?
 
-No.
+Bitcoin is the [holy grail for power
+grids](https://www.seetee.io/podcast/S2E10/shaun-connell-bitcoin-mining-is-the-holy-grail-for-power-grids/)
+and can incentivise investments in renewable energy. Human flourishing rests on
+our ability to use energy effectively.[^aepstein] Bitcoin's incentive structure
+leads to a higher demand for energy and thus the proliferation of cheap and
+abundant energy.
+
+[^aepstein]: Alex Epstein, [2014](https://amzn.to/3awXfEL) & [2022](https://amzn.to/3NViVrB)
 
 -   [Bitcoin Does Not Waste
     Energy](https://unchained-capital.com/blog/bitcoin-does-not-waste-energy/)
