@@ -40,6 +40,20 @@ money](https://21lessons.com/14/) the hard way.
 -   [The Bullish Case for
     Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 
+### ...but isn't Bitcoin too slow?
+
+No. Bitcoin travels at the speed of light, just like all information. In terms
+of final settlement, the important metric to look at is the settlement
+assurance. A trustless settlement mechanism has to use [proof-of-work][pow].
+Bitcoin absolutely dominates in terms of hashrate, having its hands on virtually
+100% of the global hashrate.[^hashrate]
+
+-   [How many confirmations?](https://howmanyconfs.com/)
+-   [It’s the Settlement Assurances, Stupid!](https://archive.ph/u4Axq)
+
+[pow]: https://dergigi.com/pow
+[^hashrate]: Hashrate comparison chart: [https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y](https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y)
+
 ### Where do I buy bitcoin?
 
 Good question. It depends on where you are in the world and what kind of
@@ -50,7 +64,14 @@ risks and privacy tradeoffs you are willing to accept.
 
 ### Is Bitcoin bad for the environment?
 
-No.
+Bitcoin is the [holy grail for power
+grids](https://www.seetee.io/podcast/S2E10/shaun-connell-bitcoin-mining-is-the-holy-grail-for-power-grids/)
+and can incentivise investments in renewable energy. Human flourishing rests on
+our ability to use energy effectively.[^aepstein] Bitcoin's incentive structure
+leads to a higher demand for energy and thus the proliferation of cheap and
+abundant energy.
+
+[^aepstein]: Alex Epstein, [2014](https://amzn.to/3awXfEL) & [2022](https://amzn.to/3NViVrB)
 
 -   [Bitcoin Does Not Waste
     Energy](https://unchained-capital.com/blog/bitcoin-does-not-waste-energy/)
@@ -102,9 +123,13 @@ see the value of bitcoin.
 ### Won\'t governments just ban it?
 
 Some will, some won\'t. In any case, [outlawing
-speech](https://21lessons.com/6/) is futile, as was the Prohibition. 
+speech](https://21lessons.com/6/) is futile, as was the Prohibition.  The
+[implications](https://dergigi.com/law) of an outright ban are ridiculous.
+Bitcoin is equivalent to [free speech](https://dergigi.com/speech).
 
 -   [Can Governments Stop
     Bitcoin?](https://quillette.com/2021/02/21/can-governments-stop-bitcoin/)
 -   [Bitcoin Cannot be
     Banned](https://unchained-capital.com/blog/bitcoin-cannot-be-banned/)
+
+---
