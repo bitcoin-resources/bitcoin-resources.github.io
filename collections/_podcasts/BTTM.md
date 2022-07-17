@@ -9,9 +9,9 @@ ios: https://podcasts.apple.com/podcast/id1549291140
 android: ['https://subscribeonandroid.com/pod.link/1549291140.rss']
 spotify: https://open.spotify.com/show/6yXKQg4Jpy1WcK09YE5JGM
 rss: ['https://pod.link/1549291140.rss']
-rank: 47
+rank: 37
 twitter: https://twitter.com/ToTheMoonPod
-youtube: 
+youtube: https://www.youtube.com/c/Bitrefill-Crypto
 level: Intermediate
 tags: ['interviews']
 ---
