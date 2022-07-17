@@ -6,12 +6,12 @@ hosts: Matthew Mežinskis and Fernando Ulrich
 link: https://cryptovoices.com/
 tier: 2
 ios: https://podcasts.apple.com/lv/podcast/crypto-voices/id1193136560
-android: ['https://feeds.soundcloud.com/users/soundcloud:users:246365412/sounds.rss']
+android: ['https://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:246365412/sounds.rss']
 spotify: https://open.spotify.com/show/2BRaReAosQX2xra2h10PRL?si=HStxHOaSR3uz-6wtNONCiw
 rss: ['https://feeds.soundcloud.com/users/soundcloud:users:246365412/sounds.rss']
-rank: 18
+rank: 16
 twitter: https://twitter.com/crypto_voices
-youtube: 
+youtube: https://www.youtube.com/channel/UC9I4Xcs2ZjJBrV-O4hCFPFw
 level: Intermediate
 tags: ['interviews']
 ---

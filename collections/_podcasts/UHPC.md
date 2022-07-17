@@ -9,7 +9,7 @@ ios: https://podcasts.apple.com/us/podcast/the-unhashed-podcast/id1439833799
 android: ['https://subscribeonandroid.com/www.spreaker.com/show/3478708/episodes/feed']
 spotify: https://open.spotify.com/show/30xnlq6Xjq8J892e3OFc4b?si=sf6N-6geSQuOVGQKPhtiSg
 rss: ['https://www.spreaker.com/show/3478708/episodes/feed']
-rank: 28
+rank: 23
 twitter: https://twitter.com/UnhashedPodcast
 youtube: 
 level: Advanced

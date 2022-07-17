@@ -9,9 +9,9 @@ ios: https://podcasts.apple.com/gb/podcast/what-bitcoin-did-podcast-bitcoin-cryp
 android: ['https://subscribeonandroid.com/www.whatbitcoindid.com/podcast?format=rss']
 spotify: https://open.spotify.com/show/0mWUJuONiilW5JSBBFZ0s7
 rss: ['https://www.whatbitcoindid.com/podcast?format=RSS']
-rank: 13
+rank: 12
 twitter: https://twitter.com/WhatBitcoinDid
-youtube: https://www.youtube.com/whatbitcoindid
+youtube: https://www.youtube.com/c/WhatBitcoinDidPodcast
 level: Beginner
 tags: ['interviews', 'roundtable']
 ---
