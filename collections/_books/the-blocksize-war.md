@@ -9,7 +9,7 @@ authors_twitter: ['https://twitter.com/jonathanbier']
 resource_url: 
 amazon_url: https://amzn.to/3d9cP7C
 wikipedia_url: 
-free_url: 
+free_url: https://blog.bitmex.com/the-blocksize-war-chapter-1-first-strike/
 rating_order: 8
 lesson: ['4']
 quote: ""
