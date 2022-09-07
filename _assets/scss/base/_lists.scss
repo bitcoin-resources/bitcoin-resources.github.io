@@ -30,7 +30,6 @@
       position: relative;
       font-family: $font-post;
       font-size: 1.2em;
-      width: 21%;
 
       &:not(:last-child) {
         margin-bottom: 0.75rem;
@@ -68,7 +67,7 @@
 .books {
   @extend %no-list-style;
   @extend %no-margin-or-padding;
-  justify-content: space-evenly;
+  justify-content: space-between;
   display: flex;
   flex-wrap: wrap;
 
@@ -77,7 +76,6 @@
     max-height:250px;
     width: auto;
     height: auto;
-    margin: auto;
   }
 }
 
