@@ -225,8 +225,15 @@
   }
 
   blockquote {
-    border-top: 2px solid $color-darkergrey;
-    border-bottom: 2px solid $color-darkergrey;
+
+    p:first-child {
+      &:before {
+        content: "\201C";
+      }
+      &:after {
+        content: "\201D";
+      }
+    }
   }
 
   a {
