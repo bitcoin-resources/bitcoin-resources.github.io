@@ -12,7 +12,7 @@ wikipedia_url:
 free_url: 
 rating_order: 
 lesson: ['20']
-quote: ""
+quote: "put the main timechain first"
 audio_url: 
 free_audio_url: 
 goodreads_url: 
