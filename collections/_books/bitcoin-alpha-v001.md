@@ -1,7 +1,7 @@
 ---
 layout: page-books
 title: Bitcoin Alpha V0.01
-subtitle: The original Bitcoin source code, first released in 2009
+subtitle: The Original Bitcoin Source Code
 essential: 
 categories: ['bitcoin-history']
 authors: ['Satoshi Nakamoto']
@@ -11,10 +11,10 @@ amazon_url:
 wikipedia_url: 
 free_url: 
 rating_order: 
-lesson: ['']
+lesson: ['20']
 quote: ""
 audio_url: 
 free_audio_url: 
 goodreads_url: 
-description: ""
+description: "The original Bitcoin source code, written by Satoshi Nakamoto and first released in 2009. Color coded and numbered lines for ease of reference."
 ---
