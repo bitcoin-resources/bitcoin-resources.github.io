@@ -4,7 +4,7 @@ title: Bitcoin Alpha V0.01
 subtitle: The Original Bitcoin Source Code
 essential: 
 categories: ['bitcoin-history']
-authors: ['Satoshi Nakamoto']
+authors: ['Pirate Hash']
 authors_twitter: ['https://twitter.com/piratehash']
 resource_url: https://piratehash.com/product/bitcoin-alpha-v0-01/
 amazon_url: 
