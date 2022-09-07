@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin's Buying Power Keeps Rising
 link: https://tomerstrolight.medium.com/why-bitcoins-buying-power-keeps-rising-d650706c2145

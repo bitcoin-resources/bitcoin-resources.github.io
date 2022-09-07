@@ -11,7 +11,7 @@ spotify: https://open.spotify.com/show/0i4SJwrYjxs3Bd5Yqx4Pbw
 rss: ['https://anchor.fm/s/d6b3354/podcast/rss']
 rank: 3
 twitter: https://twitter.com/johnkvallis
-youtube: https://www.youtube.com/channel/UCyNBrVfqzd2zN2yhwk-YT2A
+youtube: https://www.youtube.com/c/JohnVallisBitcoinRapidFire
 level: Beginner
 tags: ['interviews']
 ---

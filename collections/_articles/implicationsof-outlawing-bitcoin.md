@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Implications of Outlawing Bitcoin
 link: https://dergigi.com/2021/08/02/implications-of-outlawing-bitcoin/

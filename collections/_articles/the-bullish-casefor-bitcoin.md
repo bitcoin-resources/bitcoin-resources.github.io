@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Vijay Boyapati
 title: The Bullish Case for Bitcoin
 link: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Bitcoin Is Time
 link: https://dergigi.com/2021/01/14/bitcoin-is-time/

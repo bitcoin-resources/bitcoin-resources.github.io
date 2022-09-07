@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Bitcoin's Gravity - How idea-value feedback loops are pulling people in
 link: https://dergigi.com/2019/05/01/bitcoins-gravity/

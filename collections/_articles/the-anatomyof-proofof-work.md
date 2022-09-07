@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Hugo Nguyen
 title: The Anatomy of Proof-of-Work
 link: https://bitcointechtalk.com/the-anatomy-of-proof-of-work-98c85b6f6667

@@ -3,7 +3,7 @@ bundle update --bundler
 git add .
 git commit -m "build: bundle update --bundler"
 
-ncu -u
+npx npm-check-updates -u
 git add .
 git commit -m "build: ncu -u"
 

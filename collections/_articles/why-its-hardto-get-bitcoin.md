@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Dhruv Bansal
 title: Why It’s Hard to “Get” Bitcoin
 link: https://unchained.com/blog/blockchain-spectrum/

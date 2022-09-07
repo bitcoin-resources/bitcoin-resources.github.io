@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Murad Mahmudov and Adam Taché
 title: Bitcoin - Past and Future
 link: https://hackernoon.com/bitcoin-past-and-future-f2feba1f419d

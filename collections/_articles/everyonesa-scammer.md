@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Michael Goldstein
 title: Everyone’s a Scammer
 link: https://nakamotoinstitute.org/mempool/everyones-a-scammer/

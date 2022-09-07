@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Pete Rizzo
 title: Against Cryptocurrency - The Ethical Argument for Bitcoin Maximalism
 link: https://www.forbes.com/sites/peterizzo/2021/09/29/against-cryptocurrency-the-ethical-argument-for-bitcoin-maximalism/

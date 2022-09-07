@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Bitcoin's Habitats - How Bitcoin is surviving and thriving between worlds
 link: https://dergigi.com/2020/03/01/bitcoin-s-habitats/

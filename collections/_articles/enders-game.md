@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Enders Game
 link: https://unchained-capital.com/blog/enders-game/

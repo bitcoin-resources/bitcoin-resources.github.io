@@ -3,15 +3,15 @@ layout: page
 code: FED
 name: Fed Watch
 hosts: Christian Keroles and Ansel Lindner
-link: https://bitcoinmagazine.com/
+link: https://bitcoinmagazine.com/tags/podcast
 tier: 2
-ios: https://podcasts.apple.com/us/podcast/bitcoin-magazine/id1459884105
-android: ['https://subscribeonandroid.com/bitcoinmagazine.btc.libsynpro.com/rss']
-spotify: https://open.spotify.com/show/1IxBiqXrUwWUgwiQwKWwxk
+ios: https://podcasts.apple.com/us/podcast/fed-watch-bitcoin-and-macro/id1543640492
+android: ['https://subscribeonandroid.com/fedwatch.libsyn.com/rss']
+spotify: https://open.spotify.com/show/0gBA3gNLlJ0XAJK3hcOSiq
 rss: ['http://bitcoinmagazine.btc.libsynpro.com/rss']
-rank: 22
-twitter: https://twitter.com/AaronvanW
-youtube: https://www.youtube.com/playlist?list=PLe0djdakvnFZkrHHLVIxwaB0sz9zKRp12
+rank: 20
+twitter: https://twitter.com/AnselLindner
+youtube: https://www.youtube.com/c/BitcoinMagazine
 level: Advanced
 tags: ['economics', 'politics']
 ---

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Gradually, Then Suddenly
 link: https://www.unchained-capital.com/blog/dollar-crisis-to-bitcoin/

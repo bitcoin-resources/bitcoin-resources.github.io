@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Satoshi Nakamoto
 title: The Bitcoin Whitepaper
 link: https://bitcoin.org/bitcoin.pdf

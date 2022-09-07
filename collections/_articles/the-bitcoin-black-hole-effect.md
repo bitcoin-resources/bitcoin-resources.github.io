@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: William Clemente III
 title: The Bitcoin Black Hole Effect
 link: https://www.bitrawr.com/the-bitcoin-blackhole-effect

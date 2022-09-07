@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Edward Snowden
 title: Bitcoin and Privacy
 link: https://www.youtube.com/watch?v=UDydB3z-6Y0

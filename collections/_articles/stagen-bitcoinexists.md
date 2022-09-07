@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Mircea Popescu
 title: Stage n - Bitcoin exists
 link: http://trilema.com/2013/stage-n-bitcoin-exists/

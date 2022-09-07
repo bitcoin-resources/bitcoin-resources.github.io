@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Bitcoin’s Lightning Network is Incredible
 link: https://tomerstrolight.medium.com/why-bitcoins-lightning-network-is-incredible-b3fadfad3a03

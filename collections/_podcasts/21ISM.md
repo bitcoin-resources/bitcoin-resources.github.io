@@ -9,7 +9,7 @@ ios: https://podcasts.apple.com/us/podcast/21ism-podcast-telling-artists-stories
 android: ['https://subscribeonandroid.com/anchor.fm/s/39a4075c/podcast/rss']
 spotify: https://open.spotify.com/show/7EZAvp8LOd5UOoyTTzmYS4
 rss: ['https://anchor.fm/s/39a4075c/podcast/rss']
-rank: 10
+rank: 9
 twitter: https://twitter.com/twentyoneism
 youtube: https://www.youtube.com/channel/UCEXcQO5qU2uiubQCffboG1Q
 level: Beginner

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Alex Gladstein
 title: Can Governments Stop Bitcoin?
 link: https://quillette.com/2021/02/21/can-governments-stop-bitcoin/

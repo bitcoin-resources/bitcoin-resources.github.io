@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Alex Gladstein
 title: Check Your Financial Privilege
 link: https://bitcoinmagazine.com/culture/check-your-financial-privilege

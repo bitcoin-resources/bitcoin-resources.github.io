@@ -6,10 +6,10 @@ essential:
 categories: ['non-technical2']
 authors: ['Allen Farrington', ' Sacha Meyers']
 authors_twitter: ['https://twitter.com/allenf32/']
-resource_url: 
-amazon_url: https://www.amazon.com/dp/B09TTTGT11?tag=dergigi-20
+resource_url: https://www.uncerto.com/book-pdf
+amazon_url: https://amzn.to/39qRrvP
 wikipedia_url: 
-free_url: 
+free_url: https://www.uncerto.com/book-pdf
 rating_order: 
 lesson: ['']
 quote: ""

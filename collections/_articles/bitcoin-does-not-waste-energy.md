@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Parker Lewis
 title: Bitcoin Does Not Waste Energy
 link: https://www.unchained-capital.com/blog/bitcoin-does-not-waste-energy/

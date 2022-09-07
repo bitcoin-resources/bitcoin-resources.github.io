@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Gigi
 title: Proof of Life - Why Bitcoin is a Living Organism
 link: https://dergigi.com/2019/08/07/proof-of-life/

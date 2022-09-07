@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Allen Farrington
 title: Wittgenstein’s Money
 link: https://allenfarrington.medium.com/wittgensteins-money-7cac8d0635cf

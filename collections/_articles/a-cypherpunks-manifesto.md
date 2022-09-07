@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Eric Hughes
 title: A Cypherpunk’s Manifesto
 link: https://www.activism.net/cypherpunk/manifesto.html

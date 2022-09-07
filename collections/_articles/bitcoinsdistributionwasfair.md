@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Dan Held
 title: Bitcoin’s distribution was fair
 link: https://blog.picks.co/bitcoins-distribution-was-fair-e2ef7bbbc892

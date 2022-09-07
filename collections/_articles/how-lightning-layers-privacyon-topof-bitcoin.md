@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Aaron van Wirdum
 title: How Lightning Layers Privacy on Top of Bitcoin
 link: https://bitcoinmagazine.com/articles/how-the-lightning-network-layers-privacy-on-top-of-bitcoin-1482183775

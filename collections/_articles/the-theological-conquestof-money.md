@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Erik Cason
 title: The Theological Conquest of Money
 link: https://cryptosovereignty.org/the-theological-conquest-of-money/

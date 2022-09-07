@@ -1,17 +1,17 @@
 ---
 layout: page
 code: BKG
-name: Bitcoin Kindergarten Live Q&A
+name: Bitcoin Kindergarten
 hosts: Nik and Optimist Fields
-link: https://twitter.com/BtcKindergarten
+link: https://btckindergarten.com
 tier: 3
 ios: 
 android: ['']
 spotify: 
 rss: ['']
-rank: 36
+rank: 28
 twitter: https://twitter.com/BtcKindergarten
-youtube: https://www.youtube.com/playlist?list=PLixZbbcZ-CAJve-isepm5x-rtv01csTtu
+youtube: https://www.youtube.com/c/BitcoinKindergarten
 level: Beginner
 tags: ['qa', 'entertainment', 'pleb', 'roundtable']
 ---

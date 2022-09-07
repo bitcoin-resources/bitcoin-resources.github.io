@@ -9,7 +9,7 @@ ios: https://podcasts.apple.com/us/podcast/closing-the-loop/id1578199828
 android: ['https://subscribeonandroid.com/closing-the-loop.github.io/feed.xml']
 spotify: https://open.spotify.com/show/0wNNgLDWRt82QKda5LRXm0
 rss: ['https://closing-the-loop.github.io/feed.xml']
-rank: 11
+rank: 10
 twitter: https://twitter.com/Seetee_io/
 youtube: 
 level: Intermediate

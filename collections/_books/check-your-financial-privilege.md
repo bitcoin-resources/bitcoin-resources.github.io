@@ -7,9 +7,9 @@ categories: ['non-technical2']
 authors: ['Alex Gladstein']
 authors_twitter: ['https://twitter.com/gladstein/']
 resource_url: 
-amazon_url: https://www.amazon.com/dp/B09V2NM9VJ?tag=dergigi-20
+amazon_url: https://amzn.to/3xliGjl
 wikipedia_url: 
-free_url: 
+free_url: https://bitcoinmagazine.com/culture/check-your-financial-privilege
 rating_order: 
 lesson: ['']
 quote: ""

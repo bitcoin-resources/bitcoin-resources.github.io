@@ -9,9 +9,9 @@ ios: https://podcasts.apple.com/us/podcast/bitcoin-op-uxui/id1498009882?uo=4
 android: ['https://subscribeonandroid.com/anchor.fm/s/133abb24/podcast/rss']
 spotify: https://open.spotify.com/show/6SdTi48qDNHB2WwVHNj6m2
 rss: ['https://anchor.fm/s/133abb24/podcast/rss']
-rank: 52
+rank: 40
 twitter: https://twitter.com/BitcoinOPUXUI
-youtube: 
+youtube: https://www.youtube.com/channel/UCl906WhjM83DaPh3I75EajQ
 level: Specialized
 tags: ['design', 'interviews']
 ---

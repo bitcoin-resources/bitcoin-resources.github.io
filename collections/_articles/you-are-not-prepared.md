@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Knut Svanholm
 title: You Are Not Prepared
 link: https://www.citadel21.com/you-are-not-prepared

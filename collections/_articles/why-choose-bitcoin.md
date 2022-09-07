@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Tomer Strolight
 title: Why Choose Bitcoin?
 link: https://tomerstrolight.medium.com/why-choose-bitcoin-e1959611e611

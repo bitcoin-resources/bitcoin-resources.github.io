@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-article
 author: Dhruv Bansal
 title: Bitcoin Astronomy, Part 2
 link: https://unchained.com/blog/bitcoin-astronomy-part-ii/
