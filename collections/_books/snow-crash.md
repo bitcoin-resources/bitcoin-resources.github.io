@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/2WODFgm
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: "“This Snow Crash thing--is it a virus, a drug, or a religion?” Juanita shrugs. “What's the difference?” "

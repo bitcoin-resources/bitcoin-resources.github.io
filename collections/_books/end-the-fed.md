@@ -10,6 +10,7 @@ resource_url: http://endthefed.org/
 amazon_url: https://amzn.to/39K1dnK
 wikipedia_url: https://en.wikipedia.org/wiki/End_the_Fed
 free_url: 
+summary_url: https://mises.org/library/end-fed
 rating_order: 
 lesson: ['11']
 quote: ""

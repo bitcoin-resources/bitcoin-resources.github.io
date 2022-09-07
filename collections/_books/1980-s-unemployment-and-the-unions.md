@@ -10,6 +10,7 @@ resource_url: https://books.google.com/books/about/1980s_unemployment_and_the_un
 amazon_url: https://amzn.to/3aNWgui
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['9']
 quote: ""

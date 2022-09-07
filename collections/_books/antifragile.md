@@ -10,6 +10,7 @@ resource_url: https://www.penguinrandomhouse.com/books/176227/antifragile-by-nas
 amazon_url: https://amzn.to/2w4MtRI
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 6
 lesson: ['1']
 quote: ""

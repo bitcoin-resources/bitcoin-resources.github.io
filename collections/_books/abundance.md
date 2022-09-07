@@ -10,6 +10,7 @@ resource_url: https://www.diamandis.com/abundance
 amazon_url: https://amzn.to/2IJTb2y
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['2']
 quote: ""

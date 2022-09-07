@@ -10,6 +10,7 @@ resource_url: https://archive.org/details/energy-a-human-history-by-richard-rhod
 amazon_url: https://amzn.to/3SrPnWe
 wikipedia_url: 
 free_url: https://archive.org/details/energy-a-human-history-by-richard-rhodes-z-lib.org/
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: ""

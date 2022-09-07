@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/3cSDTpL
 wikipedia_url: 
 free_url: https://www.scottaaronson.com/democritus/
+summary_url: 
 rating_order: 7
 lesson: ['']
 quote: ""

@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/3qluKOK
 wikipedia_url: https://en.wikipedia.org/wiki/The_Lessons_of_History
 free_url: 
+summary_url: https://jamesclear.com/book-summaries/lessons-of-history
 rating_order: 
 lesson: ['']
 quote: "History reports that the men who can manage men manage the men who can manage only things, and the men who can manage money manage all."

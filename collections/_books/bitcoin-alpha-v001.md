@@ -10,6 +10,7 @@ resource_url: https://piratehash.com/product/bitcoin-alpha-v0-01/
 amazon_url: 
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['20']
 quote: "put the main timechain first"

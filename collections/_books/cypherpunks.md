@@ -10,6 +10,7 @@ resource_url: https://cryptome.wikileaks.org/2012/12/assange-crypto-arms.htm
 amazon_url: https://amzn.to/3wSQdzT
 wikipedia_url: https://en.wikipedia.org/wiki/Cypherpunks_(book)
 free_url: 
+summary_url: 
 rating_order: 6
 lesson: ['20']
 quote: ""

@@ -10,6 +10,7 @@ resource_url: https://www.uncerto.com/book-pdf
 amazon_url: https://amzn.to/39qRrvP
 wikipedia_url: 
 free_url: https://www.uncerto.com/book-pdf
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: ""

@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/33eDSID
 wikipedia_url: 
 free_url: https://github.com/bitcoinbook/bitcoinbook
+summary_url: 
 rating_order: 9
 lesson: ['']
 quote: ""

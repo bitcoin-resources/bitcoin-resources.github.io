@@ -10,6 +10,7 @@ resource_url: https://saifedean.com/the-fiat-standard/
 amazon_url: https://amzn.to/3xFCLCh
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: ""

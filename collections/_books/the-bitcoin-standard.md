@@ -10,6 +10,7 @@ resource_url: https://saifedean.com/thebitcoinstandard/
 amazon_url: https://amzn.to/2TLl5RP
 wikipedia_url: 
 free_url: 
+summary_url: https://twitter.com/ydemombynes/status/985560599248756736
 rating_order: 10
 lesson: ['2', ' 9']
 quote: ""

@@ -10,6 +10,7 @@ resource_url: https://mises.org/library/fiat-money-inflation-france
 amazon_url: https://amzn.to/3pQF6Fo
 wikipedia_url: 
 free_url: https://mises.org/library/fiat-money-inflation-france
+summary_url: 
 rating_order: 
 lesson: ['9']
 quote: ""

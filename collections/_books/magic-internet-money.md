@@ -10,6 +10,7 @@ resource_url: https://www.magicbitcoinbook.com/
 amazon_url: https://amzn.to/2MCq9XG
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 2
 lesson: ['']
 quote: ""

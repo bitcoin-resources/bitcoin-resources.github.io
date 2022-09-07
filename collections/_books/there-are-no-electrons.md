@@ -10,6 +10,7 @@ resource_url: http://www.clearwaterpublishing.com/there-are-no-electrons-electro
 amazon_url: https://amzn.to/3SsQrJq
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: ""

@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/3yFSa35
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: "[He] was an insect wandering in the cathedral his mind had become."
