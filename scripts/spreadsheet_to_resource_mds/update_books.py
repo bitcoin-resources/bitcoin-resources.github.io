@@ -62,6 +62,7 @@ for row in books.get_all_values():
                 f"amazon_url: {resource_amazon_url}\n"
                 f"wikipedia_url: {resource_wikipedia_url}\n"
                 f"free_url: {resource_free_url}\n"
+                f"summary_url: {resource_summary}\n"
                 f"{permalink_line}"
                 f"rating_order: {resource_rating_order}\n"
                 f"lesson: {resource_lesson}\n"
