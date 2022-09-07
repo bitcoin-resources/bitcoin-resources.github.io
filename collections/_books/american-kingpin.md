@@ -10,6 +10,7 @@ resource_url: http://www.americankingpin.com/
 amazon_url: https://amzn.to/3ql8C6h
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 7
 lesson: ['19']
 quote: ""

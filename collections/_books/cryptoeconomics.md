@@ -10,6 +10,7 @@ resource_url: https://voskuil.org/cryptoeconomics/index.html
 amazon_url: https://amzn.to/3zMHZv8
 wikipedia_url: 
 free_url: https://voskuil.org/cryptoeconomics/index.html
+summary_url: 
 rating_order: 3
 lesson: ['']
 quote: ""

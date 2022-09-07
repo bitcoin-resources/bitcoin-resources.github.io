@@ -10,6 +10,7 @@ resource_url: https://www.gnu.org/philosophy/
 amazon_url: https://amzn.to/3aQY2uO
 wikipedia_url: 
 free_url: https://www.gnu.org/philosophy/fsfs/rms-essays.pdf
+summary_url: 
 rating_order: 10
 lesson: ['']
 quote: ""

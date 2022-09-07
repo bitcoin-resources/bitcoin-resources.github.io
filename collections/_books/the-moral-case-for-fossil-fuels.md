@@ -10,6 +10,7 @@ resource_url: https://www.moralcaseforfossilfuels.com/
 amazon_url: https://amzn.to/3AK8HHW
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: ""

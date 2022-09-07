@@ -10,6 +10,7 @@ resource_url: https://bakkeconsolidated.org/books.php
 amazon_url: https://amzn.to/3O1mywr
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: ""

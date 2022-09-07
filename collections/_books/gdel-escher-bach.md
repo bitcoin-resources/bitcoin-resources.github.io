@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/2w50C1t
 wikipedia_url: 
 free_url: 
+summary_url: 
 permalink: books/gödel-escher-bach
 rating_order: 10
 lesson: ['']

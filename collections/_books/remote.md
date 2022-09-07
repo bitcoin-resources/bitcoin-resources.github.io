@@ -10,6 +10,7 @@ resource_url: https://basecamp.com/books/remote
 amazon_url: https://amzn.to/2U1wZWH
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 8
 lesson: ['']
 quote: ""

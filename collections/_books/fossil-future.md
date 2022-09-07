@@ -10,6 +10,7 @@ resource_url: https://www.penguinrandomhouse.com/books/678856/fossil-future-by-a
 amazon_url: https://amzn.to/3Ix4h9d
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: ""

@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/3tafdBE
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: "...most men and women will grow up to love their servitude and will never dream of revolution."

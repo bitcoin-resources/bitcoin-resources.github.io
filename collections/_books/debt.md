@@ -10,6 +10,7 @@ resource_url: https://davidgraeber.org/books/debt-the-first-5000-years/
 amazon_url: https://amzn.to/3Qb7TRH
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: ""

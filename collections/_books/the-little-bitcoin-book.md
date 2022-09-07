@@ -10,6 +10,7 @@ resource_url: https://littlebitcoinbook.com
 amazon_url: https://amzn.to/2Q7tcWz
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 6
 lesson: ['']
 quote: ""

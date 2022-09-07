@@ -10,6 +10,7 @@ resource_url: https://vaclavsmil.com/2017/05/08/energy-and-civilization-a-histor
 amazon_url: https://amzn.to/3Q9urlq
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: ""

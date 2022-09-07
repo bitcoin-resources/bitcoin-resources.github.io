@@ -10,6 +10,7 @@ resource_url: https://www.penguinrandomhouse.com/books/537828/skin-in-the-game-b
 amazon_url: https://amzn.to/2TTYBNi
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 8
 lesson: ['10']
 quote: ""

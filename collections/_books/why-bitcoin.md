@@ -10,6 +10,7 @@ resource_url: https://whybitcoinbook.com
 amazon_url: 
 wikipedia_url: 
 free_url: https://bitcoin-resources.com/series/why-bitcoin/
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: ""

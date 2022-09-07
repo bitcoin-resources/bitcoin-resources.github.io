@@ -36,6 +36,7 @@ layout: page
       {% if page.free_url %}<li><a href="{{ page.free_url }}">Read for free</a></li>{% endif %}
       {% if page.audio_url %}<li><a href="{{ page.audio_url }}">🎧 Listen on Audible</a></li>{% endif %}
       {% if page.free_audio_url %}<li><a href="{{ page.free_audio_url }}">🎧 Listen for free</a></li>{% endif %}
+      {% if page.summary_url %}<li><a href="{{ page.summary_url }}">Book Summary</a></li>{% endif %}
     </ul>
   </div>
 </div>
@@ -46,6 +47,12 @@ layout: page
     <blockquote>
       <p>{{ page.quote }}</p>
     </blockquote>
+{% endif %}
+
+<hr/>
+
+{% if page.description %}
+    <p>{{ page.description }}</p>
 {% endif %}
 
 {{content}}

@@ -10,6 +10,7 @@ resource_url: https://www.layeredmoney.com/
 amazon_url: https://amzn.to/3pBtGUJ
 wikipedia_url: 
 free_url: 
+summary_url: 
 rating_order: 9
 lesson: ['']
 quote: ""

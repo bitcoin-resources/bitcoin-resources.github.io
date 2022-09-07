@@ -10,6 +10,7 @@ resource_url:
 amazon_url: https://amzn.to/3xliGjl
 wikipedia_url: 
 free_url: https://bitcoinmagazine.com/culture/check-your-financial-privilege
+summary_url: 
 rating_order: 
 lesson: ['']
 quote: ""
