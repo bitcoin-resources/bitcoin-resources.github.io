@@ -2,7 +2,6 @@
 layout: page-books
 title: 21 Lessons
 subtitle: What I've Learned from Falling Down the Bitcoin Rabbit Hole
-
 essential: 
 categories: ['non-technical']
 authors: ['Gigi']
