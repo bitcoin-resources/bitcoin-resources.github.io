@@ -26,7 +26,8 @@ description: Curated Bitcoin videos.
 </div>
 
 
-## On the Art of Hodling
+## Bonus: On the Art of Hodling
+
 {% assign absoluteVideoUrl = '/assets/videos/american-hodl.mp4' | absolute_url %}
 {% include video.html file=absoluteVideoUrl %}
 
