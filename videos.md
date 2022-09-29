@@ -90,6 +90,18 @@ already more advanced. These individual videos cover a wide range of topics.
 - [The Vervaeke Series](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG)
 - [The Twilight of Gold](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bR3eCyc-lBmv8u6s88csYEW)
 
+### Podcasts with YouTube Channels
+
+{% assign yt_pods = '' | split: '' %}
+{% for pod in site.podcasts %}
+{% if pod.youtube %}{% assign yt_pods = yt_pods | push: pod %}{% endif %}
+{% endfor %}
+{% for pod in yt_pods %}
+- [{{ pod.name }}]({{ pod.youtube }})
+{% endfor %}
+
+See [podcasts](/podcasts) for a list of all podcasts.
+
 ### Bonus: On the Art of Hodling
 
 {% assign absoluteVideoUrl = '/assets/videos/american-hodl.mp4' | absolute_url %}
