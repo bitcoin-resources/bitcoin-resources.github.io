@@ -48,7 +48,12 @@ already more advanced. These individual videos cover a wide range of topics.
 
 - [Swan Bitcoin](https://www.youtube.com/channel/UCl4takhOQtiyprismCPsa2Q)
 - [Ioni Appelberg](https://www.youtube.com/user/waem)
-- TODO
+- [Till Musshoff](https://www.youtube.com/c/TillMusshoff)
+- [BTC Sessions](https://www.youtube.com/c/BTCSessions)
+- [Robert Breedlove](https://www.youtube.com/c/RobertBreedlove22)
+- [Simply Bitcoin](https://www.youtube.com/c/SimplyBitcoin)
+- [Pleb Underground](https://www.youtube.com/channel/UCVfMv5xEfrafk1rSthJ0t9g)
+- [Bitcoin Kindergarten](https://www.youtube.com/c/BitcoinKindergarten)
 
 ## Bonus: On the Art of Hodling
 
