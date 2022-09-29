@@ -74,7 +74,9 @@ already more advanced. These individual videos cover a wide range of topics.
 ### Selected Playlists
 
 - [Bitcoin Explained](https://www.youtube.com/playlist?list=PL_xlkwLDH1F-J-THOZfn9SzSgBs2uGYIn) by The Investor's Podcast Network
-- TODO
+- [The Saylor Series](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bQFY6wIbQfnrnIlqMcSHd6X)
+- [The Vervaeke Series](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bTK1nFYSZhRGq18SGkW8kgG)
+- [The Twilight of Gold](https://www.youtube.com/playlist?list=PL2jAZ0x9H0bR3eCyc-lBmv8u6s88csYEW)
 
 ### Bonus: On the Art of Hodling
 
