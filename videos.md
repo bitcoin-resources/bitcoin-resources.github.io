@@ -45,6 +45,10 @@ already more advanced. These individual videos cover a wide range of topics.
 </div>
 
 <div class="flex-vid">
+  <iframe src="https://www.youtube-nocookie.com/embed/iVym9wtopqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="flex-vid">
   <iframe src="https://www.youtube-nocookie.com/embed/7vl_ziH6OJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
