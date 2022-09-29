@@ -7,6 +7,14 @@ description: Curated Bitcoin videos.
 
 Visit [BitcoinTV.com](https://bitcointv.com/) for a bitcoin-focused video platform.
 
+---
+
+<center>
+  <p><small><a href="#toc">↓ Table of Contents ↓</a></small></p>
+</center>
+
+---
+
 ### Selected Videos
 
 The following videos are well worth watching, whether you are a newcomer or
