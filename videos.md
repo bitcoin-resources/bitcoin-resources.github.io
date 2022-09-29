@@ -14,6 +14,10 @@ description: Curated Bitcoin videos.
 </div>
 
 <div class="flex-vid">
+  <iframe src="https://www.youtube-nocookie.com/embed/hBVXNpkdPBU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div class="flex-vid">
   <iframe src="https://www.youtube-nocookie.com/embed/NoobUKNttmw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
