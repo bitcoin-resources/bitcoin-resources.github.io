@@ -38,7 +38,8 @@ already more advanced. These individual videos cover a wide range of topics.
 
 ### Selected YouTube Channels
 
--
+- [Swan Bitcoin](https://www.youtube.com/channel/UCl4takhOQtiyprismCPsa2Q)
+- TODO
 
 ## Bonus: On the Art of Hodling
 
