@@ -5,6 +5,13 @@ image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Curated Bitcoin videos.
 ---
 
+Visit [BitcoinTV.com](https://bitcointv.com/) for a bitcoin-focused video platform.
+
+### Selected Videos
+
+The following videos are well worth watching, whether you are a newcomer or
+already more advanced. These individual videos cover a wide range of topics.
+
 <div class="flex-vid">
   <iframe src="https://www.youtube-nocookie.com/embed/xLYYh4aPXAM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -29,6 +36,9 @@ description: Curated Bitcoin videos.
   <iframe src="https://www.youtube-nocookie.com/embed/7vl_ziH6OJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+### Selected YouTube Channels
+
+-
 
 ## Bonus: On the Art of Hodling
 
