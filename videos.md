@@ -63,6 +63,8 @@ already more advanced. These individual videos cover a wide range of topics.
 - [Natalie Brunell](https://www.youtube.com/c/nataliebrunellpodcasts)
 - [Kiara Bickers](https://www.youtube.com/channel/UCEjLeFAlTxymys0Ov3zbmbg)
 - [Giacomo Zucco](https://www.youtube.com/channel/UCYAZrTL0h0EaGahEPn6qxAg)
+- [Pleb Music](https://www.youtube.com/channel/UC32zG7alhxoCmHxId9uBl-g)
+- [Ministry of Nodes](https://www.youtube.com/c/MinistryofNodes)
 - [Simply Bitcoin](https://www.youtube.com/c/SimplyBitcoin)
 - [Hello Bitcoin](https://www.youtube.com/channel/UCL_zH0Q088KNHFDkd5FLadw)
 - [Pleb Underground](https://www.youtube.com/channel/UCVfMv5xEfrafk1rSthJ0t9g)
