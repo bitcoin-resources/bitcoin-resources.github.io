@@ -59,7 +59,12 @@ already more advanced. These individual videos cover a wide range of topics.
 - [Pleb Underground](https://www.youtube.com/channel/UCVfMv5xEfrafk1rSthJ0t9g)
 - [Bitcoin Kindergarten](https://www.youtube.com/c/BitcoinKindergarten)
 
-## Bonus: On the Art of Hodling
+### Selected Playlists
+
+- [Bitcoin Explained](https://www.youtube.com/playlist?list=PL_xlkwLDH1F-J-THOZfn9SzSgBs2uGYIn) by The Investor's Podcast Network
+- TODO
+
+### Bonus: On the Art of Hodling
 
 {% assign absoluteVideoUrl = '/assets/videos/american-hodl.mp4' | absolute_url %}
 {% include video.html file=absoluteVideoUrl %}
