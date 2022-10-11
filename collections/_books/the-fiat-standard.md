@@ -5,7 +5,7 @@ subtitle: The Debt Slavery Alternative to Human Civilization
 essential: 
 categories: ['money']
 authors: ['Saifedean Ammous']
-authors_twitter: 
+authors_twitter: ['https://twitter.com/saifedean']
 resource_url: https://saifedean.com/the-fiat-standard/
 amazon_url: https://amzn.to/3xFCLCh
 wikipedia_url: 
