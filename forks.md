@@ -6,9 +6,10 @@ image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Bitcoin Resources in other languages
 ---
 
-The bitcoin-resources project has been translated to the following languages:
+This project is available in the following languages:
 
-- 🇩🇪 German: [Bitcoin Lesestoff](https://bitcoinlesestoff.de/)
+- 🇺🇸 English: [bitcoin-resources.com](https://bitcoin-resources.com/)
+- 🇩🇪 German: [BitcoinLesestoff.de](https://bitcoinlesestoff.de/)
 
 Want to translate the site and create your own?
 [Fork it!](https://github.com/bitcoin-resources/bitcoin-resources.github.io)
