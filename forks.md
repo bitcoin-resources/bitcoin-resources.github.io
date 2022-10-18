@@ -1,7 +1,7 @@
 ---
 layout: resources
 title: Forks
-subtitle: Translation & Internationalization
+subtitle: Other Languages
 image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Bitcoin Resources in other languages
 ---
