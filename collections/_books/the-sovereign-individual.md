@@ -13,7 +13,7 @@ free_url:
 summary_url: 
 rating_order: 
 lesson: ['']
-quote: ""
+quote: "When technology is mobile, and transactions occur in cyberspace, as they increasingly will do, governments will no longer be able to charge more for their services than they are worth to the people who pay for them."
 audio_url: https://amzn.to/3dHduvC
 free_audio_url: 
 goodreads_url: 
