@@ -67,6 +67,13 @@ nature of the politics involved in this global consensus system.
 
 {% include books.html category='bitcoin-history' %}
 
+## Bitcoin Books for Kids
+
+When compared to the fiat system, kids have an easy time understanding
+Bitcoin. It might be novel, but it is neither deliberately confusing nor boring.
+
+{% include books.html category='kids' %}
+
 ## Bitcoin Programming
 
 If you would like to dig deeper or get your hands dirty with programming, these
