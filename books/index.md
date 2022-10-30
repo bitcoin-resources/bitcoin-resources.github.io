@@ -47,11 +47,6 @@ available for free at the [Satoshi Nakamoto Institute][complete-satoshi].
 [aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0
 [complete-satoshi]: https://satoshi.nakamotoinstitute.org/
 
-## Bitcoin Books for Kids
-
-{% include books.html category='kids' %}
-
-
 ## Bitcoin and Cypherpunk History
 
 Bitcoin's origin story is as mysterious as it is fascinating. Invented by a
@@ -71,6 +66,13 @@ nature of the politics involved in this global consensus system.
 [the-blocksize-war]: {{ '/books/the-blocksize-war' | absolute_url }}
 
 {% include books.html category='bitcoin-history' %}
+
+## Bitcoin Books for Kids
+
+When compared to the fiat system, kids have an easy time understanding
+Bitcoin. It might be novel, but it is neither deliberately confusing nor boring.
+
+{% include books.html category='kids' %}
 
 ## Bitcoin Programming
 
