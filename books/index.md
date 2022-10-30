@@ -47,6 +47,11 @@ available for free at the [Satoshi Nakamoto Institute][complete-satoshi].
 [aantonop-bitcoin-talks]: https://www.youtube.com/playlist?list=PLPQwGV1aLnTthcG265_FYSaV24hFScvC0
 [complete-satoshi]: https://satoshi.nakamotoinstitute.org/
 
+## Bitcoin Books for Kids
+
+{% include books.html category='kids' %}
+
+
 ## Bitcoin and Cypherpunk History
 
 Bitcoin's origin story is as mysterious as it is fascinating. Invented by a
