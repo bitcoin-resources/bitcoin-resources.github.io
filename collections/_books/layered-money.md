@@ -10,7 +10,7 @@ resource_url: https://www.layeredmoney.com/
 amazon_url: https://amzn.to/3pBtGUJ
 wikipedia_url: 
 free_url: 
-summary_url: 
+summary_url: https://archive.ph/06L3s
 rating_order: 9
 lesson: ['']
 quote: "We stand today facing an international monetary system on the precipice of overhaul, something that rarely occurs."
