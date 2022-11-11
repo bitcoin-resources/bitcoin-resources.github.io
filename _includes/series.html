@@ -2,11 +2,6 @@
 
 <ol class="series" start="{{ sorted_articles[0].seriesnr }}">
 {% for article in sorted_articles %}
-  <li>
-    {% if article.audio %}
-    <a href="{{ article.audio }}" target="_blank" title="Audio version">🎧</a>
-    {% endif %}
-    <a href="{{ article.link }}" target="_blank">{{ article.title }}</a>
-  </li>
+  {% include article-item.html article=article hide_author=true %}
 {% endfor %}
 </ol>
