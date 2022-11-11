@@ -1,13 +1,13 @@
 {% assign article = include.article %}
 
   <li>
-    {% if article.archive %}
-      <a href="{{ article.archive }}" title="Archive Link" target="_blank">🔗</a>
-    {% endif %}
     {% if article.audio %}
       <a href="{{ article.audio }}" target="_blank" title="Audio version">🎧</a>
     {% endif %}
     <a href="{{ article.link }}" target="_blank">{{ article.title }}</a>
+    {% if article.archive %}
+      <a href="{{ article.archive }}" title="Archive Link" target="_blank"><i class="fa-solid fa-floppy-disk"></i></a>
+    {% endif %}
     {% unless include.hide_author %}
       by {{ article.author }}
     {% endunless %}
