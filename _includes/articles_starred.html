@@ -1,12 +1,7 @@
 {% assign sorted_articles = site.articles | where: 'star', true | sort: 'date' %}
 
-<ul class="articles">
+<ul>
 {% for article in sorted_articles %}
-  <li>
-    {% if article.audio %}
-    <a href="{{ article.audio }}" target="_blank" title="Audio version">🎧</a>
-    {% endif %}
-    <a href="{{ article.link }}" target="_blank">{{ article.title }}</a> by {{ article.author }}
-  </li>
+  {% include article-item.html article=article %}
 {% endfor %}
 </ul>
