@@ -1,6 +1,6 @@
 {% assign sorted_articles = site.articles | where: 'star', true | sort: 'date' %}
 
-<ul class="no-list-style">
+<ul>
 {% for article in sorted_articles %}
   {% include article-item.html article=article %}
 {% endfor %}
