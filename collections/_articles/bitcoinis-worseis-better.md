@@ -9,7 +9,7 @@ lesson:
 audio: https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_327---Bitcoin-is-Worse-is-Better-gwern-e9e9iv
 audio2: 
 audio3: 
-star: TRUE
+star: 
 archive: https://archive.ph/ZeOZ6
 series: 
 seriesnr: 
