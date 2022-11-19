@@ -9,7 +9,7 @@ lesson: 11
 audio: https://bitcoinaudible.com/money-blockchains-and-social-scalability/
 audio2: 
 audio3: 
-star: TRUE
+star: 
 archive: https://archive.ph/lnUmP
 series: 
 seriesnr: 
