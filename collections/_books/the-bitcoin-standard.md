@@ -13,9 +13,9 @@ free_url:
 summary_url: https://twitter.com/ydemombynes/status/985560599248756736
 rating_order: 10
 lesson: ['2', ' 9']
-quote: ""
+quote: "This is a historical lesson of immense significance, and should be kept in mind by anyone who thinks his refusal of Bitcoin means he doesn't have to deal with it. History shows it is not​ possible to insulate yourself from the consequences of others holding money that is harder than yours."
 audio_url: https://amzn.to/2QXPgn4
 free_audio_url: 
-goodreads_url: 
-description: "Ammous’ firm grasp of the technological possibilities as well as the historical realities of monetary evolution provides for a fascinating exploration of the ramifications of voluntary free market money. As it challenges the most sacred of government monopolies, Bitcoin shifts the pendulum of sovereignty away from governments in favor of individuals, offering us the tantalizing possibility of a world where money is fully extricated from politics and unrestrained by borders."
+goodreads_url: https://www.goodreads.com/book/show/36448501-the-bitcoin-standard
+description: "Bitcoin is the digital age's novel, decentralized, and automated solution to the problem of money: accessible worldwide, controlled by nobody. Can this young upstart money challenge the global monetary order? Economist Saifedean Ammous traces the history of the technologies of money to seashells, limestones, cattle, salt, beads, metals, and government debt, explaining what gave these technologies their monetary role, what makes for sound money, and the benefits of a sound monetary regime to economic growth, innovation, culture, trade, individual freedom, and international peace.  The monetary and historical analysis sets the stage for understanding the mechanics of the operation of Bitcoin, the reasons for its initial success, and the role it could play in an information economy. Rather than serving as a currency and network for consumer purchases, the author argues Bitcoin is better suited as a store of value and network for settlement between large financial institutions. With an automated and perfectly predictable monetary policy, and the ability to perform final settlement of large sums across the world in a matter of minutes, Bitcoin's true importance may just lie in providing a decentralized, neutral, free-market alternative to national central banks."
 ---
