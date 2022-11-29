@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/gNOVa
 series: 
 seriesnr: 
+quote: 
 ---

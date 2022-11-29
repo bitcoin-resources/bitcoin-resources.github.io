@@ -13,4 +13,5 @@ star:
 archive: https://archive.md/OtmNR
 series: Why Bitcoin
 seriesnr: 7
+quote: 
 ---

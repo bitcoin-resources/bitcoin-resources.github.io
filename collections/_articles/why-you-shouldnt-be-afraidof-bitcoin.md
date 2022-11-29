@@ -13,4 +13,5 @@ star:
 archive: https://archive.md/eGnSP
 series: Why Bitcoin
 seriesnr: 21
+quote: 
 ---

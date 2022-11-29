@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/PGCC8
 series: 
 seriesnr: 
+quote: 
 ---

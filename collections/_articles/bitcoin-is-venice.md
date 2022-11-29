@@ -13,4 +13,5 @@ star:
 archive: https://archive.is/rnPDB
 series: Bitcoin is Venice
 seriesnr: 3
+quote: 
 ---

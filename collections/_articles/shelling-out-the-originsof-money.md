@@ -13,4 +13,5 @@ star: TRUE
 archive: https://archive.ph/SCAVo
 series: 
 seriesnr: 
+quote: 
 ---

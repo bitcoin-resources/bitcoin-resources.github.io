@@ -13,4 +13,5 @@ star:
 archive: https://archive.md/wQPWB
 series: Why Bitcoin
 seriesnr: 18
+quote: 
 ---

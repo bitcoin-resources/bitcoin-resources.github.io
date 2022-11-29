@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/SslEF
 series: Gradually, Then Suddenly
 seriesnr: 1
+quote: 
 ---

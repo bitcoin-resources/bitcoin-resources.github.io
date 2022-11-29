@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/RogIJ
 series: 
 seriesnr: 
+quote: 
 ---

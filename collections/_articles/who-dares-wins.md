@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/Ks0NA
 series: BitTorrent Lessons for Crypto
 seriesnr: 4
+quote: 
 ---

@@ -13,4 +13,5 @@ star: TRUE
 archive: https://web.archive.org/web/20220223204947/https://www.fidelitydigitalassets.com/articles/bitcoin-first
 series: 
 seriesnr: 
+quote: 
 ---

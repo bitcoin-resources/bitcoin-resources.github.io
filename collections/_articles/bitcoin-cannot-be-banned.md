@@ -13,4 +13,5 @@ star:
 archive: https://archive.md/xR413
 series: Gradually, Then Suddenly
 seriesnr: 10
+quote: 
 ---

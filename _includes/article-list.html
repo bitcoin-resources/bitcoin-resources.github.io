@@ -1,0 +1,6 @@
+
+<ul class="article-list">
+{% for article in site.articles %}
+  <li><a href="{{ article.url }}">{{ article.title }}</a> by {{ article.author }}</li>
+{% endfor %}
+</ul>

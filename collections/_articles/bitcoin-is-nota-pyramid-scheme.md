@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/sELYA
 series: Gradually, Then Suddenly
 seriesnr: 9
+quote: 
 ---

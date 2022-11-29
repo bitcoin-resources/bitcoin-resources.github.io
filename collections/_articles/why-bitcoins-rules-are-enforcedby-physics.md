@@ -13,4 +13,5 @@ star:
 archive: https://archive.md/gmgvk
 series: Why Bitcoin
 seriesnr: 2
+quote: 
 ---

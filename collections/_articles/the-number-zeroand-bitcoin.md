@@ -13,4 +13,5 @@ star: TRUE
 archive: https://archive.md/MKiM1
 series: 
 seriesnr: 
+quote: 
 ---

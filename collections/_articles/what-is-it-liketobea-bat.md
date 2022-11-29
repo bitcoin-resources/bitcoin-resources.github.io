@@ -13,4 +13,5 @@ star:
 archive: https://archive.md/GJVKT
 series: 
 seriesnr: 
+quote: 
 ---

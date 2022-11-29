@@ -13,4 +13,5 @@ star: TRUE
 archive: https://archive.md/czDWc
 series: Gradually, Then Suddenly
 seriesnr: 4
+quote: 
 ---

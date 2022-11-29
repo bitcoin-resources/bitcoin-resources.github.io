@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/WCJm3
 series: 
 seriesnr: 
+quote: 
 ---
