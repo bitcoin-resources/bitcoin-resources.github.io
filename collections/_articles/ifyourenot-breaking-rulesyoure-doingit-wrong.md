@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/xPh5Q
 series: BitTorrent Lessons for Crypto
 seriesnr: 2
+quote: 
 ---

@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/BIYY6
 series: 
 seriesnr: 
+quote: 
 ---

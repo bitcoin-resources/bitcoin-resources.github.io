@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/TchA0
 series: Gradually, Then Suddenly
 seriesnr: 5
+quote: 
 ---

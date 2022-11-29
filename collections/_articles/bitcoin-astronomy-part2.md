@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/GuGgI
 series: Bitcoin Astronomy
 seriesnr: 2
+quote: 
 ---

@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/EI8fm
 series: 
 seriesnr: 
+quote: 
 ---

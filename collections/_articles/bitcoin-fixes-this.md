@@ -13,4 +13,5 @@ star:
 archive: https://archive.md/CME1a
 series: Gradually, Then Suddenly
 seriesnr: 6
+quote: 
 ---

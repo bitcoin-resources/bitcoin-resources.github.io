@@ -13,4 +13,5 @@ star: TRUE
 archive: https://archive.ph/M7YOx
 series: 
 seriesnr: 
+quote: 
 ---

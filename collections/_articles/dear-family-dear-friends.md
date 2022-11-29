@@ -13,4 +13,5 @@ star: TRUE
 archive: https://archive.md/GIxG5
 series: 
 seriesnr: 
+quote: 
 ---

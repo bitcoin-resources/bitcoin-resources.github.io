@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/OAMd6
 series: 
 seriesnr: 
+quote: 
 ---

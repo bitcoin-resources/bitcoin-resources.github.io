@@ -13,4 +13,5 @@ star:
 archive: https://archive.ph/dO38r
 series: 
 seriesnr: 
+quote: 
 ---

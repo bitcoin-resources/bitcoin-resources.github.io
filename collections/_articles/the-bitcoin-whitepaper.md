@@ -13,4 +13,5 @@ star:
 archive: https://archive.md/b7ICx
 series: 
 seriesnr: 
+quote: 
 ---
