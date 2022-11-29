@@ -176,6 +176,10 @@ of my arbitrarily chosen categories above.
 
 {% include articles.html category="Misc" %}
 
+[List of all articles »][article-list]
+
+[article-list]: {{ '/articles/all' | absolute_url }}
+
 ---
 
 [« back to overview][index]
