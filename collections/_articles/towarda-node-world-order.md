@@ -6,7 +6,7 @@ link: https://bitcointimes.com.au/toward-a-node-world-order/
 category: Misc
 date: Nov 11, 2022
 lesson: 
-audio: 
+audio: https://pod.link/1359544516/episode/54664832cb53c4e6de45c5440e62834e
 audio2: 
 audio3: 
 star: TRUE
