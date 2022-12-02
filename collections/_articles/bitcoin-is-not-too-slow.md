@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Parker Lewis
-title: Bitcoin Is Not Too Slow
+title: "Bitcoin Is Not Too Slow"
 link: https://www.unchained-capital.com/blog/bitcoin-is-not-too-slow/
 category: Bitcoin's Identity
 date: Aug 23, 2019
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/TchA0
 series: Gradually, Then Suddenly
 seriesnr: 5
-quote: 
+quote: ""
 ---

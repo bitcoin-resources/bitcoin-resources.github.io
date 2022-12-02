@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Pete Dushenski
-title: There is no Bitcoin 2.0
+title: "There is no Bitcoin 2.0"
 link: http://www.contravex.com/2014/03/19/there-is-no-bitcoin-2-0
 category: Bitcoin's Uniqueness
 date: Mar 19, 2014
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/pkMcG
 series: 
 seriesnr: 
-quote: 
+quote: "Looking at the world through Bitcoin physically hurts. Bitcoin is high art."
 ---

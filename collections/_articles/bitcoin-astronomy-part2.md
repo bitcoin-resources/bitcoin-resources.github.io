@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Dhruv Bansal
-title: Bitcoin Astronomy, Part 2
+title: "Bitcoin Astronomy, Part 2"
 link: https://unchained.com/blog/bitcoin-astronomy-part-ii/
 category: 
 date: Dec 9, 2020
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/GuGgI
 series: Bitcoin Astronomy
 seriesnr: 2
-quote: 
+quote: ""
 ---

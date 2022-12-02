@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Parker Lewis
-title: Bitcoin, Not Blockchain
+title: "Bitcoin, Not Blockchain"
 link: https://unchained-capital.com/blog/bitcoin-not-blockchain/
 category: Bitcoin's Uniqueness
 date: Sep 6, 2019
@@ -13,5 +13,5 @@ star: TRUE
 archive: https://archive.md/B4uxV
 series: Gradually, Then Suddenly
 seriesnr: 7
-quote: 
+quote: ""
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Parker Lewis
-title: Bitcoin is the Great Definancialization
+title: "Bitcoin is the Great Definancialization"
 link: https://unchained.com/blog/bitcoin-is-the-great-definancialization/
 category: 
 date: Dec 23, 2020
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/zlWUJ
 series: Gradually, Then Suddenly
 seriesnr: 16
-quote: 
+quote: ""
 ---

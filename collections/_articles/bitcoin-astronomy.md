@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Dhruv Bansal
-title: Bitcoin Astronomy
+title: "Bitcoin Astronomy"
 link: https://unchained-capital.com/blog/law-of-hash-horizons/
 category: Proof-of-work
 date: Sep 13, 2019
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/sDl3l
 series: Bitcoin Astronomy
 seriesnr: 1
-quote: 
+quote: ""
 ---

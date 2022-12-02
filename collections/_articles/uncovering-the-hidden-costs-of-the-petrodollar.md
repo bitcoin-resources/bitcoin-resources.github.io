@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Alex Gladstein
-title: Uncovering The Hidden Costs Of The Petrodollar
+title: "Uncovering The Hidden Costs Of The Petrodollar"
 link: https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar
 category: Proof-of-work
 date: Apr 28, 2021
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/OAMd6
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

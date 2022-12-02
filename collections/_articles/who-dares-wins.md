@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Simon Morris
-title: Who Dares Wins
+title: "Who Dares Wins"
 link: https://medium.com/@simonhmorris/decentralized-disruption-who-dares-wins-bittorrent-lessons-for-crypto-4-of-4-f022e8641c1a
 category: 
 date: Jan 10, 2019
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/Ks0NA
 series: BitTorrent Lessons for Crypto
 seriesnr: 4
-quote: 
+quote: ""
 ---

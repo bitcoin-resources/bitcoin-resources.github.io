@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: William Clemente III
-title: The Bitcoin Black Hole Effect
+title: "The Bitcoin Black Hole Effect"
 link: https://www.bitrawr.com/the-bitcoin-blackhole-effect
 category: Bitcoin's Identity
 date: Feb 13, 2021
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/6f0eJ
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

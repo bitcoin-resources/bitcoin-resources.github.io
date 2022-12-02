@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Francis Pouliot
-title: Catallaxy - the origins of Bitcoin, innovation and spontaneous order
+title: "Catallaxy - the origins of Bitcoin, innovation and spontaneous order"
 link: https://medium.com/@francispouliot/catallaxy-the-origins-of-bitcoin-and-innovation-93dbc3190eac
 category: A Social Revolution
 date: Sep 19, 2017
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/8bzem
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

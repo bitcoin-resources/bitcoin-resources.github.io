@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Jeff Desjardins
-title: The Rising Speed of Technological Adoption
+title: "The Rising Speed of Technological Adoption"
 link: https://www.visualcapitalist.com/rising-speed-technological-adoption/
 category: Lesson Links
 date: Feb 14, 2018
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/PGCC8
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

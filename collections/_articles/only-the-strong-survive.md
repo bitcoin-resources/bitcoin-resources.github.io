@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Allen Farrington and Big Al
-title: Only The Strong Survive
+title: "Only The Strong Survive"
 link: https://www.uncerto.com/only-the-strong-survive
 category: Bitcoin's Uniqueness
 date: Sep 19, 2021
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/f9bn7
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Chris Kuiper and Jack Neureuter
-title: Bitcoin First - Why Investors Need to Consider Bitcoin Separately From Other Digital Assets
+title: "Bitcoin First - Why Investors Need to Consider Bitcoin Separately From Other Digital Assets"
 link: https://www.fidelitydigitalassets.com/articles/bitcoin-first
 category: Bitcoin's Uniqueness
 date: January 31, 2022
@@ -13,5 +13,5 @@ star: TRUE
 archive: https://web.archive.org/web/20220223204947/https://www.fidelitydigitalassets.com/articles/bitcoin-first
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

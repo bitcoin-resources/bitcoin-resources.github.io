@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Beautyon
-title: Why America Can’t Regulate Bitcoin
+title: "Why America Can’t Regulate Bitcoin"
 link: https://archive.is/yAOwZ
 category: Who Controls Bitcoin?
 date: Mar 15, 2018
@@ -13,5 +13,5 @@ star:
 archive: https://archive.is/yAOwZ
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

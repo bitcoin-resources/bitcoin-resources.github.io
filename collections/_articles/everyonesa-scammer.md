@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Michael Goldstein
-title: Everyone’s a Scammer
+title: "Everyone’s a Scammer"
 link: https://nakamotoinstitute.org/mempool/everyones-a-scammer/
 category: Misc
 date: Sep 11, 2014
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/sIiUM
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

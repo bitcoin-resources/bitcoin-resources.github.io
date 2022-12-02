@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Murad Mahmudov and Adam Taché
-title: The Many Faces of Bitcoin
+title: "The Many Faces of Bitcoin"
 link: https://hackernoon.com/the-many-faces-of-bitcoin-1c298570d191
 category: Bitcoin's Identity
 date: Apr 9, 2018
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/wAdTc
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

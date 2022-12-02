@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Robert Breedlove
-title: Our Most Brilliant Idea
+title: "Our Most Brilliant Idea"
 link: https://breedlove22.medium.com/our-most-brilliant-idea-aced329f8941
 category: Misc
 date: Nov 2, 2020
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/8Eb1A
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

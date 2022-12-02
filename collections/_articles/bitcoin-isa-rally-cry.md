@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Parker Lewis
-title: Bitcoin Is a Rally Cry
+title: "Bitcoin Is a Rally Cry"
 link: https://unchained-capital.com/blog/bitcoin-is-a-rally-cry/
 category: A Social Revolution
 date: Mar 26, 2020
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/JD5d2
 series: Gradually, Then Suddenly
 seriesnr: 13
-quote: 
+quote: ""
 ---

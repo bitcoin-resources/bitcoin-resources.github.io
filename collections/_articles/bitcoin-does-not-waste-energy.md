@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Parker Lewis
-title: Bitcoin Does Not Waste Energy
+title: "Bitcoin Does Not Waste Energy"
 link: https://www.unchained-capital.com/blog/bitcoin-does-not-waste-energy/
 category: Proof-of-work
 date: Aug 16, 2019
@@ -13,5 +13,5 @@ star: TRUE
 archive: https://archive.md/czDWc
 series: Gradually, Then Suddenly
 seriesnr: 4
-quote: 
+quote: ""
 ---

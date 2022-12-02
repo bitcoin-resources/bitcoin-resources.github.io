@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Robert Breedlove
-title: Masters and Slaves of Money
+title: "Masters and Slaves of Money"
 link: https://medium.com/@breedlove22/masters-and-slaves-of-money-255ecc93404f
 category: Money
 date: Jul 5, 2020
@@ -13,5 +13,5 @@ star: TRUE
 archive: https://archive.md/0BC0o
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

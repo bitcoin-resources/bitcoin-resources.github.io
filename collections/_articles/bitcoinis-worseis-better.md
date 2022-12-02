@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Gwern
-title: Bitcoin is Worse is Better
+title: "Bitcoin is Worse is Better"
 link: https://www.gwern.net/Bitcoin-is-Worse-is-Better
 category: Bitcoin's Uniqueness
 date: May 27, 2011
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/ZeOZ6
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Allen Farrington
-title: Bitcoin Is Venice
+title: "Bitcoin Is Venice"
 link: https://allenfarrington.medium.com/bitcoin-is-venice-8414dda42070
 category: A Social Revolution
 date: Feb 13, 2021
@@ -13,5 +13,5 @@ star:
 archive: https://archive.is/rnPDB
 series: Bitcoin is Venice
 seriesnr: 3
-quote: 
+quote: ""
 ---

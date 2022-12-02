@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Nick Szabo
-title: Shelling Out - The Origins of Money
+title: "Shelling Out - The Origins of Money"
 link: https://nakamotoinstitute.org/shelling-out/
 category: Money
 date: Dec 17, 2002
@@ -13,5 +13,5 @@ star: TRUE
 archive: https://archive.ph/SCAVo
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

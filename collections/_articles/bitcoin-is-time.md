@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Gigi
-title: Bitcoin Is Time
+title: "Bitcoin Is Time"
 link: https://dergigi.com/2021/01/14/bitcoin-is-time/
 category: Through the Looking Glass
 date: Jan 14, 2021
@@ -13,5 +13,5 @@ star: TRUE
 archive: https://archive.ph/M7YOx
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

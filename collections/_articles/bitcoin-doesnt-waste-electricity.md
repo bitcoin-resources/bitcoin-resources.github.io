@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Beautyon
-title: Bitcoin Doesn’t Waste Electricity
+title: "Bitcoin Doesn’t Waste Electricity"
 link: https://archive.is/3IpA4
 category: Proof-of-work
 date: Mar 30, 2017
@@ -13,5 +13,5 @@ star:
 archive: https://archive.is/3IpA4
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

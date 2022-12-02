@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Parker Lewis
-title: Gradually, Then Suddenly
+title: "Gradually, Then Suddenly"
 link: https://www.unchained-capital.com/blog/dollar-crisis-to-bitcoin/
 category: Money
 date: Jul 26, 2019
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/SslEF
 series: Gradually, Then Suddenly
 seriesnr: 1
-quote: 
+quote: ""
 ---

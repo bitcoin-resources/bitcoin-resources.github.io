@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Nic Carter
-title: Bitcoin at 12
+title: "Bitcoin at 12"
 link: https://medium.com/@nic__carter/bitcoin-at-12-f6fce39cb9bb
 category: Bitcoin's Identity
 date: Oct 31, 2020
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/MmCRe
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Parker Lewis
-title: Bitcoin Is Not For Criminals
+title: "Bitcoin Is Not For Criminals"
 link: https://unchained-capital.com/blog/bitcoin-is-not-for-criminals/
 category: Misc
 date: Nov 29, 2019
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/mP0Mp
 series: Gradually, Then Suddenly
 seriesnr: 11
-quote: 
+quote: ""
 ---

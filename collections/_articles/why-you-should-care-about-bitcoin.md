@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Tomer Strolight
-title: Why You Should Care About Bitcoin
+title: "Why You Should Care About Bitcoin"
 link: https://tomerstrolight.medium.com/why-you-should-care-about-bitcoin-97e493879423
 category: 
 date: Apr 6, 2021
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/f1LXS
 series: Why Bitcoin
 seriesnr: 15
-quote: 
+quote: ""
 ---

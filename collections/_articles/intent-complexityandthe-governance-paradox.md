@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Simon Morris
-title: Intent, Complexity and the Governance Paradox
+title: "Intent, Complexity and the Governance Paradox"
 link: https://medium.com/@simonhmorris/intent-complexity-and-the-governance-paradox-bittorrent-lessons-for-crypto-3-of-4-1d14ac390f3f
 category: 
 date: Jan 6, 2019
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/hqTDo
 series: BitTorrent Lessons for Crypto
 seriesnr: 3
-quote: 
+quote: ""
 ---

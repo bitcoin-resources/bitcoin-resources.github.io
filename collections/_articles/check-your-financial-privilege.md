@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Alex Gladstein
-title: Check Your Financial Privilege
+title: "Check Your Financial Privilege"
 link: https://bitcoinmagazine.com/culture/check-your-financial-privilege
 category: A Social Revolution
 date: May 12, 2021
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/zPgNF
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

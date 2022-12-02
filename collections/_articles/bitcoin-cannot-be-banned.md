@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Parker Lewis
-title: Bitcoin Cannot Be Banned
+title: "Bitcoin Cannot Be Banned"
 link: https://unchained-capital.com/blog/bitcoin-cannot-be-banned/
 category: Who Controls Bitcoin?
 date: Nov 8, 2019
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/xR413
 series: Gradually, Then Suddenly
 seriesnr: 10
-quote: 
+quote: ""
 ---
