@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/cbCsy
 series: 
 seriesnr: 
-quote: 
+quote: Bitcoin is an impenetrable fortress of validation.
 ---

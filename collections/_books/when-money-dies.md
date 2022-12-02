@@ -17,5 +17,5 @@ quote: "In hyperinflation, a kilo of potatoes was worth, to some, more than the 
 audio_url: https://amzn.to/3Dg61AF
 free_audio_url: 
 goodreads_url: https://www.goodreads.com/book/show/8567383-when-money-dies
-description: ""
+description: "Money may no longer be physically printed and distributed in the voluminous quantities of 1923. However, 'quantitative easing,' that modern euphemism for surreptitious deficit financing in an electronic era, can no less become an assault on monetary discipline. Whatever the reason for a country’s deficit necessity or profligacy, unwillingness to tax or blindness to expenditure it is beguiling to suppose that if the day of reckoning is postponed economic recovery will come in time to prevent higher unemployment or deeper recession. What if it does not? Germany in 1923 provides a vivid, compelling, sobering moral tale."
 ---

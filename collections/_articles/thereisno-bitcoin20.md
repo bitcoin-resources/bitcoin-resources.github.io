@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/pkMcG
 series: 
 seriesnr: 
-quote: 
+quote: Looking at the world through Bitcoin physically hurts. Bitcoin is high art.
 ---
