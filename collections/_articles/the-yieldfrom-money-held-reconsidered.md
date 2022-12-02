@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Hans-Hermann Hoppe
-title: "The Yield from Money Held' Reconsidered"
+title: "The Yield from Money Held Reconsidered"
 link: https://mises.org/library/yield-money-held-reconsidered
 category: Money
 date: May 14, 2009
