@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Allen Farrington
-title: Wittgenstein’s Money
+title: "Wittgenstein’s Money"
 link: https://allenfarrington.medium.com/wittgensteins-money-7cac8d0635cf
 category: 
 date: Dec 4, 2020
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/NnRWG
 series: Bitcoin is Venice
 seriesnr: 1
-quote: 
+quote: ""
 ---

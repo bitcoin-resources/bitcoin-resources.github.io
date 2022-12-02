@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Nick Szabo
-title: The God Protocols
+title: "The God Protocols"
 link: https://nakamotoinstitute.org/the-god-protocols/
 category: Misc
 date: Jan 1, 1997
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/cJTcV
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

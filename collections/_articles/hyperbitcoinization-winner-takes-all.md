@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: ObiWan Kenobit
-title: Hyperbitcoinization - Winner Takes All
+title: "Hyperbitcoinization - Winner Takes All"
 link: https://medium.com/coinmonks/hyperbitcoinization-winner-takes-all-69ab59f9695f
 category: Hyperbitcoinization
 date: Jun 25, 2018
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/06mOz
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

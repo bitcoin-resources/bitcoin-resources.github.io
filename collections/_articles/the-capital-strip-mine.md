@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Allen Farrington
-title: The Capital Strip Mine
+title: "The Capital Strip Mine"
 link: https://allenfarrington.medium.com/the-capital-strip-mine-ec627e9fe40a
 category: 
 date: Jan 16, 2021
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/lFdvW
 series: Bitcoin is Venice
 seriesnr: 2
-quote: 
+quote: ""
 ---

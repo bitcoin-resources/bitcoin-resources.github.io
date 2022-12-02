@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: David D. Friedman
-title: The Case for Privacy
+title: "The Case for Privacy"
 link: https://nakamotoinstitute.org/the-case-for-privacy/
 category: Privacy
 date: Jan 1, 2005
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/iOb47
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

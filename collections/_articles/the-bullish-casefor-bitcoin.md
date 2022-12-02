@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Vijay Boyapati
-title: The Bullish Case for Bitcoin
+title: "The Bullish Case for Bitcoin"
 link: https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1
 category: Money
 date: Mar 2, 2018
@@ -13,5 +13,5 @@ star: TRUE
 archive: https://archive.md/K9Knq
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

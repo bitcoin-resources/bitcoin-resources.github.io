@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Parker Lewis
-title: Bitcoin Fixes This
+title: "Bitcoin Fixes This"
 link: https://unchained-capital.com/blog/bitcoin-fixes-this/
 category: Misc
 date: Aug 30, 2019
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/CME1a
 series: Gradually, Then Suddenly
 seriesnr: 6
-quote: 
+quote: ""
 ---

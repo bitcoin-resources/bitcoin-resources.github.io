@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Parker Lewis
-title: Bitcoin Obsoletes All Other Money
+title: "Bitcoin Obsoletes All Other Money"
 link: https://unchained-capital.com/blog/bitcoin-obsoletes-all-other-money/
 category: Money
 date: Jan 24, 2020
@@ -13,5 +13,5 @@ star: TRUE
 archive: https://archive.md/8oZTq
 series: Gradually, Then Suddenly
 seriesnr: 12
-quote: 
+quote: ""
 ---

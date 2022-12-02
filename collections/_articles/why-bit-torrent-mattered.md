@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Simon Morris
-title: Why BitTorrent Mattered
+title: "Why BitTorrent Mattered"
 link: https://medium.com/@simonhmorris/why-bittorrent-mattered-bittorrent-lessons-for-crypto-1-of-4-fa3c6fcef488
 category: 
 date: Dec 25, 2018
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/6wZnl
 series: BitTorrent Lessons for Crypto
 seriesnr: 1
-quote: 
+quote: ""
 ---

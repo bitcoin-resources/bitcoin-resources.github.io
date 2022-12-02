@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: StopAndDecrypt
-title: Bitcoin Miners Beware - Invalid Blocks Need Not Apply
+title: "Bitcoin Miners Beware - Invalid Blocks Need Not Apply"
 link: https://hackernoon.com/bitcoin-miners-beware-invalid-blocks-need-not-apply-51c293ee278b
 category: Who Controls Bitcoin?
 date: Jun 1, 2018
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/cbCsy
 series: 
 seriesnr: 
-quote: Bitcoin is an impenetrable fortress of validation.
+quote: "Bitcoin is an impenetrable fortress of validation."
 ---

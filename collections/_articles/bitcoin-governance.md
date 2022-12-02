@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Pierre Rochard
-title: Bitcoin Governance
+title: "Bitcoin Governance"
 link: https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f
 category: Who Controls Bitcoin?
 date: Jul 9, 2018
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/SRM3y
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Nick Szabo
-title: Money, blockchains, and social scalability
+title: "Money, blockchains, and social scalability"
 link: http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html
 category: Money
 date: Feb 9, 2017
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/lnUmP
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

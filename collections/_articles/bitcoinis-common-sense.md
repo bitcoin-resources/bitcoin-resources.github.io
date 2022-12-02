@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Parker Lewis
-title: Bitcoin is Common Sense
+title: "Bitcoin is Common Sense"
 link: https://unchained-capital.com/blog/bitcoin-is-common-sense/
 category: Money
 date: May 1, 2020
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/KQZvs
 series: Gradually, Then Suddenly
 seriesnr: 14
-quote: 
+quote: ""
 ---

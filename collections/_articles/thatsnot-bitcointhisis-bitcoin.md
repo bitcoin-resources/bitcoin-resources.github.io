@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: StopAndDecrypt
-title: That’s not Bitcoin, this is Bitcoin
+title: "That’s not Bitcoin, this is Bitcoin"
 link: https://hackernoon.com/thats-not-bitcoin-this-is-bitcoin-95f05a6fd6c2
 category: Bitcoin's Identity
 date: Sep 23, 2017
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/kG9OP
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

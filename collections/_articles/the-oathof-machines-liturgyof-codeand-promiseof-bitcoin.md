@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Erik Cason
-title: The Oath of Machines, Liturgy of Code, and Promise of Bitcoin
+title: "The Oath of Machines, Liturgy of Code, and Promise of Bitcoin"
 link: https://cryptosovereignty.org/oath-machines-liturgy-code/
 category: A Social Revolution
 date: Jan 5, 2020
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/6oYhk
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

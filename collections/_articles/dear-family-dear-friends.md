@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Gigi
-title: Dear Family, Dear Friends
+title: "Dear Family, Dear Friends"
 link: https://dergigi.com/2020/04/27/dear-family-dear-friends/
 category: Through the Looking Glass
 date: Apr 27, 2020
@@ -13,5 +13,5 @@ star: TRUE
 archive: https://archive.md/GIxG5
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

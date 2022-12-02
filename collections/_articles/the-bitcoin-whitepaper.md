@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Satoshi Nakamoto
-title: The Bitcoin Whitepaper
+title: "The Bitcoin Whitepaper"
 link: https://bitcoin.org/bitcoin.pdf
 category: Lesson Links
 date: Oct 31, 2008
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/b7ICx
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Tomer Strolight
-title: Bitcoiners are Not Toxic - They Have Integrity
+title: "Bitcoiners are Not Toxic - They Have Integrity"
 link: https://tomerstrolight.medium.com/bitcoiners-are-not-toxic-they-have-integrity-bd866d2773e9
 category: Misc
 date: May 18, 2021
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/vRHR6
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

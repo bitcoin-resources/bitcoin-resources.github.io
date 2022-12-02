@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Knut Svanholm
-title: You Are Not Prepared
+title: "You Are Not Prepared"
 link: https://www.citadel21.com/you-are-not-prepared
 category: Hyperbitcoinization
 date: May 21, 2020
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/XRFrX
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Gigi
-title: Bitcoin's Gravity - How idea-value feedback loops are pulling people in
+title: "Bitcoin's Gravity - How idea-value feedback loops are pulling people in"
 link: https://dergigi.com/2019/05/01/bitcoins-gravity/
 category: Bitcoin's Identity
 date: Jun 10, 2018
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/lfaeO
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

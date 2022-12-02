@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: PlanB
-title: Modeling Bitcoin’s Value with Scarcity
+title: "Modeling Bitcoin’s Value with Scarcity"
 link: https://medium.com/@100trillionUSD/modeling-bitcoins-value-with-scarcity-91fa0fc03e25
 category: Lesson Links
 date: Mar 22, 2019
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/UEn0A
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

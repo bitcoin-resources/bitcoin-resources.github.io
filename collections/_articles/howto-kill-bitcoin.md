@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Gigi
-title: How to Kill Bitcoin
+title: "How to Kill Bitcoin"
 link: https://dergigi.com/2019/10/03/how-to-kill-bitcoin/
 category: Through the Looking Glass
 date: Oct 3, 2019
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/ytabc
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

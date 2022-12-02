@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Pierre Rochard
-title: Speculative Attack
+title: "Speculative Attack"
 link: https://nakamotoinstitute.org/mempool/speculative-attack/
 category: Hyperbitcoinization
 date: Jul 4, 2014
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/nIqwn
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

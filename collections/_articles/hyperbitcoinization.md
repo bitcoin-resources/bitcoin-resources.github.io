@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Daniel Krawisz
-title: Hyperbitcoinization
+title: "Hyperbitcoinization"
 link: https://nakamotoinstitute.org/mempool/hyperbitcoinization/
 category: Hyperbitcoinization
 date: Mar 29, 2014
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/j4Tj2
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

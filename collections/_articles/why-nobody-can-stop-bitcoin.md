@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Tomer Strolight
-title: Why Nobody Can Stop Bitcoin
+title: "Why Nobody Can Stop Bitcoin"
 link: https://tomerstrolight.medium.com/why-nobody-can-stop-bitcoin-a4b18f3b4e12
 category: 
 date: Mar 25, 2021
@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/rX1qA
 series: Why Bitcoin
 seriesnr: 9
-quote: 
+quote: ""
 ---

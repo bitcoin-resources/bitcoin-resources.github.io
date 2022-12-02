@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Robert Breedlove
-title: The Number Zero and Bitcoin
+title: "The Number Zero and Bitcoin"
 link: https://medium.com/@breedlove22/the-number-zero-and-bitcoin-4c193336db5b
 category: Bitcoin's Uniqueness
 date: Mar 29, 2020
@@ -13,5 +13,5 @@ star: TRUE
 archive: https://archive.md/MKiM1
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---

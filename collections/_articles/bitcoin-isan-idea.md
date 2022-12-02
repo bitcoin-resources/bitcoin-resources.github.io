@@ -1,7 +1,7 @@
 ---
 layout: page-article
 author: Gigi
-title: Bitcoin Is an Idea
+title: "Bitcoin Is an Idea"
 link: https://dergigi.com/2021/06/13/bitcoin-is-an-idea/
 category: Through the Looking Glass
 date: Jun 13, 2021
@@ -13,5 +13,5 @@ star:
 archive: https://archive.ph/fHmYS
 series: 
 seriesnr: 
-quote: 
+quote: ""
 ---
