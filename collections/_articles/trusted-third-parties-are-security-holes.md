@@ -13,5 +13,5 @@ star:
 archive: https://archive.md/WVILN
 series: 
 seriesnr: 
-quote: ""
+quote: "For most of human history the dominant form of property has been personal property. The functionality of personal property has not under normal conditions ever depended on trusted third parties."
 ---
