@@ -54,6 +54,15 @@ Bitcoin absolutely dominates in terms of hashrate, having its hands on virtually
 [pow]: https://dergigi.com/pow
 [^hashrate]: Hashrate comparison chart: [https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y](https://bitinfocharts.com/comparison/hashrate-btc-eth-ltc-bch-xrp-doge-xmr-etc-dash-bsv-zec.html#3y)
 
+### ...but isn't Bitcoin a Ponzi scheme?
+
+No. Bitcoin does not meet the defin­i­tion of a Ponzi scheme. Many shitcoins do,
+but Bitcoin is different.
+
+- [Why Bitcoin is Not a Ponzi Scheme: Point by Point](https://www.swanbitcoin.com/why-bitcoin-is-not-a-ponzi-scheme-point-by-point/)
+- [Bitcoin is Not a Pyramid Scheme](https://unchained.com/blog/bitcoin-is-not-a-pyramid-scheme/)
+
+
 ### Where do I buy bitcoin?
 
 Good question. It depends on where you are in the world and what kind of
