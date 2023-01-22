@@ -2,8 +2,9 @@
 layout: page-books
 title: American Kingpin
 subtitle: The Epic Hunt for the Criminal Mastermind Behind the Silk Road
+atf: 
 essential: 
-categories: ['bitcoin-history']
+category: bitcoin-history
 authors: ['Nick Bilton']
 authors_twitter: ['https://twitter.com/nickbilton']
 resource_url: http://www.americankingpin.com/

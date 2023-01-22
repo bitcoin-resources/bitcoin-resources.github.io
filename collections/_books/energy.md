@@ -2,8 +2,9 @@
 layout: page-books
 title: Energy
 subtitle: A Human History 
+atf: true
 essential: 
-categories: ['energy']
+category: energy
 authors: ['Richard Rhodes']
 authors_twitter: 
 resource_url: https://archive.org/details/energy-a-human-history-by-richard-rhodes-z-lib.org/

@@ -2,8 +2,9 @@
 layout: page-books
 title: Remote
 subtitle: Office Not Required
+atf: true
 essential: 
-categories: ['work']
+category: work
 authors: ['David Heinemeier Hansson', ' Jason Fried']
 authors_twitter: ['https://twitter.com/dhh']
 resource_url: https://basecamp.com/books/remote

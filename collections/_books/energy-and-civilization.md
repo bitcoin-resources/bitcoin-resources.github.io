@@ -2,8 +2,9 @@
 layout: page-books
 title: Energy And Civilization
 subtitle: A History
+atf: true
 essential: 
-categories: ['energy']
+category: energy
 authors: ['Vaclav Smil']
 authors_twitter: ['https://twitter.com/VaclavSmil']
 resource_url: https://vaclavsmil.com/2017/05/08/energy-and-civilization-a-history/

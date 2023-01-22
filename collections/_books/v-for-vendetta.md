@@ -2,8 +2,9 @@
 layout: page-books
 title: V For Vendetta
 subtitle: 
+atf: true
 essential: 
-categories: ['fiction']
+category: fiction
 authors: ['Alan Moore']
 authors_twitter: 
 resource_url: 

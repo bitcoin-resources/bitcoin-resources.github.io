@@ -2,8 +2,9 @@
 layout: page-books
 title: The Creature From Jekyll Island
 subtitle: 
+atf: true
 essential: 
-categories: ['banking']
+category: banking
 authors: ['G. Edward Griffin']
 authors_twitter: 
 resource_url: https://wiki.mises.org/wiki/The_Creature_from_Jekyll_Island

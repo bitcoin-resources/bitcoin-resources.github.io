@@ -2,8 +2,9 @@
 layout: page-books
 title: Why Bitcoin?
 subtitle: 
+atf: 
 essential: 
-categories: ['non-technical2']
+category: non-technical
 authors: ['Tomer Strolight']
 authors_twitter: ['https://twitter.com/TomerStrolight/']
 resource_url: https://whybitcoinbook.com

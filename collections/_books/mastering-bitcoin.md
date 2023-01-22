@@ -2,8 +2,9 @@
 layout: page-books
 title: Mastering Bitcoin
 subtitle: 
+atf: true
 essential: 
-categories: ['technical']
+category: technical
 authors: ['Andreas Antonopoulos']
 authors_twitter: ['https://twitter.com/aantonop']
 resource_url: 

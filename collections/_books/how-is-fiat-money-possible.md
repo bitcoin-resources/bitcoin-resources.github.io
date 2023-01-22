@@ -2,8 +2,9 @@
 layout: page-books
 title: How Is Fiat Money Possible
 subtitle: 
+atf: 
 essential: 
-categories: ['money']
+category: money
 authors: ['Hans-Hermann Hoppe']
 authors_twitter: 
 resource_url: https://mises.org/library/how-fiat-money-possible-or-devolution-money-and-credit

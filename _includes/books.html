@@ -4,6 +4,10 @@
 {% assign category = site.books | where: 'categories', include.category | sort: 'rating_order' | reverse %}
 {% endif %}
 
+{% if include.above_the_fold %}
+{% assign category = category | where: 'atf', include.above_the_fold %}
+{% endif %}
+
 <ul class="books">
 {% if include.category %}
   {% for book in category %}
@@ -11,7 +15,7 @@
   {% endfor %}
 {% else %}
   {% for book in site.books %}
-  {% if book.categories[0] != '' %}
+  {% if book.category %}
   {% include book.html book=book %}
   {% endif %}
   {% endfor %}

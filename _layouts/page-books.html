@@ -52,7 +52,12 @@ layout: page
 
 {{content}}
 
+{% assign cat = site.categories | where: "short", page.category | first %}
+
 <hr/>
+<p>
+  <a href="{{ '/books' | absolute_url }}#{{ cat.title | slugify }}">« Back to books in {{ cat.title }}</a>
+</p>
 <p>
   <a href="{{ '/books' | absolute_url }}">« Back to books</a>
 </p>

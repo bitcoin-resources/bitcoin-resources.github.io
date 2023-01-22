@@ -2,8 +2,9 @@
 layout: page-books
 title: Gödel, Escher, Bach
 subtitle: An Eternal Golden Braid
+atf: true
 essential: 
-categories: ['computation']
+category: computation
 authors: ['Douglas Hofstadter']
 authors_twitter: 
 resource_url: 

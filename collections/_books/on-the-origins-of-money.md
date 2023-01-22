@@ -2,8 +2,9 @@
 layout: page-books
 title: On The Origins Of Money
 subtitle: 
+atf: true
 essential: 
-categories: ['money']
+category: money
 authors: ['Carl Menger']
 authors_twitter: 
 resource_url: https://mises.org/library/origins-money-0

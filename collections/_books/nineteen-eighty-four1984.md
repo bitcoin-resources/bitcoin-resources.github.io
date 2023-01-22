@@ -2,8 +2,9 @@
 layout: page-books
 title: Nineteen Eighty-Four (1984)
 subtitle: 
+atf: true
 essential: 
-categories: ['fiction']
+category: fiction
 authors: ['George Orwell']
 authors_twitter: 
 resource_url: 

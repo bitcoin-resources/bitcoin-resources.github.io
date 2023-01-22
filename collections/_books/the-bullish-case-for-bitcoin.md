@@ -2,8 +2,9 @@
 layout: page-books
 title: The Bullish Case For Bitcoin
 subtitle: 
+atf: 1
 essential: true
-categories: ['non-technical']
+category: non-technical
 authors: ['Vijay Boyapati']
 authors_twitter: ['https://twitter.com/real_vijay']
 resource_url: https://www.kickstarter.com/projects/boyapati/the-bullish-case-for-bitcoin-book-launch

@@ -2,8 +2,9 @@
 layout: page-books
 title: The Hitchhiker'S Guide To The Galaxy
 subtitle: 
+atf: 
 essential: 
-categories: ['fiction']
+category: fiction
 authors: ['Douglas Adams']
 authors_twitter: 
 resource_url: 

@@ -2,8 +2,9 @@
 layout: page-books
 title: Money, Sound And Unsound
 subtitle: 
+atf: 
 essential: 
-categories: ['money']
+category: money
 authors: ['Joseph Salerno']
 authors_twitter: 
 resource_url: https://mises.org/library/money-sound-and-unsound-1

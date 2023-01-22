@@ -2,8 +2,9 @@
 layout: page-books
 title: Programming Bitcoin
 subtitle: Learn How to Program Bitcoin from Scratch
+atf: true
 essential: 
-categories: ['technical']
+category: technical
 authors: ['Jimmy Song']
 authors_twitter: ['https://twitter.com/jimmysong']
 resource_url: 

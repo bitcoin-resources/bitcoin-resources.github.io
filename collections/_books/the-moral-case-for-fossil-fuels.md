@@ -2,8 +2,9 @@
 layout: page-books
 title: The Moral Case For Fossil Fuels
 subtitle: 
+atf: true
 essential: 
-categories: ['energy']
+category: energy
 authors: ['Alex Epstein']
 authors_twitter: ['https://twitter.com/Alexepstein']
 resource_url: https://www.moralcaseforfossilfuels.com/

@@ -2,8 +2,9 @@
 layout: page-books
 title: Economic Depressions
 subtitle: Their Cause and Cure
+atf: 
 essential: 
-categories: ['']
+category: 
 authors: ['Murray N. Rothbard']
 authors_twitter: 
 resource_url: https://mises.org/library/economic-depressions-their-cause-and-cure-4

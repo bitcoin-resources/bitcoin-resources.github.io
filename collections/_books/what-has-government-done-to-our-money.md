@@ -2,8 +2,9 @@
 layout: page-books
 title: What Has Government Done To Our Money
 subtitle: 
+atf: true
 essential: 
-categories: ['money']
+category: money
 authors: ['Murray Rothbard']
 authors_twitter: 
 resource_url: https://mises.org/library/what-has-government-done-our-money

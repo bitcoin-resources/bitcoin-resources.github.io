@@ -2,8 +2,9 @@
 layout: page-books
 title: Rhyming Bitcoin
 subtitle: 
+atf: true
 essential: 
-categories: ['kids']
+category: kids
 authors: ['Brekkie']
 authors_twitter: ['https://twitter.com/BVBTC']
 resource_url: https://twitter.com/RhymingBitcoin

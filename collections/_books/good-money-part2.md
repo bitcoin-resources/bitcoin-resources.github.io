@@ -2,8 +2,9 @@
 layout: page-books
 title: Good Money, Part 2
 subtitle: The Standard
+atf: 
 essential: 
-categories: ['']
+category: 
 authors: ['Friedrich von Hayek']
 authors_twitter: 
 resource_url: https://books.google.com/books?id=l_A1vVIaYBYC

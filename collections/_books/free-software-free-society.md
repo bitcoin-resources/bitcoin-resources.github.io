@@ -2,8 +2,9 @@
 layout: page-books
 title: Free Software, Free Society
 subtitle: 
+atf: true
 essential: 
-categories: ['software']
+category: software
 authors: ['Richard Stallman']
 authors_twitter: 
 resource_url: https://www.gnu.org/philosophy/

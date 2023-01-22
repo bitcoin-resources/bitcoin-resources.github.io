@@ -2,8 +2,9 @@
 layout: page-books
 title: Bitcoin Billionaires
 subtitle: 
+atf: 
 essential: 
-categories: ['bitcoin-history']
+category: bitcoin-history
 authors: ['Ben Mezrich']
 authors_twitter: ['https://twitter.com/benmezrich']
 resource_url: 

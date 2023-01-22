@@ -2,8 +2,9 @@
 layout: page-books
 title: The Art Of Unix Programming
 subtitle: 
+atf: true
 essential: 
-categories: ['software']
+category: software
 authors: ['Eric S. Raymond']
 authors_twitter: 
 resource_url: 

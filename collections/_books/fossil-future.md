@@ -2,8 +2,9 @@
 layout: page-books
 title: Fossil Future
 subtitle: Why Global Human Flourishing Requires More Oil, Coal, and Natural Gas—Not Less
+atf: 
 essential: 
-categories: ['energy']
+category: energy
 authors: ['Alex Epstein']
 authors_twitter: ['https://twitter.com/Alexepstein']
 resource_url: https://www.penguinrandomhouse.com/books/678856/fossil-future-by-alex-epstein/

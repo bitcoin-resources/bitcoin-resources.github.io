@@ -2,8 +2,9 @@
 layout: page-books
 title: Quantum Computing Since Democritus
 subtitle: 
+atf: true
 essential: 
-categories: ['computation']
+category: computation
 authors: ['Scott Aaronson']
 authors_twitter: 
 resource_url: 

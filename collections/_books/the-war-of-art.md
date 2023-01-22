@@ -2,8 +2,9 @@
 layout: page-books
 title: The War Of Art
 subtitle: Break Through the Blocks and Win Your Inner Creative Battles
+atf: true
 essential: 
-categories: ['work']
+category: work
 authors: ['Steven Pressfield']
 authors_twitter: 
 resource_url: 

@@ -2,8 +2,9 @@
 layout: page-books
 title: Brave New World
 subtitle: 
+atf: 
 essential: 
-categories: ['fiction']
+category: fiction
 authors: ['Aldous Huxley']
 authors_twitter: 
 resource_url: 

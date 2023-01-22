@@ -78,21 +78,23 @@ Books about Bitcoin which can be read by anyone, no special background knowledge
 or education required. As mentioned above, [The Bitcoin Standard][the-bitcoin-standard]
 is required reading for anyone interested in Bitcoin.
 
-{% include books.html category='non-technical' %}
+{% include books.html category='non-technical' above_the_fold=1 %}
+{% include books.html category='non-technical' above_the_fold=2 %}
 
-Categories: [Economics], [Money], [Banking], [Cypherpunk], [Fiction]
-
-[View book wall »][books-wall] \\
 [View all books »][books]
 
+Categories: [General], [Economics], [Money], [Banking], [Programming], [Cypherpunk], [Fiction], [Kids]
+
+[General]: {{ '/books/#general-bitcoin-books' | absolute_url }}
 [Economics]: {{ '/books/#economics' | absolute_url }}
 [Money]: {{ '/books/#money' | absolute_url }}
 [Banking]: {{ '/books/#banking' | absolute_url }}
+[Programming]: {{ '/books/#programming' | absolute_url }}
 [Cypherpunk]: {{ '/books/#bitcoin-and-cypherpunk-history' | absolute_url }}
 [Fiction]: {{ '/books/#fiction' | absolute_url }}
+[Kids]: {{ '/books/#bitcoin-books-for-kids' | absolute_url }}
 
 [books]: {{ '/books' | absolute_url }}
-[books-wall]: {{ '/books/wall' | absolute_url }}
 
 ---
 

@@ -2,8 +2,9 @@
 layout: page-books
 title: Skin In The Game
 subtitle: Hidden Asymmetries in Daily Life
+atf: true
 essential: 
-categories: ['taleb']
+category: taleb
 authors: ['Nassim Nicholas Taleb']
 authors_twitter: ['https://twitter.com/nntaleb']
 resource_url: https://www.penguinrandomhouse.com/books/537828/skin-in-the-game-by-nassim-nicholas-taleb/9780425284629/

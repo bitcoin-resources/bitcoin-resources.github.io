@@ -2,8 +2,9 @@
 layout: page-books
 title: Grokking Bitcoin
 subtitle: 
+atf: true
 essential: 
-categories: ['technical']
+category: technical
 authors: ['Kalle Rosenbaum']
 authors_twitter: ['https://twitter.com/kallerosenbaum']
 resource_url: https://www.manning.com/books/grokking-bitcoin

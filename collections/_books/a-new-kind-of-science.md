@@ -2,8 +2,9 @@
 layout: page-books
 title: A New Kind Of Science
 subtitle: 
+atf: true
 essential: 
-categories: ['computation']
+category: computation
 authors: ['Stephen Wolfram']
 authors_twitter: ['https://twitter.com/stephen_wolfram']
 resource_url: 

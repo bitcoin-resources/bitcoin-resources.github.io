@@ -2,8 +2,9 @@
 layout: page-books
 title: Goodnight Bitcoin
 subtitle: 
+atf: 
 essential: 
-categories: ['kids']
+category: kids
 authors: ['Scott and Mallory Sibley']
 authors_twitter: ['https://twitter.com/PlaySHAmory/']
 resource_url: https://shamory.com/product/goodnight-bitcoin/

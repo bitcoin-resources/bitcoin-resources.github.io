@@ -18,11 +18,11 @@ NO_DATE = "1111-11-11"
 NO_AUTHOR_LINKS = ""
 
 for row in books.get_all_values():
-    if row[0] == 'Categories':
+    if row[0] == 'Category':
         continue
 
-    resource_categories = row[0].split(',')
-    resource_type = row[1].lower()
+    resource_category = row[0].lower()
+    resource_atf = row[1].lower()
     resource_essential = row[2].lower()
     resource_title = row[3].title().replace(":", "&#58")
     resource_subtitle = row[4].replace(":", "&#58")
@@ -45,17 +45,18 @@ for row in books.get_all_values():
     resource_description = row[18]
     resource_goodreads = row[19]
 
-    md_file_path = title_to_file_path(resource_title, resource_type)
+    md_file_path = title_to_file_path(resource_title, "books")
     if md_file_path == "":
         continue
 
     md_file = (
                 f"---\n"
-                f"layout: page-{resource_type}\n"
+                f"layout: page-books\n"
                 f"title: {resource_title}\n"
                 f"subtitle: {resource_subtitle}\n"
+                f"atf: {resource_atf}\n"
                 f"essential: {resource_essential}\n"
-                f"categories: {resource_categories}\n"
+                f"category: {resource_category}\n"
                 f"authors: {resource_authors}\n"
                 f"authors_twitter: {resource_authors_twitter}\n"
                 f"resource_url: {resource_url}\n"

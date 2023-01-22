@@ -2,8 +2,9 @@
 layout: page-books
 title: The Mandibles
 subtitle: 
+atf: true
 essential: 
-categories: ['fiction']
+category: fiction
 authors: ['Lionel Shriver']
 authors_twitter: 
 resource_url: 

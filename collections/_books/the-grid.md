@@ -2,8 +2,9 @@
 layout: page-books
 title: The Grid
 subtitle: The Fraying Wires Between Americans and Our Energy Future
+atf: true
 essential: 
-categories: ['energy']
+category: energy
 authors: ['Gretchen Bakke']
 authors_twitter: 
 resource_url: https://bakkeconsolidated.org/books.php
