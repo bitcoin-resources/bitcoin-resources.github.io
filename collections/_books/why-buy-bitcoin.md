@@ -4,7 +4,7 @@ title: Why Buy Bitcoin
 subtitle: Investing Today in the Money of Tomorrow
 atf: 
 essential: 
-categories: ['non-technical2']
+categories: ['non-technical']
 authors: ['Andy Edstrom']
 authors_twitter: ['https://twitter.com/edstromandrew']
 resource_url: http://www.andyedstrom.com/books/

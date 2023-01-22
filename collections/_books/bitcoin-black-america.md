@@ -4,7 +4,7 @@ title: Bitcoin & Black America
 subtitle: 
 atf: 
 essential: 
-categories: ['non-technical2']
+categories: ['non-technical']
 authors: ['Isaiah Jackson']
 authors_twitter: ['https://twitter.com/bitcoinzay']
 resource_url: https://bitcoinandblackamerica.com/

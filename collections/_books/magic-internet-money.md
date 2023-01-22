@@ -4,7 +4,7 @@ title: Magic Internet Money
 subtitle: A Book About Bitcoin
 atf: 
 essential: 
-categories: ['non-technical2']
+categories: ['non-technical']
 authors: ['Jesse Berger']
 authors_twitter: ['https://twitter.com/jayberjay']
 resource_url: https://www.magicbitcoinbook.com/

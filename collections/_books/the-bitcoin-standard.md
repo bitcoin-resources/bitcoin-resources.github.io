@@ -2,7 +2,7 @@
 layout: page-books
 title: The Bitcoin Standard
 subtitle: The Decentralized Alternative to Central Banking
-atf: true
+atf: 1
 essential: true
 categories: ['non-technical']
 authors: ['Saifedean Ammous']
