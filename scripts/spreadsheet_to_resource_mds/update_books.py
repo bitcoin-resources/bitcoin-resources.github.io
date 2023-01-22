@@ -18,10 +18,10 @@ NO_DATE = "1111-11-11"
 NO_AUTHOR_LINKS = ""
 
 for row in books.get_all_values():
-    if row[0] == 'Categories':
+    if row[0] == 'Category':
         continue
 
-    resource_categories = row[0].split(',')
+    resource_category = row[0].lower()
     resource_atf = row[1].lower()
     resource_essential = row[2].lower()
     resource_title = row[3].title().replace(":", "&#58")
@@ -56,7 +56,7 @@ for row in books.get_all_values():
                 f"subtitle: {resource_subtitle}\n"
                 f"atf: {resource_atf}\n"
                 f"essential: {resource_essential}\n"
-                f"categories: {resource_categories}\n"
+                f"category: {resource_category}\n"
                 f"authors: {resource_authors}\n"
                 f"authors_twitter: {resource_authors_twitter}\n"
                 f"resource_url: {resource_url}\n"

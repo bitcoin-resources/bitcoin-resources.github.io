@@ -15,7 +15,7 @@
   {% endfor %}
 {% else %}
   {% for book in site.books %}
-  {% if book.categories[0] != '' %}
+  {% if book.category %}
   {% include book.html book=book %}
   {% endif %}
   {% endfor %}
