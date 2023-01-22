@@ -2,6 +2,7 @@
 layout: page-books
 title: The Moral Case For Fossil Fuels
 subtitle: 
+atf: true
 essential: 
 categories: ['energy']
 authors: ['Alex Epstein']

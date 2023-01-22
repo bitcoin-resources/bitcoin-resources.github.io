@@ -2,6 +2,7 @@
 layout: page-books
 title: It Doesn'T Have To Be Crazy At Work
 subtitle: 
+atf: true
 essential: 
 categories: ['work']
 authors: ['David Heinemeier Hansson', ' Jason Fried']

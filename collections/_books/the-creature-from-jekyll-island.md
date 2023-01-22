@@ -2,6 +2,7 @@
 layout: page-books
 title: The Creature From Jekyll Island
 subtitle: 
+atf: true
 essential: 
 categories: ['banking']
 authors: ['G. Edward Griffin']

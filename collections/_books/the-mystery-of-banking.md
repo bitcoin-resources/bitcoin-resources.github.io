@@ -2,6 +2,7 @@
 layout: page-books
 title: The Mystery Of Banking
 subtitle: 
+atf: true
 essential: 
 categories: ['banking']
 authors: ['Murray Rothbard']

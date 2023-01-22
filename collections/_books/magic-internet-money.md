@@ -2,6 +2,7 @@
 layout: page-books
 title: Magic Internet Money
 subtitle: A Book About Bitcoin
+atf: 
 essential: 
 categories: ['non-technical2']
 authors: ['Jesse Berger']

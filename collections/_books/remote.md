@@ -2,6 +2,7 @@
 layout: page-books
 title: Remote
 subtitle: Office Not Required
+atf: true
 essential: 
 categories: ['work']
 authors: ['David Heinemeier Hansson', ' Jason Fried']

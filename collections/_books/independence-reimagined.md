@@ -2,6 +2,7 @@
 layout: page-books
 title: Independence Reimagined
 subtitle: 
+atf: 
 essential: 
 categories: ['non-technical2']
 authors: ['Knut Svanholm']

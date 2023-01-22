@@ -2,6 +2,7 @@
 layout: page-books
 title: The Lessons Of History
 subtitle: 
+atf: true
 essential: 
 categories: ['macro']
 authors: ['Will Durant', ' Ariel Durant']

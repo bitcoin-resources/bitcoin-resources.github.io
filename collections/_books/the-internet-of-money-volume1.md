@@ -2,6 +2,7 @@
 layout: page-books
 title: The Internet Of Money (Volume 1)
 subtitle: 
+atf: true
 essential: 
 categories: ['aantonop']
 authors: ['Andreas Antonopoulos']

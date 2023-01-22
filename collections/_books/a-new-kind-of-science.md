@@ -2,6 +2,7 @@
 layout: page-books
 title: A New Kind Of Science
 subtitle: 
+atf: true
 essential: 
 categories: ['computation']
 authors: ['Stephen Wolfram']

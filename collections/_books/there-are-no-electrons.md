@@ -2,6 +2,7 @@
 layout: page-books
 title: There Are No Electrons
 subtitle: Electronics for Earthlings
+atf: 
 essential: 
 categories: ['energy']
 authors: ['Kenn Amdahl']

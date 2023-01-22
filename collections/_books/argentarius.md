@@ -2,6 +2,7 @@
 layout: page-books
 title: Argentarius
 subtitle: Letters of a Bankdirektor to his Son
+atf: true
 essential: 
 categories: ['money']
 authors: ['Alfred Lansburgh']

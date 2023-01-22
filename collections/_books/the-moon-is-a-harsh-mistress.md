@@ -2,6 +2,7 @@
 layout: page-books
 title: The Moon Is A Harsh Mistress
 subtitle: 
+atf: true
 essential: 
 categories: ['fiction']
 authors: ['Robert A. Heinlein']

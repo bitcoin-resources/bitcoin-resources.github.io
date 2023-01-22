@@ -2,6 +2,7 @@
 layout: page-books
 title: The Little Bitcoin Book
 subtitle: Why Bitcoin Matters for Your Freedom, Finances, and Future
+atf: 
 essential: 
 categories: ['non-technical2']
 authors: ['Timi Ajiboye', ' Luis Buenaventura', ' Alex Gladstein', ' Lily Liu', ' Alexander Lloyd', ' Alejandro Machado', ' Jimmy Song', ' Alena Vranova']

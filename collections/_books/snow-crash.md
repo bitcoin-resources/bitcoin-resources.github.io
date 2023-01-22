@@ -2,6 +2,7 @@
 layout: page-books
 title: Snow Crash
 subtitle: 
+atf: true
 essential: 
 categories: ['fiction']
 authors: ['Neal Stephenson']

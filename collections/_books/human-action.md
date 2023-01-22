@@ -2,6 +2,7 @@
 layout: page-books
 title: Human Action
 subtitle: 
+atf: true
 essential: 
 categories: ['economics']
 authors: ['Ludwig von Mises']

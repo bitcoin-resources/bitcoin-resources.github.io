@@ -2,6 +2,7 @@
 layout: page-books
 title: 1980S Unemployment And The Unions
 subtitle: Essays on the Impotent Price Structure of Britain and Monopoly in the Labour Market
+atf: 
 essential: 
 categories: ['']
 authors: ['Friedrich von Hayek']

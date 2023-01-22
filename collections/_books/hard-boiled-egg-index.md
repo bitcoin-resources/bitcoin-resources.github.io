@@ -2,6 +2,7 @@
 layout: page-books
 title: Hard-Boiled Egg Index
 subtitle: Surviving Zimbabwe’s Hyperinflation
+atf: true
 essential: 
 categories: ['inflation']
 authors: ['Kudzai Joseph Gumunyu']

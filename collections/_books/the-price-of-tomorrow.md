@@ -2,6 +2,7 @@
 layout: page-books
 title: The Price Of Tomorrow
 subtitle: Why Deflation is the Key to an Abundant Future
+atf: true
 essential: 
 categories: ['macro']
 authors: ['Jeff Booth']

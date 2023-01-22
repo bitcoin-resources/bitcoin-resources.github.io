@@ -2,6 +2,7 @@
 layout: page-books
 title: True Names
 subtitle: 
+atf: true
 essential: 
 categories: ['fiction']
 authors: ['Vernor Vinge']

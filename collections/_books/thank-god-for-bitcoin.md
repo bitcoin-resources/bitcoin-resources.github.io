@@ -2,6 +2,7 @@
 layout: page-books
 title: Thank God For Bitcoin
 subtitle: The Creation, Corruption and Redemption of Money
+atf: true
 essential: 
 categories: ['morality']
 authors: ['Bitcoin and Bible Group']

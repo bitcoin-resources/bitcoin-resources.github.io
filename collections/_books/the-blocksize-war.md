@@ -2,6 +2,7 @@
 layout: page-books
 title: The Blocksize War
 subtitle: The Battle for Control over Bitcoin’s Protocol Rules
+atf: true
 essential: 
 categories: ['bitcoin-history']
 authors: ['Jonathan Bier']

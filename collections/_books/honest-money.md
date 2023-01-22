@@ -2,6 +2,7 @@
 layout: page-books
 title: Honest Money
 subtitle: Biblical Principles of Money and Banking
+atf: true
 essential: 
 categories: ['morality']
 authors: ['Gary North']

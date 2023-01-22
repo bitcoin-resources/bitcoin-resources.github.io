@@ -2,6 +2,7 @@
 layout: page-books
 title: Cryptoeconomics
 subtitle: Fundamental Principles of Bitcoin
+atf: 
 essential: 
 categories: ['non-technical2']
 authors: ['Eric Voskuil']

@@ -2,6 +2,7 @@
 layout: page-books
 title: How Is Fiat Money Possible
 subtitle: 
+atf: 
 essential: 
 categories: ['money']
 authors: ['Hans-Hermann Hoppe']

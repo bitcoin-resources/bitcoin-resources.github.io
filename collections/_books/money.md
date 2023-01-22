@@ -2,6 +2,7 @@
 layout: page-books
 title: Money
 subtitle: From Its Origins To Our Times - 5 Minute Reading - 5 Years And Up
+atf: true
 essential: 
 categories: ['kids']
 authors: ['Riccardo Siotto']

@@ -2,6 +2,7 @@
 layout: page-books
 title: Bitcoin Money
 subtitle: A Tale of Bitville Discovering Good Money
+atf: true
 essential: 
 categories: ['kids']
 authors: ['Michael Caras']

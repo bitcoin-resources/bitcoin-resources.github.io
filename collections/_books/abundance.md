@@ -2,6 +2,7 @@
 layout: page-books
 title: Abundance
 subtitle: The Future is Better Than You Think
+atf: 
 essential: 
 categories: ['']
 authors: ['Peter Diamandis']

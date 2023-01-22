@@ -2,6 +2,7 @@
 layout: page-books
 title: Why Bitcoin?
 subtitle: 
+atf: 
 essential: 
 categories: ['non-technical2']
 authors: ['Tomer Strolight']

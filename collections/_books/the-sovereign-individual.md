@@ -2,6 +2,7 @@
 layout: page-books
 title: The Sovereign Individual
 subtitle: Mastering the Transition to the Information Age
+atf: true
 essential: 
 categories: ['macro']
 authors: ['James Dale Davidson', ' William Rees-Mogg']

@@ -2,6 +2,7 @@
 layout: page-books
 title: Layered Money
 subtitle: From Gold and Dollars to Bitcoin and Central Bank Digital Currencies 
+atf: true
 essential: 
 categories: ['non-technical2']
 authors: ['Nik Bhatia']

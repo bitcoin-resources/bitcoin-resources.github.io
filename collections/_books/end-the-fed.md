@@ -2,6 +2,7 @@
 layout: page-books
 title: End The Fed
 subtitle: 
+atf: true
 essential: 
 categories: ['banking']
 authors: ['Ron Paul']

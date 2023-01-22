@@ -2,6 +2,7 @@
 layout: page-books
 title: Bitcoin Clarity
 subtitle: The Complete Beginners Guide to Understanding
+atf: 
 essential: 
 categories: ['non-technical2']
 authors: ['Kiara Bickers']

@@ -2,6 +2,7 @@
 layout: page-books
 title: Free Software, Free Society
 subtitle: 
+atf: true
 essential: 
 categories: ['software']
 authors: ['Richard Stallman']

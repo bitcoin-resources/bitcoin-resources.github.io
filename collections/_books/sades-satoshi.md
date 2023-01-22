@@ -2,6 +2,7 @@
 layout: page-books
 title: Sade'S Satoshi
 subtitle: Teaching Your Child About Bitcoin Investing Can Be So Much Fun!
+atf: 
 essential: 
 categories: ['kids']
 authors: ['Charlene Fadirepo']

@@ -2,6 +2,7 @@
 layout: page-books
 title: Atlas Shrugged
 subtitle: 
+atf: true
 essential: 
 categories: ['fiction']
 authors: ['Ayn Rand']

@@ -2,6 +2,7 @@
 layout: page-books
 title: The Machinery Of Freedom
 subtitle: Guide to a Radical Capitalism
+atf: true
 essential: 
 categories: ['economics']
 authors: ['David D. Friedman']

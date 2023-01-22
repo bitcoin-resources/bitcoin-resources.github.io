@@ -2,6 +2,7 @@
 layout: page-books
 title: Rhyming Bitcoin
 subtitle: 
+atf: true
 essential: 
 categories: ['kids']
 authors: ['Brekkie']

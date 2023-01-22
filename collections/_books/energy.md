@@ -2,6 +2,7 @@
 layout: page-books
 title: Energy
 subtitle: A Human History 
+atf: true
 essential: 
 categories: ['energy']
 authors: ['Richard Rhodes']

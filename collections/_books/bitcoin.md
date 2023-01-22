@@ -2,6 +2,7 @@
 layout: page-books
 title: Bitcoin
 subtitle: Sovereignty through mathematics
+atf: 
 essential: 
 categories: ['non-technical2']
 authors: ['Knut Svanholm']

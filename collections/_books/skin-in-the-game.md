@@ -2,6 +2,7 @@
 layout: page-books
 title: Skin In The Game
 subtitle: Hidden Asymmetries in Daily Life
+atf: true
 essential: 
 categories: ['taleb']
 authors: ['Nassim Nicholas Taleb']

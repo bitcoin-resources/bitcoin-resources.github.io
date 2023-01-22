@@ -2,6 +2,7 @@
 layout: page-books
 title: The Bullish Case For Bitcoin
 subtitle: 
+atf: true
 essential: true
 categories: ['non-technical']
 authors: ['Vijay Boyapati']

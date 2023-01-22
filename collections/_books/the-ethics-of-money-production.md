@@ -2,6 +2,7 @@
 layout: page-books
 title: The Ethics Of Money Production
 subtitle: 
+atf: true
 essential: true
 categories: ['morality']
 authors: ['Jörg Guido Hülsmann']

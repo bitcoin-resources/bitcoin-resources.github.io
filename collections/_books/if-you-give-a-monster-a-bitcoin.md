@@ -2,6 +2,7 @@
 layout: page-books
 title: If You Give A Monster A Bitcoin
 subtitle: 
+atf: true
 essential: 
 categories: ['kids']
 authors: ['Scott and Mallory Sibley']

@@ -2,6 +2,7 @@
 layout: page-books
 title: Energy And Civilization
 subtitle: A History
+atf: true
 essential: 
 categories: ['energy']
 authors: ['Vaclav Smil']

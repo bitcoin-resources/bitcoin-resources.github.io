@@ -2,6 +2,7 @@
 layout: page-books
 title: Bitcoin Alpha V0.01
 subtitle: The Original Bitcoin Source Code
+atf: 
 essential: 
 categories: ['bitcoin-history']
 authors: ['Pirate Hash']

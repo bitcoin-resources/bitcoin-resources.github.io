@@ -2,6 +2,7 @@
 layout: page-books
 title: Antifragile
 subtitle: Things That Gain From Disorder
+atf: true
 essential: 
 categories: ['taleb']
 authors: ['Nassim Nicholas Taleb']

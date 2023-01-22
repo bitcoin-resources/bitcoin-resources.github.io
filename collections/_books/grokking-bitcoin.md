@@ -2,6 +2,7 @@
 layout: page-books
 title: Grokking Bitcoin
 subtitle: 
+atf: true
 essential: 
 categories: ['technical']
 authors: ['Kalle Rosenbaum']

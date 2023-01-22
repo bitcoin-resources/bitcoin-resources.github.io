@@ -2,6 +2,7 @@
 layout: page-books
 title: The Cathedral And The Bazaar
 subtitle: 
+atf: true
 essential: 
 categories: ['software']
 authors: ['Eric S. Raymond']

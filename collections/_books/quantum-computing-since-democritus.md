@@ -2,6 +2,7 @@
 layout: page-books
 title: Quantum Computing Since Democritus
 subtitle: 
+atf: true
 essential: 
 categories: ['computation']
 authors: ['Scott Aaronson']

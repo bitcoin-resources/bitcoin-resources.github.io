@@ -2,6 +2,7 @@
 layout: page-books
 title: The Black Swan
 subtitle: The Impact of the Highly Improbable
+atf: true
 essential: 
 categories: ['taleb']
 authors: ['Nassim Nicholas Taleb']

@@ -2,6 +2,7 @@
 layout: page-books
 title: Fooled By Randomness
 subtitle: The Hidden Role of Chance in Life and in the Markets
+atf: true
 essential: 
 categories: ['taleb']
 authors: ['Nassim Nicholas Taleb']

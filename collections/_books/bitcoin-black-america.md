@@ -2,6 +2,7 @@
 layout: page-books
 title: Bitcoin & Black America
 subtitle: 
+atf: 
 essential: 
 categories: ['non-technical2']
 authors: ['Isaiah Jackson']

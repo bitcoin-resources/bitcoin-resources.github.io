@@ -2,6 +2,7 @@
 layout: page-books
 title: Economic Depressions
 subtitle: Their Cause and Cure
+atf: 
 essential: 
 categories: ['']
 authors: ['Murray N. Rothbard']

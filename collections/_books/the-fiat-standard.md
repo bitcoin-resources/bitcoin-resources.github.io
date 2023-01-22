@@ -2,6 +2,7 @@
 layout: page-books
 title: The Fiat Standard
 subtitle: The Debt Slavery Alternative to Human Civilization
+atf: true
 essential: 
 categories: ['money']
 authors: ['Saifedean Ammous']

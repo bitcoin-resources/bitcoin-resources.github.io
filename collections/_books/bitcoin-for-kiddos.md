@@ -2,6 +2,7 @@
 layout: page-books
 title: Bitcoin For Kiddos
 subtitle: The story of Bitcoin
+atf: 
 essential: 
 categories: ['kids']
 authors: ['Chris and Frieda Bobay']

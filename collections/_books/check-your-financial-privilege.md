@@ -2,6 +2,7 @@
 layout: page-books
 title: Check Your Financial Privilege
 subtitle: Inside the Global Bitcoin Revolution
+atf: true
 essential: 
 categories: ['non-technical2']
 authors: ['Alex Gladstein']

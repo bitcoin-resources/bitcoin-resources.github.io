@@ -2,6 +2,7 @@
 layout: page-books
 title: Cypherpunks
 subtitle: Freedom and the Future of the Internet
+atf: true
 essential: 
 categories: ['bitcoin-history']
 authors: ['Jacob Appelbaum', ' Julian Assange', ' Andy Zimmermann']

@@ -2,6 +2,7 @@
 layout: page-books
 title: Why Buy Bitcoin
 subtitle: Investing Today in the Money of Tomorrow
+atf: 
 essential: 
 categories: ['non-technical2']
 authors: ['Andy Edstrom']

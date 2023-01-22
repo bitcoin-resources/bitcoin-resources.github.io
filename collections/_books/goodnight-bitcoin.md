@@ -2,6 +2,7 @@
 layout: page-books
 title: Goodnight Bitcoin
 subtitle: 
+atf: 
 essential: 
 categories: ['kids']
 authors: ['Scott and Mallory Sibley']

@@ -2,6 +2,7 @@
 layout: page-books
 title: Debt
 subtitle: The First 5,000 Years
+atf: 
 essential: 
 categories: ['money']
 authors: ['David Graeber']

@@ -2,6 +2,7 @@
 layout: page-books
 title: Fiat Money Inflation In France
 subtitle: How It Came, What It Brought, and How It Ended
+atf: true
 essential: 
 categories: ['inflation']
 authors: ['Andrew Dickson White']
