@@ -22,7 +22,7 @@ for row in books.get_all_values():
         continue
 
     resource_categories = row[0].split(',')
-    resource_type = row[1].lower()
+    resource_atf = row[1].lower()
     resource_essential = row[2].lower()
     resource_title = row[3].title().replace(":", "&#58")
     resource_subtitle = row[4].replace(":", "&#58")
@@ -54,6 +54,7 @@ for row in books.get_all_values():
                 f"layout: page-{resource_type}\n"
                 f"title: {resource_title}\n"
                 f"subtitle: {resource_subtitle}\n"
+                f"atf: {resource_atf}\n"
                 f"essential: {resource_essential}\n"
                 f"categories: {resource_categories}\n"
                 f"authors: {resource_authors}\n"
