@@ -7,7 +7,8 @@ description: Curated Bitcoin books.
 
 
 {% for cat in site.categories %}
-## {{ cat.name }}
+
+## {{ cat }} {{ cat.name }}
 
 {{ cat.text }}
 
