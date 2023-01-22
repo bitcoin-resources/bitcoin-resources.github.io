@@ -51,7 +51,7 @@ for row in books.get_all_values():
 
     md_file = (
                 f"---\n"
-                f"layout: page-{resource_type}\n"
+                f"layout: page-books\n"
                 f"title: {resource_title}\n"
                 f"subtitle: {resource_subtitle}\n"
                 f"atf: {resource_atf}\n"
