@@ -2,7 +2,7 @@
 layout: page-books
 title: What Has Government Done To Our Money
 subtitle: 
-atf: 
+atf: true
 essential: 
 categories: ['money']
 authors: ['Murray Rothbard']

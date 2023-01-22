@@ -2,7 +2,7 @@
 layout: page-books
 title: Money, Sound And Unsound
 subtitle: 
-atf: true
+atf: 
 essential: 
 categories: ['money']
 authors: ['Joseph Salerno']
