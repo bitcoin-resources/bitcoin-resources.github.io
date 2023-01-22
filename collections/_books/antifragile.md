@@ -4,7 +4,7 @@ title: Antifragile
 subtitle: Things That Gain From Disorder
 atf: true
 essential: 
-categories: ['taleb']
+category: taleb
 authors: ['Nassim Nicholas Taleb']
 authors_twitter: ['https://twitter.com/nntaleb']
 resource_url: https://www.penguinrandomhouse.com/books/176227/antifragile-by-nassim-nicholas-taleb/

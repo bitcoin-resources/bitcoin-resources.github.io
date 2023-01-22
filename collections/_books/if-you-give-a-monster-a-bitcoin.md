@@ -4,7 +4,7 @@ title: If You Give A Monster A Bitcoin
 subtitle: 
 atf: true
 essential: 
-categories: ['kids']
+category: kids
 authors: ['Scott and Mallory Sibley']
 authors_twitter: ['https://twitter.com/PlaySHAmory/']
 resource_url: https://shamory.com/product/if-you-give-a-monster-a-bitcoin-book/

@@ -4,7 +4,7 @@ title: Independence Reimagined
 subtitle: 
 atf: 
 essential: 
-categories: ['non-technical']
+category: non-technical
 authors: ['Knut Svanholm']
 authors_twitter: ['https://twitter.com/knutsvanholm/']
 resource_url: 

@@ -4,7 +4,7 @@ title: True Names
 subtitle: 
 atf: true
 essential: 
-categories: ['fiction']
+category: fiction
 authors: ['Vernor Vinge']
 authors_twitter: 
 resource_url: 

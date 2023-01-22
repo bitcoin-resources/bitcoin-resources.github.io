@@ -4,7 +4,7 @@ title: Bitcoin Is Venice
 subtitle: Essays on the Past and Future of Capitalism
 atf: 2
 essential: 
-categories: ['non-technical']
+category: non-technical
 authors: ['Allen Farrington', ' Sacha Meyers']
 authors_twitter: ['https://twitter.com/allenf32/']
 resource_url: https://www.uncerto.com/book-pdf

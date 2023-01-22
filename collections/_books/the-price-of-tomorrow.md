@@ -4,7 +4,7 @@ title: The Price Of Tomorrow
 subtitle: Why Deflation is the Key to an Abundant Future
 atf: true
 essential: 
-categories: ['macro']
+category: macro
 authors: ['Jeff Booth']
 authors_twitter: ['https://twitter.com/JeffBooth']
 resource_url: https://thepriceoftomorrow.com/

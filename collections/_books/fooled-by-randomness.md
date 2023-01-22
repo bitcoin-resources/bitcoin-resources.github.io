@@ -4,7 +4,7 @@ title: Fooled By Randomness
 subtitle: The Hidden Role of Chance in Life and in the Markets
 atf: true
 essential: 
-categories: ['taleb']
+category: taleb
 authors: ['Nassim Nicholas Taleb']
 authors_twitter: ['https://twitter.com/nntaleb']
 resource_url: https://www.fooledbyrandomness.com/

@@ -4,7 +4,7 @@ title: Digital Gold
 subtitle: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money
 atf: true
 essential: 
-categories: ['bitcoin-history']
+category: bitcoin-history
 authors: ['Nathaniel Popper']
 authors_twitter: ['https://twitter.com/nathanielpopper']
 resource_url: 

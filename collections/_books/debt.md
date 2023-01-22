@@ -4,7 +4,7 @@ title: Debt
 subtitle: The First 5,000 Years
 atf: 
 essential: 
-categories: ['money']
+category: money
 authors: ['David Graeber']
 authors_twitter: ['https://twitter.com/davidgraeber']
 resource_url: https://davidgraeber.org/books/debt-the-first-5000-years/

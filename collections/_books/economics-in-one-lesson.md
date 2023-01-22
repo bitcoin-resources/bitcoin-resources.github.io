@@ -4,7 +4,7 @@ title: Economics In One Lesson
 subtitle: 
 atf: true
 essential: true
-categories: ['economics']
+category: economics
 authors: ['Henry Hazlitt']
 authors_twitter: 
 resource_url: https://mises.org/library/economics-one-lesson

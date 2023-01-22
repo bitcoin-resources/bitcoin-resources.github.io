@@ -4,7 +4,7 @@ title: There Are No Electrons
 subtitle: Electronics for Earthlings
 atf: 
 essential: 
-categories: ['energy']
+category: energy
 authors: ['Kenn Amdahl']
 authors_twitter: ['https://twitter.com/kennamdahl']
 resource_url: http://www.clearwaterpublishing.com/there-are-no-electrons-electronics-for-earthling/

@@ -4,7 +4,7 @@ title: The Ethics Of Money Production
 subtitle: 
 atf: true
 essential: true
-categories: ['morality']
+category: morality
 authors: ['Jörg Guido Hülsmann']
 authors_twitter: 
 resource_url: https://mises.org/library/ethics-money-production

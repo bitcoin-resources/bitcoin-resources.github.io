@@ -4,7 +4,7 @@ title: The Lessons Of History
 subtitle: 
 atf: true
 essential: 
-categories: ['macro']
+category: macro
 authors: ['Will Durant', ' Ariel Durant']
 authors_twitter: 
 resource_url: 

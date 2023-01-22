@@ -4,7 +4,7 @@ title: Cryptoeconomics
 subtitle: Fundamental Principles of Bitcoin
 atf: 
 essential: 
-categories: ['non-technical']
+category: non-technical
 authors: ['Eric Voskuil']
 authors_twitter: ['https://twitter.com/evoskuil']
 resource_url: https://voskuil.org/cryptoeconomics/index.html

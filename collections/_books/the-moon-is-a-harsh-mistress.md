@@ -4,7 +4,7 @@ title: The Moon Is A Harsh Mistress
 subtitle: 
 atf: true
 essential: 
-categories: ['fiction']
+category: fiction
 authors: ['Robert A. Heinlein']
 authors_twitter: 
 resource_url: 

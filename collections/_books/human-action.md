@@ -4,7 +4,7 @@ title: Human Action
 subtitle: 
 atf: true
 essential: 
-categories: ['economics']
+category: economics
 authors: ['Ludwig von Mises']
 authors_twitter: 
 resource_url: https://mises.org/library/human-action-0

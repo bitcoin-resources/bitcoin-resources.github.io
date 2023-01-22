@@ -4,7 +4,7 @@ title: Cypherpunks
 subtitle: Freedom and the Future of the Internet
 atf: true
 essential: 
-categories: ['bitcoin-history']
+category: bitcoin-history
 authors: ['Jacob Appelbaum', ' Julian Assange', ' Andy Zimmermann']
 authors_twitter: ['https://twitter.com/ioerror']
 resource_url: https://cryptome.wikileaks.org/2012/12/assange-crypto-arms.htm

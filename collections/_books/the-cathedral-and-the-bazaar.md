@@ -4,7 +4,7 @@ title: The Cathedral And The Bazaar
 subtitle: 
 atf: true
 essential: 
-categories: ['software']
+category: software
 authors: ['Eric S. Raymond']
 authors_twitter: 
 resource_url: 

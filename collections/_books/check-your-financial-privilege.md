@@ -4,7 +4,7 @@ title: Check Your Financial Privilege
 subtitle: Inside the Global Bitcoin Revolution
 atf: 2
 essential: 
-categories: ['non-technical']
+category: non-technical
 authors: ['Alex Gladstein']
 authors_twitter: ['https://twitter.com/gladstein/']
 resource_url: https://alexgladstein.com/

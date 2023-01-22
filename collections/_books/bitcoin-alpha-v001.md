@@ -4,7 +4,7 @@ title: Bitcoin Alpha V0.01
 subtitle: The Original Bitcoin Source Code
 atf: 
 essential: 
-categories: ['bitcoin-history']
+category: bitcoin-history
 authors: ['Pirate Hash']
 authors_twitter: ['https://twitter.com/piratehash']
 resource_url: https://piratehash.com/product/bitcoin-alpha-v0-01/

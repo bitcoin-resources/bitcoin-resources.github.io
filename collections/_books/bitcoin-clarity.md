@@ -4,7 +4,7 @@ title: Bitcoin Clarity
 subtitle: The Complete Beginners Guide to Understanding
 atf: 2
 essential: 
-categories: ['non-technical']
+category: non-technical
 authors: ['Kiara Bickers']
 authors_twitter: ['https://twitter.com/kiarabickers']
 resource_url: https://getbitcoinclarity.com/

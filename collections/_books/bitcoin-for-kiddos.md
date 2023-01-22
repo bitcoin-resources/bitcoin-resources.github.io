@@ -4,7 +4,7 @@ title: Bitcoin For Kiddos
 subtitle: The story of Bitcoin
 atf: 
 essential: 
-categories: ['kids']
+category: kids
 authors: ['Chris and Frieda Bobay']
 authors_twitter: 
 resource_url: https://btcpublish.com/products/bitcoin-for-kiddos-book

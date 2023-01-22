@@ -4,7 +4,7 @@ title: The Pragmatic Programmer
 subtitle: 
 atf: 
 essential: 
-categories: ['software']
+category: software
 authors: ['Andy Hunt', ' Dave Thomas']
 authors_twitter: 
 resource_url: 

@@ -4,7 +4,7 @@ title: When Money Dies
 subtitle: The Nightmare of Deficit Spending, Devaluation, and Hyperinflation in Weimar, Germany
 atf: true
 essential: 
-categories: ['inflation']
+category: inflation
 authors: ['Adam Fergusson']
 authors_twitter: 
 resource_url: 

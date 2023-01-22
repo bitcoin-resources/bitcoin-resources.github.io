@@ -4,7 +4,7 @@ title: Fiat Money Inflation In France
 subtitle: How It Came, What It Brought, and How It Ended
 atf: true
 essential: 
-categories: ['inflation']
+category: inflation
 authors: ['Andrew Dickson White']
 authors_twitter: 
 resource_url: https://mises.org/library/fiat-money-inflation-france

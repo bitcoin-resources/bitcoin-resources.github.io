@@ -4,7 +4,7 @@ title: Fahrenheit 451
 subtitle: 
 atf: 
 essential: 
-categories: ['fiction']
+category: fiction
 authors: ['Ray Bradbury']
 authors_twitter: 
 resource_url: 

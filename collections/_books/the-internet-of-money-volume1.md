@@ -4,7 +4,7 @@ title: The Internet Of Money (Volume 1)
 subtitle: 
 atf: true
 essential: 
-categories: ['aantonop']
+category: aantonop
 authors: ['Andreas Antonopoulos']
 authors_twitter: ['https://twitter.com/aantonop']
 resource_url: https://theinternetofmoney.info/

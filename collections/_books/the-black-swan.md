@@ -4,7 +4,7 @@ title: The Black Swan
 subtitle: The Impact of the Highly Improbable
 atf: true
 essential: 
-categories: ['taleb']
+category: taleb
 authors: ['Nassim Nicholas Taleb']
 authors_twitter: ['https://twitter.com/nntaleb']
 resource_url: https://www.penguinrandomhouse.com/books/176226/the-black-swan-second-edition-by-nassim-nicholas-taleb/

@@ -4,7 +4,7 @@ title: Thank God For Bitcoin
 subtitle: The Creation, Corruption and Redemption of Money
 atf: true
 essential: 
-categories: ['morality']
+category: morality
 authors: ['Bitcoin and Bible Group']
 authors_twitter: ['https://twitter.com/ThankGodForBTC']
 resource_url: https://tgfb.com/

@@ -4,7 +4,7 @@ title: The Machinery Of Freedom
 subtitle: Guide to a Radical Capitalism
 atf: true
 essential: 
-categories: ['economics']
+category: economics
 authors: ['David D. Friedman']
 authors_twitter: 
 resource_url: http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf
