@@ -29,7 +29,7 @@ collections:
   categories:
     title: Book Categories
     output: true
-    permalink: /books/categories/:category
+    permalink: /books/categories/:slug
   episodes:
     title: Episodes
     output: true
