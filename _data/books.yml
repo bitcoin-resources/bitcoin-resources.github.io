@@ -1,0 +1,33 @@
+categories:
+  - name: General Bitcoin Books
+    short:  non-technical
+  - name: Bitcoin and Cypherpunk History
+    short: bitcoin-history
+  - name: Bitcoin Books for Kids
+    short: kids
+  - name: Bitcoin Programming
+    short: technical
+  - name: Economics
+    short: economics
+  - name: Money
+    short: money
+  - name: Inflation
+    short: inflation
+  - name: Banking
+    short: banking
+  - name: Morality
+    short: morality
+  - name: Energy
+    short: energy
+  - name: The Big Picture
+    short: macro
+  - name: Fiction
+    short: fiction
+  - name: Software and Programming
+    short: software
+  - name: Computation and Complexity Theory
+    short: computation
+  - name: Nassim Taleb
+    short: taleb
+  - name: Work
+    short: work
