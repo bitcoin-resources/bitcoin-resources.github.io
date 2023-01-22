@@ -45,7 +45,7 @@ for row in books.get_all_values():
     resource_description = row[18]
     resource_goodreads = row[19]
 
-    md_file_path = title_to_file_path(resource_title, resource_type)
+    md_file_path = title_to_file_path(resource_title, "books")
     if md_file_path == "":
         continue
 
