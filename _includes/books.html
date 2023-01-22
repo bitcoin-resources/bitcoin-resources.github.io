@@ -4,8 +4,8 @@
 {% assign category = site.books | where: 'categories', include.category | sort: 'rating_order' | reverse %}
 {% endif %}
 
-{% if include.above_the_fold == true %}
-{% assign category = category | where: 'atf', true %}
+{% if include.above_the_fold %}
+{% assign category = category | where: 'atf', include.above_the_fold %}
 {% endif %}
 
 <ul class="books">

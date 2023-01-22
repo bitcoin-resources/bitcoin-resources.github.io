@@ -29,7 +29,14 @@ Jump to the [table of contents](#toc) to get an overview of the various sections
 {% capture my_include %}{% include category-{{ cat.short }}.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
+
+{% if cat.short=="non-technical" %}
+{% include books.html category=cat.short above_the_fold=1 %}
+{% include books.html category=cat.short above_the_fold=2 %}
+{% else %}
 {% include books.html category=cat.short above_the_fold=true %}
+{% endif %}
+
 
 [View all books in {{ cat.title }} »]({{ cat.url }})
 
