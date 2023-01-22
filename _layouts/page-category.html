@@ -13,16 +13,13 @@ layout: default
       <div class="grid">
         <div id="markdown">
           <p>
-            {{ page.text }}
+            {% capture my_include %}{% include category-{{ page.short }}.md %}{% endcapture %}
+            {{ my_include | markdownify }}
           </p>
-          {{content}}
             {% include books.html category=page.short %}
           <hr/>
           <p>
-            <a href="{{ '/books/' | absolute_url }}#{{ page.short }}">« Back to '{{ page.title }}' section</a>
-          </p>
-          <p>
-            <a href="{{ '/books' | absolute_url }}">« Back to all books</a>
+            <a href="{{ '/books/' | absolute_url }}#{{ page.title | slugify }}">« Back to all books</a>
           </p>
         </div>
       </div>
