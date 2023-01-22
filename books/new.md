@@ -1,22 +1,15 @@
 ---
 layout: resources
-title: Bitcoin Book Wall
+title: New Book Site
 image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Curated Bitcoin books.
 ---
 
 
 {% for cat in site.categories %}
-
-## {{ cat }} {{ cat.name }}
-
-{{ cat.text }}
-
+## {{ cat.title }}
 {% include books.html category=cat.short %}
-
 {% endfor %}
-
-{% include books.html %}
 
 ---
 
