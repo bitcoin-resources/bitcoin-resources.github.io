@@ -44,6 +44,21 @@ Jump to the [table of contents](#toc) to get an overview of the various sections
 
 ---
 
+## List of All Books
+
+For you CTRL+F freaks.
+
+Also make sure to check out [bitcoiner books](https://www.bitcoinerbooks.com/)
+and [JBP's list of great books](https://www.jordanbpeterson.com/great-books/).
+
+{% include books-list.html %}
+
+[View book wall »][books-wall]
+
+[books-wall]: {{ '/books/wall' | absolute_url }}
+
+---
+
 [« back to overview][index]
 
 [index]: {{ '/books' | absolute_url }}
