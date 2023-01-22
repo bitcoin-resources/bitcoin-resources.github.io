@@ -26,6 +26,10 @@ collections:
     title: Books
     output: true
     permalink: /books/:slug
+  categories:
+    title: Book Categories
+    output: true
+    permalink: /books/categories/:category
   episodes:
     title: Episodes
     output: true
