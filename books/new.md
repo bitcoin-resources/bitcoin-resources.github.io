@@ -5,10 +5,19 @@ image: /assets/images/bitcoin-resources-twitter-cover.png
 description: Curated Bitcoin books.
 ---
 
+{% assign sorted_categories = site.categories | sort: 'order' %}
 
-{% for cat in site.categories %}
+{% for cat in sorted_categories %}
+
 ## {{ cat.title }}
-{% include books.html category=cat.short %}
+
+{% capture my_include %}{% include category-{{ cat.short }}.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+{% include books.html category=cat.short above_the_fold=true %}
+
+[View all books in {{ cat.title }} »]({{ cat.url }})
+
 {% endfor %}
 
 ---
