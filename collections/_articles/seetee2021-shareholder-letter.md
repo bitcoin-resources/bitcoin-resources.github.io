@@ -9,7 +9,7 @@ lesson:
 audio: https://anchor.fm/thecryptoconomy/episodes/Read_504---SeeTee-Shareholder-Letter-Kjell-Inge-Rkke-es53ie
 audio2: 
 audio3: 
-star: TRUE
+star: 
 archive: https://archive.ph/6vGBR
 series: 
 seriesnr: 
