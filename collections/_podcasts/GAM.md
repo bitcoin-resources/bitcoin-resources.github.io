@@ -12,6 +12,6 @@ rss: ['https://anchor.fm/s/49ef8870/podcast/rss']
 rank: 
 twitter: https://twitter.com/GAMdotAI
 youtube: 
-level: Advanced
-tags: ['mining', 'interviews']
+level: 
+tags: ['inactive']
 ---

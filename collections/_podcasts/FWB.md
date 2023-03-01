@@ -12,6 +12,6 @@ rss: ['https://anchor.fm/s/889e768/podcast/rss']
 rank: 
 twitter: https://twitter.com/Coinicarus
 youtube: https://www.youtube.com/channel/UCa0ZTLukeshFoZYmYvQfLHw
-level: Beginner
-tags: ['interviews', 'pleb']
+level: 
+tags: ['inactive']
 ---

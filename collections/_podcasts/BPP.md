@@ -12,6 +12,6 @@ rss: ['https://pod.link/1587588985.rss']
 rank: 
 twitter: https://twitter.com/bitcoinblonde_
 youtube: https://www.youtube.com/channel/UCsoMrItUFraj67Pq5JflIag
-level: Beginner
-tags: ['interviews']
+level: 
+tags: ['inactive']
 ---

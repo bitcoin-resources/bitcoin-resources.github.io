@@ -12,6 +12,6 @@ rss: ['https://pod.link/1583954900.rss']
 rank: 
 twitter: https://twitter.com/satosheshow
 youtube: 
-level: Beginner
-tags: ['interviews']
+level: 
+tags: ['inactive']
 ---

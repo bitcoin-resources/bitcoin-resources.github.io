@@ -12,6 +12,6 @@ rss: ['https://feeds.buzzsprout.com/263522.rss']
 rank: 
 twitter: https://twitter.com/reckless_review
 youtube: 
-level: Advanced
-tags: ['entertainment', 'technical']
+level: 
+tags: ['inactive']
 ---

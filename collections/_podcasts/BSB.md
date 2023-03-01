@@ -12,6 +12,6 @@ rss: ['https://anchor.fm/s/85e0e68/podcast/rss']
 rank: 
 twitter: https://twitter.com/BottomshelfBTC
 youtube: https://www.youtube.com/channel/UC-vAqJTaPrkCqD0zfpT_6PQ
-level: Intermediate
-tags: ['community', 'interviews']
+level: 
+tags: ['inactive']
 ---
