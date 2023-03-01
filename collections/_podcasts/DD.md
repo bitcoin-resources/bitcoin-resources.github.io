@@ -12,6 +12,6 @@ rss: ['https://meetup.bitcoinenemies.com/@dirtcoin/feed.xml']
 rank: 
 twitter: https://twitter.com/bitcoinenemies
 youtube: 
-level: Specialized
-tags: ['technical', 'privacy']
+level: 
+tags: ['inactive']
 ---

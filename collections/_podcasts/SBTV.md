@@ -12,6 +12,6 @@ rss: ['https://anchor.fm/s/717a2198/podcast/rss']
 rank: 
 twitter: https://twitter.com/SimplyBitcoinTV
 youtube: 
-level: Intermediate
-tags: ['pleb', 'entertainment', 'news']
+level: 
+tags: ['inactive']
 ---

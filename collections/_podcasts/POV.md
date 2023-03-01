@@ -12,6 +12,6 @@ rss: ['http://povcryptopod.btc.libsynpro.com/rss']
 rank: 
 twitter: https://twitter.com/POVCryptoPod
 youtube: https://www.youtube.com/channel/UC6KH0zR25FufHeMexvGq8tQ
-level: Advanced
-tags: ['shitcoinery']
+level: 
+tags: ['inactive']
 ---

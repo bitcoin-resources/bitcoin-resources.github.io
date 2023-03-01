@@ -12,6 +12,6 @@ rss: ['https://podcasts.files.bbci.co.uk/p07nkd84.rss']
 rank: 
 twitter: https://twitter.com/JamieJBartlett
 youtube: 
-level: Specialized
-tags: ['shitcoinery', 'drama']
+level: 
+tags: ['inactive']
 ---

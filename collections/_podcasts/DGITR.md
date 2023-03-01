@@ -12,6 +12,6 @@ rss: ['https://pod.link/1568975671.rss']
 rank: 
 twitter: https://twitter.com/e3btc
 youtube: https://www.youtube.com/channel/UC3whbC4jYlOG1ZyeF61sNNw
-level: Beginner
-tags: ['interviews']
+level: 
+tags: ['inactive']
 ---

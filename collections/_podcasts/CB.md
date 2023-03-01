@@ -12,6 +12,6 @@ rss: ['https://feeds.simplecast.com/620_gQYv']
 rank: 
 twitter: https://twitter.com/CitizenBitcoin
 youtube: https://www.youtube.com/channel/UCi_fqW5K7-eLUXcLU-dR3eQ
-level: Beginner
-tags: ['interviews']
+level: 
+tags: ['inactive']
 ---

@@ -12,6 +12,6 @@ rss: ['https://feeds.megaphone.fm/CAD9217580361']
 rank: 
 twitter: https://twitter.com/exitscampod
 youtube: 
-level: Specialized
-tags: ['entertainment', 'drama']
+level: 
+tags: ['inactive']
 ---
