@@ -14,7 +14,7 @@ free_url:
 summary_url: 
 rating_order: 
 lesson: ['']
-quote: ""
+quote: "The problem with fiat is that simply maintaining the wealth you already own requires significant active management and expert decision-making. You need to develop expertise in portfolio allocation, risk management, stock and bond valuation, real estate markets, credit markets, global macro trends, national and international monetary policy, commodity markets, geopolitics, and many other arcane and highly specialized fields in order to make informed investment decisions that allow you to maintain the wealth you already earned. You effectively need to earn your money twice with fiat, once when you work for it, and once when you invest it to beat inflation. The simple gold coin saved you from all of this before fiat."
 audio_url: https://amzn.to/3MBXgEt
 free_audio_url: 
 goodreads_url: https://www.goodreads.com/book/show/59539733-the-fiat-standard
