@@ -40,5 +40,12 @@
         "order": 60,
         "fav": false,
         "link": "https://opsecswag.com/"
+    },
+    {
+        "name": "twentyone.world",
+        "code": "TW",
+        "order": 70,
+        "fav": true,
+        "link": "https://twentyone.world/"
     }
 ]
