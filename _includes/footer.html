@@ -19,7 +19,7 @@
           Sister projects:
           {% for proj in site.data.projects %}
           {% if site.code == proj.code %}{% continue %}{% endif %}
-          {% if proj.fav %}<a href="{{ proj.link }}">{{ proj.name }}</a> ·{% endif %}
+          <a href="{{ proj.link }}">{{ proj.name }}</a> ·
           {% endfor %}
           & <a href="https://dergigi.com/projects">more…</a>
         </small>
