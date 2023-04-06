@@ -17,10 +17,11 @@
       <p class="sister_projects">
         <small>
           Sister projects:
-          <a href="https://www.patreon.com/dergigi">21 Ways</a> ·
-          <a href="https://21lessons.com">21 Lessons</a> ·
-          <a href="https://www.bitcoin-quotes.com">Bitcoin Quotes</a> ·
-          <a href="https://opsecswag.com/">Opsec Swag</a>
+          {% for proj in site.data.projects %}
+          {% if site.code == proj.code %}{% continue %}{% endif %}
+          <a href="{{ proj.link }}">{{ proj.name }}</a> ·
+          {% endfor %}
+          & <a href="https://dergigi.com/projects">more…</a>
         </small>
       </p>
       <p class="license">
