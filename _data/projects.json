@@ -1,12 +1,5 @@
 [
     {
-        "name": "dergigi.com",
-        "code": "DG",
-        "order": 0,
-        "fav": true,
-        "link": "https://dergigi.com/"
-    },
-    {
         "name": "21 Lessons",
         "code": "21L",
         "order": 10,
