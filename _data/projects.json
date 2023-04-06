@@ -1,0 +1,51 @@
+[
+    {
+        "name": "dergigi.com",
+        "code": "DG",
+        "order": 0,
+        "fav": true,
+        "link": "https://dergigi.com/"
+    },
+    {
+        "name": "21 Lessons",
+        "code": "21L",
+        "order": 10,
+        "fav": true,
+        "link": "https://21lessons.com/"
+    },
+    {
+        "name": "21 Ways",
+        "code": "21W",
+        "order": 20,
+        "fav": true,
+        "link": "https://21-ways.com/"
+    },
+    {
+        "name": "nostr Resources",
+        "code": "NR",
+        "order": 30,
+        "fav": true,
+        "link": "https://nostr-resources.com/"
+    },
+    {
+        "name": "Bitcoin Resources",
+        "code": "BR",
+        "order": 40,
+        "fav": true,
+        "link": "https://bitcoin-resources.com/"
+    },
+    {
+        "name": "Bitcoin Quotes",
+        "code": "BQ",
+        "order": 50,
+        "fav": false,
+        "link": "https://bitcoin-quotes.com/"
+    },
+    {
+        "name": "Opsec Swag",
+        "code": "OPSS",
+        "order": 60,
+        "fav": false,
+        "link": "https://opsecswag.com/"
+    }
+]
