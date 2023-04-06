@@ -26,7 +26,7 @@ jobs:
         packages: virtualenv
 
     # Runs a set of commands using the runners shell
-    - name: Update Resources
+    - name: Update Sister Projects
       shell: bash
       run: |
         echo Fetching projects from dergigi.com...
