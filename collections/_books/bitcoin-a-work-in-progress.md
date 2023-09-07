@@ -2,7 +2,7 @@
 layout: page-books
 title: Bitcoin, A Work In Progress
 subtitle: Technical Innovations from the Trenches
-atf: 
+atf: true
 essential: 
 category: technical
 authors: ['Sjors Provoost']
