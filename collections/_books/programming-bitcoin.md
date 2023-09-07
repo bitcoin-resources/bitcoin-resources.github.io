@@ -10,7 +10,7 @@ authors_twitter: ['https://twitter.com/jimmysong']
 resource_url: 
 amazon_url: https://amzn.to/2wSIqrI
 wikipedia_url: 
-free_url: 
+free_url: https://github.com/jimmysong/programmingbitcoin
 summary_url: 
 rating_order: 8
 lesson: ['']
