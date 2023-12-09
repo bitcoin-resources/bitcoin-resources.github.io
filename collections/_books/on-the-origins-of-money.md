@@ -2,7 +2,7 @@
 layout: page-books
 title: On The Origins Of Money
 subtitle: 
-atf: true
+atf: 
 essential: 
 category: money
 authors: ['Carl Menger']
