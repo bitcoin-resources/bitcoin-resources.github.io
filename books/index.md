@@ -48,8 +48,7 @@ Jump to the [table of contents](#toc) to get an overview of the various sections
 
 For you CTRL+F freaks.
 
-Also make sure to check out [bitcoiner books](https://www.bitcoinerbooks.com/)
-and [JBP's list of great books](https://www.jordanbpeterson.com/great-books/).
+Also make sure to check out [bitcoiner books](https://www.bitcoinerbooks.com/), [JBP's list of great books](https://www.jordanbpeterson.com/great-books/) and [Athena Alpha's list of Books](https://www.athena-alpha.com/books/).
 
 {% include books-list.html %}
 
