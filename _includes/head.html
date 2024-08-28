@@ -13,6 +13,18 @@
     {{ site.title | escape }}
   {% endif %}
 {% endcapture %}
+
+{% if page.path contains 'books' %}
+    <!-- Twitter card image for books -->
+    {% capture slugTitle %}{{ page.title | slugify }}{% endcapture %}
+    {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
+    {% capture cardImageUrl %}{{ folderPath }}/jpg/{{ slugTitle }}.jpg{% endcapture %}
+
+    <!-- Description for twitter card -->
+    {% capture cardAuthors %}{{ page.authors | join: " and " }}{% endcapture %}
+    {% capture cardDescription %}Book by {{ cardAuthors }}{% endcapture %}
+{% endif %}
+
 <title>{{ fullTitle }}</title>
 <meta name="description" content="{{ site.description }}">
 
@@ -25,19 +37,7 @@
 <meta property="og:title" content="{{ fullTitle }}">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
-<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
-
-
-{% if page.path contains 'books' %}
-    <!-- Twitter card image for books -->
-    {% capture slugTitle %}{{ page.title | slugify }}{% endcapture %}
-    {% capture folderPath %}/assets/images/bitcoin/books{% endcapture %}
-    {% capture cardImageUrl %}{{ folderPath }}/jpg/{{ slugTitle }}.jpg{% endcapture %}
-
-    <!-- Description for twitter card -->
-    {% capture cardAuthors %}{{ page.authors | join: " and " }}{% endcapture %}
-    {% capture cardDescription %}Book by {{ cardAuthors }}{% endcapture %}
-{% endif %}
+<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% elsif cardImageUrl%}{{ cardImageUrl | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
 <!-- Twitter cards -->
 <meta name="twitter:site"    content="@{{ site.title }}">
