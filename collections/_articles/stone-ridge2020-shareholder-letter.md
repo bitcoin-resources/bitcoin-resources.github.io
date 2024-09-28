@@ -1,6 +1,6 @@
 ---
 layout: page-article
-author: Ross L. Stevens
+author: Ross Stevens
 title: "Stone Ridge 2020 Shareholder Letter"
 link: https://www.microstrategy.com/en/bitcoin/documents/stone-ridge-2020-shareholder-letter
 category: A Social Revolution
