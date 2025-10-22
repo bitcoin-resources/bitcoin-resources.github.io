@@ -14,7 +14,7 @@ description: Curated Bitcoin books.
 For you CTRL+F freaks.
 
 Also make sure to check out [bitcoiner books](https://www.bitcoinerbooks.com/)
-and [JBP's list of great books](https://www.jordanbpeterson.com/great-books/).
+and [JBP's list of recommended literature](https://www.jordanbpeterson.com/books/#:~:text=RECOMMENDED).
 
 {% include books-list.html %}
 
