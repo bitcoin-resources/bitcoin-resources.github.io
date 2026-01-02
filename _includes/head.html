@@ -30,7 +30,7 @@
 
 <meta itemprop="name" content="{{ site.name }}">
 <meta itemprop="description" content="{% if page.description and page.description.size > 0 %}{{ page.description | escape }}{% elsif cardDescription %}{{ cardDescription | escape }}{% else %}{{ site.description }}{% endif %}">
-<meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
+<meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url }}{% elsif cardImageUrl %}{{ cardImageUrl | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:type" content="website">
@@ -40,7 +40,7 @@
 <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% elsif cardImageUrl%}{{ cardImageUrl | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
 <!-- Twitter cards -->
-<meta name="twitter:site"    content="@{{ site.title }}">
+<meta name="twitter:site"    content="@BtcResources">
 <meta name="twitter:creator" content="@{{ site.twitter_username }}">
 <meta name="twitter:title"   content="{{ fullTitle }}">
 <meta name="twitter:url"     content="{{ page.url | absolute_url }}">
