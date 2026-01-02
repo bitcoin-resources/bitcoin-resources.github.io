@@ -29,23 +29,23 @@
 <meta name="description" content="{{ site.description }}">
 
 <meta itemprop="name" content="{{ site.name }}">
-<meta itemprop="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
-<meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
+<meta itemprop="description" content="{% if page.description and page.description.size > 0 %}{{ page.description | escape }}{% elsif cardDescription %}{{ cardDescription | escape }}{% else %}{{ site.description }}{% endif %}">
+<meta itemprop="image" content="{% if page.image %}{{ page.image | absolute_url }}{% elsif cardImageUrl %}{{ cardImageUrl | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{{ fullTitle }}">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:description" content="{% if page.description and page.description.size > 0 %}{{ page.description | escape }}{% elsif cardDescription %}{{ cardDescription | escape }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% elsif cardImageUrl%}{{ cardImageUrl | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
 <!-- Twitter cards -->
-<meta name="twitter:site"    content="@{{ site.title }}">
+<meta name="twitter:site"    content="@{{ site.twitter_site }}">
 <meta name="twitter:creator" content="@{{ site.twitter_username }}">
 <meta name="twitter:title"   content="{{ fullTitle }}">
 <meta name="twitter:url"     content="{{ page.url | absolute_url }}">
 
-{% if page.description %}
+{% if page.description and page.description.size > 0 %}
 <meta name="twitter:description" content="{{ page.description | escape }}">
 {% elsif cardDescription %}
 <meta name="twitter:description" content="{{ cardDescription | escape }}">
@@ -57,7 +57,7 @@
 <meta name="twitter:card"  content="summary_large_image">
 <meta name="twitter:image" content="{{ page.image | absolute_url }}">
 {% elsif cardImageUrl %}
-<meta name="twitter:card"  content="summary">
+<meta name="twitter:card"  content="summary_large_image">
 <meta name="twitter:image" content="{{ cardImageUrl | absolute_url }}">
 {% else %}
 <meta name="twitter:card"  content="summary">
