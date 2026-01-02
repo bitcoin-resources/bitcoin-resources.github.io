@@ -40,7 +40,7 @@
 <meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% elsif cardImageUrl%}{{ cardImageUrl | absolute_url }}{% else %}{{ site.default_img | absolute_url }}{% endif %}">
 
 <!-- Twitter cards -->
-<meta name="twitter:site"    content="@BtcResources">
+<meta name="twitter:site"    content="@{{ site.twitter_site }}">
 <meta name="twitter:creator" content="@{{ site.twitter_username }}">
 <meta name="twitter:title"   content="{{ fullTitle }}">
 <meta name="twitter:url"     content="{{ page.url | absolute_url }}">
