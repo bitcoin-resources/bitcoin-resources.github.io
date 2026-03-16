@@ -16,7 +16,7 @@ default_img: /assets/images/avatar.png
 social:
   - name: nostr
     url: https://njump.to/npub1ressrcmqgvqz3xuxdtamxmmv9ve6rxcf99fd694s6hutntfvcmdqvn56zk
-    icon: custom
+    icon: feather
   - name: github
     url: https://github.com/bitcoin-resources/bitcoin-resources.github.io
   - name: bitcoin

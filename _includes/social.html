@@ -1,7 +1,7 @@
 {% if site.social %}
   <ul class="footer__social">
     {% for social in site.social %}
-      <li><a href="{{ social['url'] }}" target="_blank">{% if social['icon'] == 'custom' %}<img class="social-icon" src="/assets/images/{{ social['name'] }}-icon.svg" alt="{{ social['name'] }}" style="width:1.25em;height:1.25em;vertical-align:middle;filter:invert(1)">{% else %}<i class="fab fa-{{ social['name'] }}"></i>{% endif %}</a></li>
+      <li><a href="{{ social['url'] }}" target="_blank">{% if social['icon'] %}<i class="fas fa-{{ social['icon'] }}"></i>{% else %}<i class="fab fa-{{ social['name'] }}"></i>{% endif %}</a></li>
     {% endfor %}
   </ul>
 {% endif %}
