@@ -14,8 +14,9 @@ twitter_username: dergigi
 twitter_site: BtcResources
 default_img: /assets/images/avatar.png
 social:
-  - name: twitter
-    url: https://twitter.com/BtcResources
+  - name: nostr
+    url: https://njump.to/npub1ressrcmqgvqz3xuxdtamxmmv9ve6rxcf99fd694s6hutntfvcmdqvn56zk
+    icon: custom
   - name: github
     url: https://github.com/bitcoin-resources/bitcoin-resources.github.io
   - name: bitcoin
