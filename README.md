@@ -27,7 +27,7 @@ You might have to install `gulp` globally, which you can do with `npm install --
 
 ### Support
 
-You can follow [the project on nostr](https://njump.me/npub1ressrcmqgvqz3xuxdtamxmmv9ve6rxcf99fd694s6hutntfvcmdqvn56zk), share the project, [contribute](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md), [donate](https://bitcoin-resources.com/donate/), or [support me](https://dergigi.com/support/) directly.
+You can follow [the project on nostr](https://njump.to/npub1ressrcmqgvqz3xuxdtamxmmv9ve6rxcf99fd694s6hutntfvcmdqvn56zk), share the project, [contribute](https://github.com/bitcoin-resources/bitcoin-resources.github.io/blob/master/CONTRIBUTING.md), [donate](https://bitcoin-resources.com/donate/), or [support me](https://dergigi.com/support/) directly.
 
 
 ---
