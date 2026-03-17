@@ -10,7 +10,7 @@ authors_twitter: ['https://twitter.com/ioerror']
 resource_url: https://cryptome.wikileaks.org/2012/12/assange-crypto-arms.htm
 amazon_url: https://amzn.to/3wSQdzT
 wikipedia_url: https://en.wikipedia.org/wiki/Cypherpunks_(book)
-free_url: https://ia903007.us.archive.org/22/items/JulianAssangeCypherpunks/Julian%20Assange%20-%20Cypherpunks.pdf
+free_url: https://archive.org/details/cypherpunksfreed0000assa
 summary_url: 
 rating_order: 6
 lesson: ['20']

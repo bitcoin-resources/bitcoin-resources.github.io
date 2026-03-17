@@ -7,7 +7,7 @@ essential:
 category: energy
 authors: ['Kenn Amdahl']
 authors_twitter: ['https://twitter.com/kennamdahl']
-resource_url: http://www.clearwaterpublishing.com/there-are-no-electrons-electronics-for-earthling/
+resource_url:
 amazon_url: https://amzn.to/3SsQrJq
 wikipedia_url: 
 free_url: 
