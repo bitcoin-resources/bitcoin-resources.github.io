@@ -16,7 +16,7 @@ rating_order: 3
 lesson: ['']
 quote: ""
 audio_url: https://anchor.fm/cryptoecon
-free_audio_url: https://towardsliberty.com/agora/s/aa8WsHYNyBwzqmT/download/Eric%20Voskuil%20-%20Cryptoeconomics_Fundamental%20Principles%20of%20Bitcoin.mp3
+free_audio_url: https://fountain.fm/show/vepXZsxaRESk5FwWOHO8
 goodreads_url: 
 description: ""
 ---

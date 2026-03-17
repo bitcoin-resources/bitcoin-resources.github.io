@@ -7,10 +7,10 @@ essential:
 category: non-technical
 authors: ['Allen Farrington', ' Sacha Meyers']
 authors_twitter: ['https://twitter.com/allenf32/']
-resource_url: https://www.uncerto.com/book-pdf
+resource_url: https://europeanbitcoiners.com/bitcoin-is-venice/
 amazon_url: https://amzn.to/39qRrvP
 wikipedia_url: 
-free_url: https://www.uncerto.com/book-pdf
+free_url: https://europeanbitcoiners.com/content/files/2022/07/Bitcoin-Is-Venice-Allen-Farrington---Sacha-Meyers.pdf
 summary_url: 
 rating_order: 
 lesson: ['']
