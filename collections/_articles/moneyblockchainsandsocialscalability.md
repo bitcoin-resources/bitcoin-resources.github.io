@@ -6,7 +6,7 @@ link: http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scal
 category: Money
 date: Feb 9, 2017
 lesson: 11
-audio: https://bitcoinaudible.com/money-blockchains-and-social-scalability/
+audio: https://bitcoinaudible.com/read_066-money-blockchains-and-social-scalability/
 audio2: 
 audio3: 
 star: 

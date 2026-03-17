@@ -2,7 +2,7 @@
 layout: page-article
 author: Ken Thompson
 title: "Reflections on Trusting Trust"
-link: https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf
+link: https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf
 category: Lesson Links
 date: Aug 1, 1984
 lesson: 16

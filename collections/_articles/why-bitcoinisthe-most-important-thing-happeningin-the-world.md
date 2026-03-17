@@ -6,7 +6,7 @@ link: https://tomerstrolight.medium.com/why-bitcoin-is-the-most-important-thing-
 category: 
 date: Apr 11, 2021
 lesson: 
-audio: https://bitcoinaudible.com/audiobooks-%F0%9F%86%95/
+audio:
 audio2: 
 audio3: 
 star: 
