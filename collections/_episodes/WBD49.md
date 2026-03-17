@@ -7,6 +7,6 @@ hosts: Peter McCormack
 date: Nov 21, 2018
 guest: Peter Van Valkenburg
 lesson: ['3']
-link: https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
+link: https://web.archive.org/web/2023/https://www.whatbitcoindid.com/podcast/coin-centers-peter-van-valkenburg-on-preserving-the-freedom-to-innovate-with-public-blockchains
 fav: 
 ---

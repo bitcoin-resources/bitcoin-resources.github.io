@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nick's Learning Resources
-link: https://nickbeaird.com/bitcoin
+link:
 author: Nick Beaird
 type: curation
 star: 
