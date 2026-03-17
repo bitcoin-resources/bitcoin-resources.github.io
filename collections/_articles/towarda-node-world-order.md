@@ -2,7 +2,7 @@
 layout: page-article
 author: Michael Goldstein
 title: "Toward a Node World Order"
-link: https://bitcointimes.com.au/toward-a-node-world-order/
+link: https://nakamotoinstitute.org/mempool/toward-a-node-world-order/
 category: Misc
 date: Nov 11, 2022
 lesson: 
