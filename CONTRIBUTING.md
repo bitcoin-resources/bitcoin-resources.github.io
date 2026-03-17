@@ -8,7 +8,7 @@ is to provide a well curated list of high quality bitcoin-only resources.
 ### Before you start
 
 * Make yourself familiar with the [existing content](https://bitcoin-resources.com)
-* Join our [Telegram chat group](https://t.me/BitcoinResourcesCom)
+* Join our [Matrix chat](https://matrix.to/#/#bitcoin-resources:matrix.dergigi.com)
 * Have a look at the [existing issues](https://github.com/bitcoin-resources/bitcoin-resources.github.io/issues)
 
 ### Agreeing on a change
