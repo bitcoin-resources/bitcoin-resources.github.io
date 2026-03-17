@@ -7,7 +7,7 @@ essential:
 category: money
 authors: ['Ferdinand Lips']
 authors_twitter: 
-resource_url: https://academy.saifedean.com/wp-content/uploads/2023/03/Lips-Gold-Wars.pdf
+resource_url: http://goldwars.org/
 amazon_url: https://www.amazon.com/dp/0971038007
 wikipedia_url: https://de.wikipedia.org/wiki/Ferdinand_Lips
 free_url: https://academy.saifedean.com/wp-content/uploads/2023/03/Lips-Gold-Wars.pdf
