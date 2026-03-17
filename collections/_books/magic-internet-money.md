@@ -7,7 +7,7 @@ essential:
 category: non-technical
 authors: ['Jesse Berger']
 authors_twitter: ['https://twitter.com/jayberjay']
-resource_url: https://www.magicbitcoinbook.com/
+resource_url:
 amazon_url: https://amzn.to/2MCq9XG
 wikipedia_url: 
 free_url: 
