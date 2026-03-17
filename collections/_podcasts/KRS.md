@@ -3,7 +3,7 @@ layout: page
 code: KRS
 name: The Kevin Rooke Show
 hosts: Kevin Rooke
-link: https://www.kevinrooke.com/podcast
+link: https://www.stacksats.how/podcast
 tier: 2
 ios: https://podcasts.apple.com/podcast/id1592522623
 android: ['https://subscribeonandroid.com/anchor.fm/s/71a8cc78/podcast/rss']

@@ -3,7 +3,7 @@ layout: page
 code: BAND
 name: Bitcoin and...
 hosts: David Bennet
-link: http://bitcoinand.net/bio.html
+link: https://davidbennett.me/
 tier: 2
 ios: https://podcasts.apple.com/us/podcast/bitcoin-and/id1438789088
 android: ['https://subscribeonandroid.com/feeds.soundcloud.com/users/soundcloud:users:108074218/sounds.rss']

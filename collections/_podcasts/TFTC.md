@@ -3,7 +3,7 @@ layout: page
 code: TFTC
 name: Tales From The Crypt
 hosts: Marty Bent with RHR co-host Matt Odell
-link: https://tftc.io/podcasts/
+link: https://tftc.io/
 tier: 1
 ios: https://podcasts.apple.com/us/podcast/tales-from-the-crypt/id1292381204
 android: ['https://subscribeonandroid.com/anchor.fm/s/558f520/podcast/rss']
