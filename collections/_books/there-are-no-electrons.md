@@ -7,7 +7,7 @@ essential:
 category: energy
 authors: ['Kenn Amdahl']
 authors_twitter: ['https://twitter.com/kennamdahl']
-resource_url: https://openlibrary.org/books/OL1646989M/There_are_no_electrons
+resource_url: http://www.clearwaterpublishing.com/there-are-no-electrons-electronics-for-earthling/
 amazon_url: https://amzn.to/3SsQrJq
 wikipedia_url: 
 free_url: 
