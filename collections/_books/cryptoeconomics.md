@@ -16,7 +16,7 @@ rating_order: 3
 lesson: ['']
 quote: ""
 audio_url: https://anchor.fm/cryptoecon
-free_audio_url:
+free_audio_url: https://fountain.fm/show/vepXZsxaRESk5FwWOHO8
 goodreads_url: 
 description: ""
 ---
