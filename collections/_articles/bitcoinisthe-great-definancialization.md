@@ -14,4 +14,5 @@ archive: https://archive.md/zlWUJ
 series: Gradually, Then Suddenly
 seriesnr: 16
 quote: ""
+image: /assets/images/bitcoin/articles/bitcoinisthe-great-definancialization.jpg
 ---

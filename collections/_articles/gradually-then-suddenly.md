@@ -14,4 +14,5 @@ archive: https://archive.ph/SslEF
 series: Gradually, Then Suddenly
 seriesnr: 1
 quote: ""
+image: /assets/images/bitcoin/articles/gradually-then-suddenly.jpg
 ---
