@@ -14,4 +14,5 @@ archive: https://archive.ph/sELYA
 series: Gradually, Then Suddenly
 seriesnr: 9
 quote: ""
+image: /assets/images/bitcoin/articles/bitcoin-is-nota-pyramid-scheme.jpg
 ---

@@ -14,4 +14,5 @@ archive: https://archive.md/fP6LU
 series: Gradually, Then Suddenly
 seriesnr: 2
 quote: "Everyone wants to get rich quick, and so long as there is money, there will also be alchemists. Those that attempt to copy bitcoin are our modern day alchemists."
+image: /assets/images/bitcoin/articles/bitcoin-cant-be-copied.jpg
 ---

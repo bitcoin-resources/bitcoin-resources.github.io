@@ -14,4 +14,5 @@ archive: https://archive.md/czDWc
 series: Gradually, Then Suddenly
 seriesnr: 4
 quote: ""
+image: /assets/images/bitcoin/articles/bitcoin-does-not-waste-energy.jpg
 ---

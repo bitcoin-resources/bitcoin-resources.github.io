@@ -14,4 +14,5 @@ archive: https://archive.md/mP0Mp
 series: Gradually, Then Suddenly
 seriesnr: 11
 quote: ""
+image: /assets/images/bitcoin/articles/bitcoin-is-not-for-criminals.jpg
 ---
