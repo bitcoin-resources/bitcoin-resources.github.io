@@ -14,4 +14,5 @@ archive: https://archive.ph/ZeOZ6
 series: 
 seriesnr: 
 quote: ""
+image: /assets/images/bitcoin/articles/bitcoinis-worseis-better.jpg
 ---
