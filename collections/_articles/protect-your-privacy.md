@@ -14,4 +14,5 @@ archive: https://archive.ph/k3Lne
 series: 
 seriesnr: 
 quote: ""
+image: /assets/images/bitcoin/articles/protect-your-privacy.jpg
 ---
