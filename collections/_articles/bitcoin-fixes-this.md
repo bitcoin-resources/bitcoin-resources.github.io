@@ -14,4 +14,5 @@ archive: https://archive.md/CME1a
 series: Gradually, Then Suddenly
 seriesnr: 6
 quote: ""
+image: /assets/images/bitcoin/articles/bitcoin-fixes-this.jpg
 ---
