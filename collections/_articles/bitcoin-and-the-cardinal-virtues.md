@@ -10,7 +10,7 @@ audio:
 audio2: 
 audio3: 
 star: 
-archive: 
+archive: https://web.archive.org/web/20250318144229/https://bitcoinmagazine.com/culture/how-bitcoin-instills-cardinal-virtues
 series: 
 seriesnr: 
 quote: "Bitcoin is a never-ending quest for knowledge and anyone who joins the expedition will in due time find themselves embracing the cardinal virtues."
