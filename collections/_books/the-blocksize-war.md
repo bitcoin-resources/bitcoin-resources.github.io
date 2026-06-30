@@ -14,9 +14,9 @@ free_url: https://blog.bitmex.com/the-blocksize-war-chapter-1-first-strike/
 summary_url: https://twitter.com/gladstein/status/1374054823012626432
 rating_order: 8
 lesson: ['4']
-quote: "Bitcoin is really just a vessel for your expectations, hopes, and dreams."
+quote: ""
 audio_url: https://amzn.to/3xN6AhB
 free_audio_url: 
 goodreads_url: 
-description: ""
+description: "Jonathan Bier chronicles the blocksize war that consumed Bitcoin from 2015 to 2017. What looked like a dispute over block limits became a deeper fight over governance, decentralization, and who ultimately sets Bitcoin’s rules. Drawing on front-line reporting and conversations with key participants, the book traces the personalities, proposals, and power plays behind one of the most important battles in Bitcoin history."
 ---
