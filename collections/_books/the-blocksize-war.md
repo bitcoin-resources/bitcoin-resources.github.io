@@ -14,7 +14,7 @@ free_url: https://blog.bitmex.com/the-blocksize-war-chapter-1-first-strike/
 summary_url: https://twitter.com/gladstein/status/1374054823012626432
 rating_order: 8
 lesson: ['4']
-quote: ""
+quote: "Bitcoin is really just a vessel for your expectations, hopes, and dreams."
 audio_url: https://amzn.to/3xN6AhB
 free_audio_url: 
 goodreads_url: 
