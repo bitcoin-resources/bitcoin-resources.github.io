@@ -6,7 +6,7 @@ link: https://tomerstrolight.medium.com/why-it-takes-both-time-and-energy-to-mak
 category: 
 date: Mar 22, 2021
 lesson: 
-audio: https://bitcoinaudible.com/audiobooks-%F0%9F%86%95/
+audio:
 audio2: 
 audio3: 
 star: 
