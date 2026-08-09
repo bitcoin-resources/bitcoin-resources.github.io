@@ -3,7 +3,7 @@ layout: page
 code: SBTV
 name: Simply Bitcoin TV
 hosts: Coinicarus and Nico
-link: https://simplybitcoin.tv/
+link: https://www.simplybitcoin.com/
 tier: 0
 ios: https://podcasts.apple.com/us/podcast/simply-bitcoin/id1596756460
 android: ['http://subscribeonandroid.com/anchor.fm/s/717a2198/podcast/rss']

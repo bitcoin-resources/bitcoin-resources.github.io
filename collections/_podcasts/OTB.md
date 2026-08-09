@@ -3,7 +3,7 @@ layout: page
 code: OTB
 name: On The Brink
 hosts: Nic Carter and Matt Walsh
-link: https://onthebrink-podcast.com/
+link: https://www.castleisland.vc/
 tier: 3
 ios: https://podcasts.apple.com/us/podcast/on-the-brink-with-castle-island/id1480586463
 android: ['https://subscribeonandroid.com/castleisland.libsyn.com/rss']
