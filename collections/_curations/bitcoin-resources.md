@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bitcoin Resources
-link: https://www.mcfloogle.com/bitcoin-resources/
+link:
 author: Rollo McFloogle
 type: curation
 star: 
