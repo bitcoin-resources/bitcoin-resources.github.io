@@ -14,5 +14,4 @@ archive: https://archive.md/GJVKT
 series: 
 seriesnr: 
 quote: ""
-image: /assets/images/bitcoin/articles/what-is-it-liketobea-bat.jpg
 ---

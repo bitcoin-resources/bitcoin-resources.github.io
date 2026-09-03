@@ -14,5 +14,4 @@ archive: https://archive.md/2pZqw
 series: Gradually, Then Suddenly
 seriesnr: 0
 quote: ""
-image: /assets/images/bitcoin/articles/enders-game.jpg
 ---

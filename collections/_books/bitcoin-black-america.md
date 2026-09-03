@@ -7,7 +7,7 @@ essential:
 category: non-technical
 authors: ['Isaiah Jackson']
 authors_twitter: ['https://twitter.com/bitcoinzay']
-resource_url: https://bitcoinmagazine.com/tags/bitcoin-and-black-america
+resource_url: https://bitcoinandblackamerica.com/
 amazon_url: https://amzn.to/2NROVDV
 wikipedia_url: 
 free_url: 

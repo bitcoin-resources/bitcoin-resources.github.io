@@ -7,7 +7,7 @@ essential:
 category: energy
 authors: ['Vaclav Smil']
 authors_twitter: ['https://twitter.com/VaclavSmil']
-resource_url: https://direct.mit.edu/books/book/3576/Energy-and-CivilizationA-History
+resource_url: https://vaclavsmil.com/2017/05/08/energy-and-civilization-a-history/
 amazon_url: https://amzn.to/3Q9urlq
 wikipedia_url: 
 free_url: 

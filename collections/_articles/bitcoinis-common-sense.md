@@ -14,5 +14,4 @@ archive: https://archive.ph/KQZvs
 series: Gradually, Then Suddenly
 seriesnr: 14
 quote: ""
-image: /assets/images/bitcoin/articles/bitcoinis-common-sense.jpg
 ---
