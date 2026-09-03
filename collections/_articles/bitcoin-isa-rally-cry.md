@@ -14,5 +14,4 @@ archive: https://archive.md/JD5d2
 series: Gradually, Then Suddenly
 seriesnr: 13
 quote: ""
-image: /assets/images/bitcoin/articles/bitcoin-isa-rally-cry.jpg
 ---

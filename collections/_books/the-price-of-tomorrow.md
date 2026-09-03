@@ -7,7 +7,7 @@ essential:
 category: macro
 authors: ['Jeff Booth']
 authors_twitter: ['https://twitter.com/JeffBooth']
-resource_url: https://jeffreybooth.com/
+resource_url: https://thepriceoftomorrow.com/
 amazon_url: https://amzn.to/3yX5scw
 wikipedia_url: 
 free_url: 

@@ -7,7 +7,7 @@ essential:
 category: kids
 authors: ['Michael Caras']
 authors_twitter: ['https://twitter.com/thebitcoinrabbi']
-resource_url: https://bitcoinmoneybook.com/
+resource_url: https://thebitcoinrabbi.com/bitcoin-money-book/
 amazon_url: https://amzn.to/39MFbAS
 wikipedia_url: 
 free_url: 

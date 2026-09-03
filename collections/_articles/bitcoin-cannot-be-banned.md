@@ -14,5 +14,4 @@ archive: https://archive.md/xR413
 series: Gradually, Then Suddenly
 seriesnr: 10
 quote: ""
-image: /assets/images/bitcoin/articles/bitcoin-cannot-be-banned.jpg
 ---

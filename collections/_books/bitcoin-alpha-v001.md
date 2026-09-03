@@ -7,7 +7,7 @@ essential:
 category: bitcoin-history
 authors: ['Pirate Hash']
 authors_twitter: ['https://twitter.com/piratehash']
-resource_url:
+resource_url: https://piratehash.com/product/bitcoin-alpha-v0-01/
 amazon_url: 
 wikipedia_url: 
 free_url: 

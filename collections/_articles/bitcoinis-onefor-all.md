@@ -14,5 +14,4 @@ archive: https://archive.md/J5h51
 series: Gradually, Then Suddenly
 seriesnr: 15
 quote: ""
-image: /assets/images/bitcoin/articles/bitcoinis-onefor-all.jpg
 ---
